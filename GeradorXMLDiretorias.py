@@ -6,24 +6,13 @@ import unicodedata
 import xml.dom.minidom as minidom
 import xml.etree.ElementTree as et
 
-#rquivo = open("diretorias_teste.txt", encoding="utf8")
-#txt = arquivo.read()
-#clean_text = unicodedata.normalize("NFKD", txt)
-# padraoBienios = re.findall(r'Biênio\s\d\d\d\d\s*-\s*\d\d\d\d', txt, re.UNICODE)
-# padraoPresidentes = re.findall(r'Presidente:.*', clean_text, re.UNICODE)
-
 root = et.Element('root')
 tree = et.ElementTree(root)
 with open('diretorias_teste.txt', encoding="utf8") as f:
     txt = f.read()
     clean_text = unicodedata.normalize("NFKD", txt)
     lines = clean_text.splitlines()
-
-# add first subelement
-
-
-# for every line in input file
-# group consecutive dedup to one
+#gerando iterador para ter acesso ao next()
 itr = iter(lines)
 for line in itr:
     # if its a break of subelements  - that is an empty space
@@ -47,6 +36,7 @@ for line in itr:
             ano_inicio.text = anos[0]
             ano_fim = et.SubElement(bienio, "ano_fim")
             ano_fim.text = anos[1]
+            
         elif ehcargo:
             cargo = search.group(0).replace(":", "")
 
@@ -66,19 +56,21 @@ for line in itr:
             nome.text = util.getnome(line)
 
             nomeinstituicao = util.get_instituicao(line)
-            instituicao = et.SubElement(cg, 'instituicao')
-            instituicao.text = nomeinstituicao
+            if nomeinstituicao != "":
+                instituicao = et.SubElement(cg, 'instituicao')
+                instituicao.text = nomeinstituicao
         elif ehconselho:
             line = next(itr)
-            print(line)
+
             cons = et.SubElement(bienio, 'conselheiro')
             nome = et.SubElement(cons, 'nome')
             nome.text = util.getnome(line)
             string = util.getnome(line)
-            print(string)
+
             nomeinstituicao = util.get_instituicao(line)
-            instituicao = et.SubElement(cons, 'instituicao')
-            instituicao.text = nomeinstituicao
+            if nomeinstituicao != "":
+                instituicao = et.SubElement(cons, 'instituicao')
+                instituicao.text = nomeinstituicao
 
             line = next(itr)
             cons = et.SubElement(bienio, 'conselheiro')
@@ -86,28 +78,29 @@ for line in itr:
             nome.text = util.getnome(line)
 
             nomeinstituicao = util.get_instituicao(line)
-            instituicao = et.SubElement(cons, 'instituicao')
-            instituicao.text = nomeinstituicao
+            if nomeinstituicao != "":
+                instituicao = et.SubElement(cons, 'instituicao')
+                instituicao.text = nomeinstituicao
 
             line = next(itr)
             cons = et.SubElement(bienio, 'conselheiro')
             nome = et.SubElement(cons, 'nome')
             nome.text = util.getnome(line)
-
             nomeinstituicao = util.get_instituicao(line)
-            instituicao = et.SubElement(cons, 'instituicao')
-            instituicao.text = nomeinstituicao
+            if nomeinstituicao != "":
+                instituicao = et.SubElement(cons, 'instituicao')
+                instituicao.text = nomeinstituicao
 
 
 f.close()
 #prettify xml
 
-#formatedXML = minidom.parseString(et.tostring(root)).toprettyxml(indent=" ", encoding='utf-8').strip()
-print(et.tostring(root, encoding='utf8', method='xml'))
+formatedXML = minidom.parseString(et.tostring(root)).toprettyxml(indent=" ").strip()
+print(formatedXML)
 
-tree.write('teste2.xml',  method='xml')
+tree.write('diretorias.xml',  method='xml')
 # write the formatedXML to file.
-# with open("Performance.xml","w+") as f:
-#    f.write(formatedXML)
+with io.open("DiretoriasFormatado.xml", "w+", encoding="utf-8") as f:
+    f.write(formatedXML)
 
 
