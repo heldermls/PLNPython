@@ -1,7 +1,7 @@
 # from xml.etree.ElementTree import Element,ElementTree
 import re
 import io
-import util_diretorias as util
+import util_strings as util
 import unicodedata
 import xml.dom.minidom as minidom
 import xml.etree.ElementTree as et
