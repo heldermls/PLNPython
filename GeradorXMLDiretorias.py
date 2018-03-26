@@ -8,7 +8,7 @@ import xml.etree.ElementTree as et
 
 root = et.Element('root')
 tree = et.ElementTree(root)
-with open('diretorias_teste.txt', encoding="utf8") as f:
+with open('Diretorias.txt', encoding="utf8") as f:
     txt = f.read()
     clean_text = unicodedata.normalize("NFKD", txt)
     lines = clean_text.splitlines()
@@ -36,7 +36,7 @@ for line in itr:
             ano_inicio.text = anos[0]
             ano_fim = et.SubElement(bienio, "ano_fim")
             ano_fim.text = anos[1]
-            
+
         elif ehcargo:
             cargo = search.group(0).replace(":", "")
 
@@ -96,9 +96,9 @@ f.close()
 #prettify xml
 
 formatedXML = minidom.parseString(et.tostring(root)).toprettyxml(indent=" ").strip()
-print(formatedXML)
+#print(formatedXML)
 
-tree.write('diretorias.xml',  method='xml')
+#tree.write('diretorias.xml',  method='xml')
 # write the formatedXML to file.
 with io.open("DiretoriasFormatado.xml", "w+", encoding="utf-8") as f:
     f.write(formatedXML)

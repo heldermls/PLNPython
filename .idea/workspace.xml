@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b647030c-e020-4c66-93de-2e1edea0a0b6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/DiretoriasFormatado.xml" afterPath="$PROJECT_DIR$/DiretoriasFormatado.xml" />
       <change beforePath="$PROJECT_DIR$/GeradorXMLDiretorias.py" afterPath="$PROJECT_DIR$/GeradorXMLDiretorias.py" />
-      <change beforePath="$PROJECT_DIR$/teste2.xml" afterPath="$PROJECT_DIR$/teste2.xml" />
-      <change beforePath="$PROJECT_DIR$/util_diretorias.py" afterPath="$PROJECT_DIR$/util_diretorias.py" />
+      <change beforePath="$PROJECT_DIR$/diretorias_teste.txt" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,21 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="diretorias_teste.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/diretorias_teste.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2006">
-              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="GeradorXMLDiretorias.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GeradorXMLDiretorias.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="38" column="12" lean-forward="false" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+            <state relative-caret-position="357">
+              <caret line="102" column="29" lean-forward="false" selection-start-line="102" selection-start-column="29" selection-end-line="102" selection-end-column="29" />
               <folding>
                 <element signature="e#56#65#0" expanded="true" />
               </folding>
@@ -285,8 +273,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GeradorXMLDiretorias.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="38" column="12" lean-forward="false" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+        <state relative-caret-position="357">
+          <caret line="102" column="29" lean-forward="false" selection-start-line="102" selection-start-column="29" selection-end-line="102" selection-end-column="29" />
           <folding>
             <element signature="e#56#65#0" expanded="true" />
           </folding>
