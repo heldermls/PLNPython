@@ -28,6 +28,15 @@
   </cargo>
  </participante>
  <participante>
+  <nome> Adrian Gurza Lavalle </nome>
+  <instituicao>USP</instituicao>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>2015</ano>
+   <ano>2016</ano>
+  </cargo>
+ </participante>
+ <participante>
   <nome> José Luiz de Amorim Ratton Júnior </nome>
   <instituicao>UFPE</instituicao>
   <cargo>
@@ -50,6 +59,33 @@
   <instituicao>UFRGS</instituicao>
   <cargo>
    <nomecargo>Diretor</nomecargo>
+   <ano>2015</ano>
+   <ano>2016</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Maria Laura Viveiros de Castro Cavalcanti  </nome>
+  <instituicao>UFRJ</instituicao>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>2015</ano>
+   <ano>2016</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Marcelo Kunrath Silva  </nome>
+  <instituicao>UFRGS</instituicao>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>2015</ano>
+   <ano>2016</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Yan de Souza Carreirão </nome>
+  <instituicao>UFSC</instituicao>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
    <ano>2015</ano>
    <ano>2016</ano>
   </cargo>
@@ -82,6 +118,15 @@
   </cargo>
  </participante>
  <participante>
+  <nome> Marcos César Alvarez </nome>
+  <instituicao>USP</instituicao>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>2013</ano>
+   <ano>2014</ano>
+  </cargo>
+ </participante>
+ <participante>
   <nome> Bruno Pinheiro Wanderley Reis  </nome>
   <instituicao>UFMG</instituicao>
   <cargo>
@@ -104,6 +149,33 @@
   <instituicao>UFRN</instituicao>
   <cargo>
    <nomecargo>Diretor</nomecargo>
+   <ano>2013</ano>
+   <ano>2014</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Angela Maria de Randolpho Paiva  </nome>
+  <instituicao>PUC RJ</instituicao>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>2013</ano>
+   <ano>2014</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Antonio Carlos Motta de Lima  </nome>
+  <instituicao>UFPE</instituicao>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>2013</ano>
+   <ano>2014</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Tullo Vigevani </nome>
+  <instituicao>UNESP MARÍLIA</instituicao>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
    <ano>2013</ano>
    <ano>2014</ano>
   </cargo>
@@ -163,6 +235,33 @@
   </cargo>
  </participante>
  <participante>
+  <nome>Angela Maria de Randolpho Paiva </nome>
+  <instituicao>PU Rio</instituicao>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>2011</ano>
+   <ano>2012</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Carlos Arturi </nome>
+  <instituicao>UFRGS</instituicao>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>2011</ano>
+   <ano>2012</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Carlos Guilherme O Valle </nome>
+  <instituicao>UFRN</instituicao>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>2011</ano>
+   <ano>2012</ano>
+  </cargo>
+ </participante>
+ <participante>
   <nome> Maria Alice Rezende de Carvalho </nome>
   <instituicao>PUC Rio</instituicao>
   <cargo>
@@ -212,6 +311,33 @@
   <instituicao>UFS</instituicao>
   <cargo>
    <nomecargo>Diretor</nomecargo>
+   <ano>2009</ano>
+   <ano>2010</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Lea Freitas Perez </nome>
+  <instituicao>UFMG</instituicao>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>2009</ano>
+   <ano>2010</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Ricardo Silva </nome>
+  <instituicao>UFSC</instituicao>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>2009</ano>
+   <ano>2010</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Ruth Vasconcelos Lopes Ferreira </nome>
+  <instituicao>UFAL</instituicao>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
    <ano>2009</ano>
    <ano>2010</ano>
   </cargo>
@@ -271,6 +397,33 @@
   </cargo>
  </participante>
  <participante>
+  <nome>Antonádia Monteiro Borges </nome>
+  <instituicao>UnB</instituicao>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>2007</ano>
+   <ano>2008</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Isabelle Braz Peixoto da Silva </nome>
+  <instituicao>UFC</instituicao>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>2007</ano>
+   <ano>2008</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Magda de Almeida Neves </nome>
+  <instituicao>PUC MG</instituicao>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>2007</ano>
+   <ano>2008</ano>
+  </cargo>
+ </participante>
+ <participante>
   <nome> Gabriel Cohn </nome>
   <instituicao>USP</instituicao>
   <cargo>
@@ -320,6 +473,33 @@
   <instituicao>UFRGS</instituicao>
   <cargo>
    <nomecargo>Diretor</nomecargo>
+   <ano>2005</ano>
+   <ano>2006</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Brasilmar Ferreira Nunes </nome>
+  <instituicao>UnB</instituicao>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>2005</ano>
+   <ano>2006</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Iracema Brandão Guimarães </nome>
+  <instituicao>UFBA</instituicao>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>2005</ano>
+   <ano>2006</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Carmen Silvia Rial </nome>
+  <instituicao>UFSC</instituicao>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
    <ano>2005</ano>
    <ano>2006</ano>
   </cargo>
@@ -379,6 +559,33 @@
   </cargo>
  </participante>
  <participante>
+  <nome>Lourdes Bandeira  </nome>
+  <instituicao>UnB</instituicao>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>2003</ano>
+   <ano>2004</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Marcio Caniello  </nome>
+  <instituicao>UFCG</instituicao>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>2003</ano>
+   <ano>2004</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Maria de Fátima Junho Anastásia </nome>
+  <instituicao>UFMG</instituicao>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>2003</ano>
+   <ano>2004</ano>
+  </cargo>
+ </participante>
+ <participante>
   <nome> Roque de Barros Laraia </nome>
   <instituicao>UnB</instituicao>
   <cargo>
@@ -428,6 +635,33 @@
   <instituicao>UFMG</instituicao>
   <cargo>
    <nomecargo>Diretor</nomecargo>
+   <ano>2001</ano>
+   <ano>2002</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Celi Regina Jardim Pinto </nome>
+  <instituicao>UFRGS</instituicao>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>2001</ano>
+   <ano>2002</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Joanildo A Burity </nome>
+  <instituicao>FUNDAJ</instituicao>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>2001</ano>
+   <ano>2002</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Rafael José de Menezes Bastos </nome>
+  <instituicao>UFCS</instituicao>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
    <ano>2001</ano>
    <ano>2002</ano>
   </cargo>
@@ -497,6 +731,30 @@
   </cargo>
  </participante>
  <participante>
+  <nome>Helena Bomeny </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>1999</ano>
+   <ano>2000</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Linda Gondim </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>1999</ano>
+   <ano>2000</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Renan Springer de Freitas </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>1999</ano>
+   <ano>2000</ano>
+  </cargo>
+ </participante>
+ <participante>
   <nome> Elisa Reis </nome>
   <cargo>
    <nomecargo>Presidente</nomecargo>
@@ -540,6 +798,30 @@
   <nome> Paulo I-Ienrique Martins </nome>
   <cargo>
    <nomecargo>Diretor</nomecargo>
+   <ano>1997</ano>
+   <ano>1998</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Alzira Alves de Abreu </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>1997</ano>
+   <ano>1998</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Brasília Carlos Ferreira </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>1997</ano>
+   <ano>1998</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Sônia Larangeira </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
    <ano>1997</ano>
    <ano>1998</ano>
   </cargo>
@@ -593,6 +875,30 @@
   </cargo>
  </participante>
  <participante>
+  <nome>Ângela Castro Gomes </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>1995</ano>
+   <ano>1996</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Jacob Carlos Lima </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>1995</ano>
+   <ano>1996</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Klaas Woortmann </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>1995</ano>
+   <ano>1996</ano>
+  </cargo>
+ </participante>
+ <participante>
   <nome> Aspásia Camargo </nome>
   <cargo>
    <nomecargo>Presidente</nomecargo>
@@ -636,6 +942,30 @@
   <nome> Joseph Pierre Sanchis </nome>
   <cargo>
    <nomecargo>Diretor</nomecargo>
+   <ano>1993</ano>
+   <ano>1994</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Celi Regina Jardim Pinto </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>1993</ano>
+   <ano>1994</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>José Ricardo Ramalho </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>1993</ano>
+   <ano>1994</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Michel Zaidan Filho </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
    <ano>1993</ano>
    <ano>1994</ano>
   </cargo>
@@ -689,6 +1019,30 @@
   </cargo>
  </participante>
  <participante>
+  <nome>Ana Maria Fernandes </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>1991</ano>
+   <ano>1992</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Raymundo Heraldo Maués </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>1991</ano>
+   <ano>1992</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Paula Montero </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>1991</ano>
+   <ano>1992</ano>
+  </cargo>
+ </participante>
+ <participante>
   <nome> Vilmar Evangelista de Faria </nome>
   <cargo>
    <nomecargo>Presidente</nomecargo>
@@ -732,6 +1086,30 @@
   <nome> Maria Suzana Arrosa Soares </nome>
   <cargo>
    <nomecargo>Diretor</nomecargo>
+   <ano>1989</ano>
+   <ano>1990</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Anete Brito Leal Ivo </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>1989</ano>
+   <ano>1990</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Eva Alterman Blay </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>1989</ano>
+   <ano>1990</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>João Gabriel Teixeira </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
    <ano>1989</ano>
    <ano>1990</ano>
   </cargo>
@@ -785,6 +1163,30 @@
   </cargo>
  </participante>
  <participante>
+  <nome>Ana Maria Quiroga Fausto Neto </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>1987</ano>
+   <ano>1988</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Celso José da Silva </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>1987</ano>
+   <ano>1988</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Pedro Ribeiro de Oliveira </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>1987</ano>
+   <ano>1988</ano>
+  </cargo>
+ </participante>
+ <participante>
   <nome> Hélgio Trindade </nome>
   <cargo>
    <nomecargo>Presidente</nomecargo>
@@ -828,6 +1230,30 @@
   <nome> Sílvio Maranhão </nome>
   <cargo>
    <nomecargo>Diretor</nomecargo>
+   <ano>1985</ano>
+   <ano>1986</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Edna Ramos de Castro </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>1985</ano>
+   <ano>1986</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Eduardo Viola </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>1985</ano>
+   <ano>1986</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Maria do Rosário Rolfsen </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
    <ano>1985</ano>
    <ano>1986</ano>
   </cargo>
@@ -881,6 +1307,30 @@
   </cargo>
  </participante>
  <participante>
+  <nome>José Hugo Ramos </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>1983</ano>
+   <ano>1984</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>René Armand Dreifuss </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>1983</ano>
+   <ano>1984</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Rosa Maria Godoy Silveira </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>1983</ano>
+   <ano>1984</ano>
+  </cargo>
+ </participante>
+ <participante>
   <nome> Fábio Wanderley Reis </nome>
   <cargo>
    <nomecargo>Presidente</nomecargo>
@@ -924,6 +1374,30 @@
   <nome> Ruth Corrêa Leite Cardoso </nome>
   <cargo>
    <nomecargo>Diretor</nomecargo>
+   <ano>1981</ano>
+   <ano>1982</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>José Hugo Ramos </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>1981</ano>
+   <ano>1982</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>René Armand Dreifuss </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>1981</ano>
+   <ano>1982</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Rosa Maria Godoy Silveira </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
    <ano>1981</ano>
    <ano>1982</ano>
   </cargo>
@@ -977,6 +1451,30 @@
   </cargo>
  </participante>
  <participante>
+  <nome>André Haguete </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>1979</ano>
+   <ano>1980</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Sadi Del’Rosso </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>1979</ano>
+   <ano>1980</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Vilmar Faria </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>1979</ano>
+   <ano>1980</ano>
+  </cargo>
+ </participante>
+ <participante>
   <nome> Francisco Corrêa Weffort </nome>
   <cargo>
    <nomecargo>Presidente</nomecargo>
@@ -1020,6 +1518,30 @@
   <nome> José Murilo de Carvalho </nome>
   <cargo>
    <nomecargo>Diretor</nomecargo>
+   <ano>1977</ano>
+   <ano>1978</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Eduardo Diatahy Bezerra de Menezes </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>1977</ano>
+   <ano>1978</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Maria Hermínia Tavares de Almeida </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
+   <ano>1977</ano>
+   <ano>1978</ano>
+  </cargo>
+ </participante>
+ <participante>
+  <nome>Roberto Cardoso de Oliveira </nome>
+  <cargo>
+   <nomecargo>Conselheiro</nomecargo>
    <ano>1977</ano>
    <ano>1978</ano>
   </cargo>

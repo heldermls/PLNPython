@@ -45,8 +45,8 @@ for line in lines:
                 instituicao = et.SubElement(participante, 'instituicao')
                 instituicao.text = nomeinstituicao
             comite = et.SubElement(participante, 'comite')
-            comite.text = cmt
             nomecomite = et.SubElement(comite, 'nomecomite')
+            nomecomite.text = cmt
             anoI = et.SubElement(comite, 'ano')
             anoI.text = anos[0]
             anoF = et.SubElement(comite, 'ano')

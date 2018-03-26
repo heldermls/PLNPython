@@ -8,6 +8,7 @@ import xml.etree.ElementTree as et
 
 root = et.Element('diretorias')
 tree = et.ElementTree(root)
+anos = [0,0]
 with open('diretorias.txt', encoding="utf8") as f:
     txt = f.read()
     clean_text = unicodedata.normalize("NFKD", txt)
@@ -17,7 +18,7 @@ itr = iter(lines)
 for line in itr:
     # if its a break of subelements  - that is an empty space
 
-    if not line:
+    if not line or bool(re.match(r'\s\s*', line)):
         # add the next subelement and get it as celldata
         # bienio = ET.SubElement(root, 'bienios')
         print("linha vazia")
@@ -38,25 +39,25 @@ for line in itr:
             ano_inicio = anos[0]
             ano_fim = anos[1]
 
-        if ehnome:
-            print(line)
-            #print(anos)
-        if ehcargo:
-            print(anos)
 
-            cgo = line.split(':')[0]
+        if ehcargo or ehnome:
 
-            cgo = cgo.replace(":", "")
-            cgo = cgo.replace(" ", "")
-            res = re.search(r'Adjunt.*', cgo)
-            if res != None:
-                cgo = "SecretariaAdjunta"
-            res = re.search(r'Executiv.*', cgo)
-            if res != None:
-                cgo = "SecretariaExecutiva"
-            res = re.search(r'Diret.*', cgo)
-            if res != None:
-                cgo = "Diretor"
+            if ehnome:
+                cgo = "Conselheiro"
+            else:
+                cgo = line.split(':')[0]
+                print(cgo)
+                cgo = cgo.replace(":", "")
+                cgo = cgo.replace(" ", "")
+                res = re.search(r'Adjunt.*', cgo)
+                if res != None:
+                    cgo = "SecretariaAdjunta"
+                res = re.search(r'Executiv.*', cgo)
+                if res != None:
+                    cgo = "SecretariaExecutiva"
+                res = re.search(r'Diret.*', cgo)
+                if res != None:
+                    cgo = "Diretor"
             participante = et.SubElement(root, "participante")
             nome = et.SubElement(participante, 'nome')
             nome.text = util.getnome(line)
