@@ -31,7 +31,7 @@ def getnome(line):
         remove = res.group(0)
         string = string.replace(remove, "")
 
-    return string
+    return string.strip()
 
 
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <comissoes>
  <participante>
-  <nome>Angela Alonso </nome>
+  <nome>Angela Alonso</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comitê Acadêmico</nomecomite>
@@ -10,7 +10,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Cornelia Eckert </nome>
+  <nome>Cornelia Eckert</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Comitê Acadêmico</nomecomite>
@@ -19,7 +19,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Fabiano Santos </nome>
+  <nome>Fabiano Santos</nome>
   <instituicao>IESP-UERJ</instituicao>
   <comite>
    <nomecomite>Comitê Acadêmico</nomecomite>
@@ -37,7 +37,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Adalberto Moreira Cardoso </nome>
+  <nome>Adalberto Moreira Cardoso</nome>
   <instituicao>IESP-UERJ</instituicao>
   <comite>
    <nomecomite>Comissão Editorial RBCS</nomecomite>
@@ -46,7 +46,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>André Pereira Botelho </nome>
+  <nome>André Pereira Botelho</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comissão Editorial RBCS</nomecomite>
@@ -55,7 +55,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Anete Brito Leal Ivo </nome>
+  <nome>Anete Brito Leal Ivo</nome>
   <instituicao>UFBA</instituicao>
   <comite>
    <nomecomite>Comissão Editorial RBCS</nomecomite>
@@ -64,7 +64,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Jose Mauricio Arruti </nome>
+  <nome>Jose Mauricio Arruti</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Comissão Editorial RBCS</nomecomite>
@@ -73,7 +73,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Álvaro Pires </nome>
+  <nome>Álvaro Pires</nome>
   <instituicao>Ottawa</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -82,7 +82,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Andrés Malamud </nome>
+  <nome>Andrés Malamud</nome>
   <instituicao>Universidade de Lisboa</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -91,7 +91,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Antonio Sérgio Guimarães </nome>
+  <nome>Antonio Sérgio Guimarães</nome>
   <instituicao>Usp</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -100,7 +100,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Arlene B. Tickner </nome>
+  <nome>Arlene B. Tickner</nome>
   <instituicao>Universidad de Los Andes</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -109,7 +109,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ben Ross Schneider </nome>
+  <nome>Ben Ross Schneider</nome>
   <instituicao>MIT</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -118,7 +118,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Bernard Lahire </nome>
+  <nome>Bernard Lahire</nome>
   <instituicao>Lyon</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -127,7 +127,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Bruno Reis </nome>
+  <nome>Bruno Reis</nome>
   <instituicao>UFMG</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -136,7 +136,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Carlo Severi </nome>
+  <nome>Carlo Severi</nome>
   <instituicao>École des hautes études en sciences sociales</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -145,7 +145,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Cesar Barreira </nome>
+  <nome>Cesar Barreira</nome>
   <instituicao>UFC</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -154,7 +154,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Cornélia Eckert </nome>
+  <nome>Cornélia Eckert</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -163,7 +163,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Eduardo Marques </nome>
+  <nome>Eduardo Marques</nome>
   <instituicao>Usp</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -172,7 +172,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Eveline Huber </nome>
+  <nome>Eveline Huber</nome>
   <instituicao>University of North Carolina</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -181,7 +181,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Fabiano Santos </nome>
+  <nome>Fabiano Santos</nome>
   <instituicao>Iesp/Uerj</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -190,7 +190,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Fernanda Arêas Peixoto </nome>
+  <nome>Fernanda Arêas Peixoto</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -199,7 +199,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>José Vicente Tavares dos Santos </nome>
+  <nome>José Vicente Tavares dos Santos</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -208,7 +208,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Leticia Pinheiro </nome>
+  <nome>Leticia Pinheiro</nome>
   <instituicao>Puc-Rio</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -217,7 +217,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Lucas Petroni </nome>
+  <nome>Lucas Petroni</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -226,7 +226,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Luiz Fernando Dias Duarte </nome>
+  <nome>Luiz Fernando Dias Duarte</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -235,7 +235,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Manuela Carneiro da Cunha </nome>
+  <nome>Manuela Carneiro da Cunha</nome>
   <instituicao>University of Chicago</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -244,7 +244,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marcelo Medeiros </nome>
+  <nome>Marcelo Medeiros</nome>
   <instituicao>UFPE</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -253,7 +253,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Michel Wieviorka </nome>
+  <nome>Michel Wieviorka</nome>
   <instituicao>EHESS/CNRS</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -262,7 +262,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Philippe Descola </nome>
+  <nome>Philippe Descola</nome>
   <instituicao>College de France</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -271,7 +271,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Tim Ingold </nome>
+  <nome>Tim Ingold</nome>
   <instituicao>University of Aberdeen</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -289,7 +289,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Artionka Manuela Góes Capiberibe </nome>
+  <nome>Artionka Manuela Góes Capiberibe</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Comissão Editorial BIB</nomecomite>
@@ -298,7 +298,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Cristina S. Pecequilo </nome>
+  <nome>Cristina S. Pecequilo</nome>
   <instituicao>UNIFESP</instituicao>
   <comite>
    <nomecomite>Comissão Editorial BIB</nomecomite>
@@ -307,7 +307,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Gabriel Feltran </nome>
+  <nome>Gabriel Feltran</nome>
   <instituicao>UFSCar</instituicao>
   <comite>
    <nomecomite>Comissão Editorial BIB</nomecomite>
@@ -316,7 +316,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Osmany Porto </nome>
+  <nome>Osmany Porto</nome>
   <instituicao>Unifesp</instituicao>
   <comite>
    <nomecomite>Comissão Editorial BIB</nomecomite>
@@ -325,7 +325,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Oswaldo E. do Amaral </nome>
+  <nome>Oswaldo E. do Amaral</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Comissão Editorial BIB</nomecomite>
@@ -334,7 +334,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Raíssa Whiby Ventura </nome>
+  <nome>Raíssa Whiby Ventura</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão Editorial BIB</nomecomite>
@@ -343,7 +343,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Alex Keyssar </nome>
+  <nome>Alex Keyssar</nome>
   <instituicao>University of Harvard</instituicao>
   <comite>
    <nomecomite>Conselho Editorial BIB</nomecomite>
@@ -352,7 +352,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Brasílio Sallum </nome>
+  <nome>Brasílio Sallum</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial BIB</nomecomite>
@@ -361,7 +361,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Charles Pessanha </nome>
+  <nome>Charles Pessanha</nome>
   <instituicao>UFF</instituicao>
   <comite>
    <nomecomite>Conselho Editorial BIB</nomecomite>
@@ -370,7 +370,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Edna Castro </nome>
+  <nome>Edna Castro</nome>
   <instituicao>NAEA/UFPA</instituicao>
   <comite>
    <nomecomite>Conselho Editorial BIB</nomecomite>
@@ -379,7 +379,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Elide Rugai Bastos </nome>
+  <nome>Elide Rugai Bastos</nome>
   <instituicao>Unicamp</instituicao>
   <comite>
    <nomecomite>Conselho Editorial BIB</nomecomite>
@@ -388,7 +388,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Letícia Calderón Chelius </nome>
+  <nome>Letícia Calderón Chelius</nome>
   <instituicao>Instituto Mora</instituicao>
   <comite>
    <nomecomite>Conselho Editorial BIB</nomecomite>
@@ -397,7 +397,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Lúcia Bogus </nome>
+  <nome>Lúcia Bogus</nome>
   <instituicao>PUC-SP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial BIB</nomecomite>
@@ -406,7 +406,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marcos Costa Lima </nome>
+  <nome>Marcos Costa Lima</nome>
   <instituicao>UFPE</instituicao>
   <comite>
    <nomecomite>Conselho Editorial BIB</nomecomite>
@@ -415,7 +415,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Helena de Castro Santos </nome>
+  <nome>Maria Helena de Castro Santos</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Conselho Editorial BIB</nomecomite>
@@ -424,7 +424,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Par Engstrom </nome>
+  <nome>Par Engstrom</nome>
   <instituicao>College of London</instituicao>
   <comite>
    <nomecomite>Conselho Editorial BIB</nomecomite>
@@ -433,7 +433,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ricardo Benzaquen de Araújo </nome>
+  <nome>Ricardo Benzaquen de Araújo</nome>
   <instituicao>PUC-Rio</instituicao>
   <comite>
    <nomecomite>Conselho Editorial BIB</nomecomite>
@@ -442,7 +442,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ruben George Oliven </nome>
+  <nome>Ruben George Oliven</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Conselho Editorial BIB</nomecomite>
@@ -451,7 +451,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Emerson Alessandro Giumbelli </nome>
+  <nome>Emerson Alessandro Giumbelli</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora Concurso ANPOCS</nomecomite>
@@ -460,7 +460,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marcos Ferreira da Costa Lima </nome>
+  <nome>Marcos Ferreira da Costa Lima</nome>
   <instituicao>UFPE</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora Concurso ANPOCS</nomecomite>
@@ -469,7 +469,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>John Comerford </nome>
+  <nome>John Comerford</nome>
   <instituicao>MN/UFRJ</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora Concurso ANPOCS</nomecomite>
@@ -478,7 +478,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Lucio Rennó </nome>
+  <nome>Lucio Rennó</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora Concurso ANPOCS</nomecomite>
@@ -487,7 +487,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marcelo Sampaio Carneiro </nome>
+  <nome>Marcelo Sampaio Carneiro</nome>
   <instituicao>UFMA</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora Concurso ANPOCS</nomecomite>
@@ -496,7 +496,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Rosário Gonçalves de Carvalho </nome>
+  <nome>Maria Rosário Gonçalves de Carvalho</nome>
   <instituicao>UFBA</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora Concurso ANPOCS</nomecomite>
@@ -505,7 +505,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Renato Perissinotto </nome>
+  <nome>Renato Perissinotto</nome>
   <instituicao>UFPR</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora Concurso ANPOCS</nomecomite>
@@ -514,7 +514,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ricardo Silva </nome>
+  <nome>Ricardo Silva</nome>
   <instituicao>UFSC</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora Concurso ANPOCS</nomecomite>
@@ -523,7 +523,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Roberto Véras de Oliveira </nome>
+  <nome>Roberto Véras de Oliveira</nome>
   <instituicao>UFPB</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora Concurso ANPOCS</nomecomite>
@@ -532,7 +532,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ana Luisa Sallas </nome>
+  <nome>Ana Luisa Sallas</nome>
   <instituicao>UFPR</instituicao>
   <comite>
    <nomecomite>Comissão de Imagem e Som</nomecomite>
@@ -541,7 +541,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Edgar Teodoro da Cunha </nome>
+  <nome>Edgar Teodoro da Cunha</nome>
   <instituicao>UNESP</instituicao>
   <comite>
    <nomecomite>Comissão de Imagem e Som</nomecomite>
@@ -550,7 +550,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Miguel Chaia </nome>
+  <nome>Miguel Chaia</nome>
   <instituicao>PUC-SP</instituicao>
   <comite>
    <nomecomite>Comissão de Imagem e Som</nomecomite>
@@ -559,7 +559,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Antônio Carlos de Souza Lima </nome>
+  <nome>Antônio Carlos de Souza Lima</nome>
   <instituicao>MN/UFRJ - ABA</instituicao>
   <comite>
    <nomecomite>Conselho de Assessoramento Institucional</nomecomite>
@@ -568,7 +568,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Carlos Benedito Martins </nome>
+  <nome>Carlos Benedito Martins</nome>
   <instituicao>UnB - SBS</instituicao>
   <comite>
    <nomecomite>Conselho de Assessoramento Institucional</nomecomite>
@@ -577,7 +577,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Eugênio Diniz </nome>
+  <nome>Eugênio Diniz</nome>
   <instituicao>PUC Minas - ABRI</instituicao>
   <comite>
    <nomecomite>Conselho de Assessoramento Institucional</nomecomite>
@@ -586,7 +586,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Guita Grin Debert </nome>
+  <nome>Guita Grin Debert</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Conselho de Assessoramento Institucional</nomecomite>
@@ -595,7 +595,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Gustavo Lins Ribeiro </nome>
+  <nome>Gustavo Lins Ribeiro</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Conselho de Assessoramento Institucional</nomecomite>
@@ -604,7 +604,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Luiz Werneck Vianna </nome>
+  <nome>Luiz Werneck Vianna</nome>
   <instituicao>PUC-Rio</instituicao>
   <comite>
    <nomecomite>Conselho de Assessoramento Institucional</nomecomite>
@@ -613,7 +613,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marcelo Ridenti </nome>
+  <nome>Marcelo Ridenti</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Conselho de Assessoramento Institucional</nomecomite>
@@ -622,7 +622,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marcos Costa Lima </nome>
+  <nome>Marcos Costa Lima</nome>
   <instituicao>UFPE</instituicao>
   <comite>
    <nomecomite>Conselho de Assessoramento Institucional</nomecomite>
@@ -631,7 +631,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Alice Rezende de Carvalho </nome>
+  <nome>Maria Alice Rezende de Carvalho</nome>
   <instituicao>PUC-Rio</instituicao>
   <comite>
    <nomecomite>Conselho de Assessoramento Institucional</nomecomite>
@@ -640,7 +640,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Arminda do Nascimento Arruda </nome>
+  <nome>Maria Arminda do Nascimento Arruda</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Conselho de Assessoramento Institucional</nomecomite>
@@ -649,7 +649,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Filomena Gregori </nome>
+  <nome>Maria Filomena Gregori</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Conselho de Assessoramento Institucional</nomecomite>
@@ -658,7 +658,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Hermínia Tavares de Almeida </nome>
+  <nome>Maria Hermínia Tavares de Almeida</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Conselho de Assessoramento Institucional</nomecomite>
@@ -667,7 +667,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Otavio Velho </nome>
+  <nome>Otavio Velho</nome>
   <instituicao>MN/UFRJ</instituicao>
   <comite>
    <nomecomite>Conselho de Assessoramento Institucional</nomecomite>
@@ -676,7 +676,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Renato Monseff Perissinotto </nome>
+  <nome>Renato Monseff Perissinotto</nome>
   <instituicao>UFPR -ABCP</instituicao>
   <comite>
    <nomecomite>Conselho de Assessoramento Institucional</nomecomite>
@@ -685,7 +685,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Roque de Barros Laraia </nome>
+  <nome>Roque de Barros Laraia</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Conselho de Assessoramento Institucional</nomecomite>
@@ -694,7 +694,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ruben Oliven </nome>
+  <nome>Ruben Oliven</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Conselho de Assessoramento Institucional</nomecomite>
@@ -703,7 +703,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Sergio Miceli </nome>
+  <nome>Sergio Miceli</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Conselho de Assessoramento Institucional</nomecomite>
@@ -712,7 +712,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Tullo Vigevani </nome>
+  <nome>Tullo Vigevani</nome>
   <instituicao>UNESP; San Tiago Dantas</instituicao>
   <comite>
    <nomecomite>Conselho de Assessoramento Institucional</nomecomite>
@@ -729,7 +729,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Conrado Hübner Mendes </nome>
+  <nome>Conrado Hübner Mendes</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Conselho de Assessoramento Institucional</nomecomite>
@@ -738,7 +738,7 @@
   </comite>
  </participante>
  <participante>
-  <nome> </nome>
+  <nome/>
   <comite>
    <nomecomite>Conselho de Assessoramento Institucional</nomecomite>
    <ano>2015</ano>
@@ -746,7 +746,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Claudia Lee Fonseca </nome>
+  <nome>Claudia Lee Fonseca</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Comitê Acadêmico</nomecomite>
@@ -755,7 +755,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Eduardo Viola </nome>
+  <nome>Eduardo Viola</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Comitê Acadêmico</nomecomite>
@@ -764,7 +764,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>José Ricardo Ramalho </nome>
+  <nome>José Ricardo Ramalho</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comitê Acadêmico</nomecomite>
@@ -782,7 +782,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Amâncio Jorge Nunes de Oliveira </nome>
+  <nome>Amâncio Jorge Nunes de Oliveira</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão Editorial RBCS</nomecomite>
@@ -791,7 +791,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Clarice Cohn </nome>
+  <nome>Clarice Cohn</nome>
   <instituicao>UFSCar</instituicao>
   <comite>
    <nomecomite>Comissão Editorial RBCS</nomecomite>
@@ -800,7 +800,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marco Antonio Gonçalves </nome>
+  <nome>Marco Antonio Gonçalves</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comissão Editorial RBCS</nomecomite>
@@ -818,7 +818,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Andre Botelho </nome>
+  <nome>Andre Botelho</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comissão Editorial do BIB</nomecomite>
@@ -827,7 +827,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Andrei Koener </nome>
+  <nome>Andrei Koener</nome>
   <instituicao>Unicamp</instituicao>
   <comite>
    <nomecomite>Comissão Editorial do BIB</nomecomite>
@@ -836,7 +836,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Arlei Sander Damo </nome>
+  <nome>Arlei Sander Damo</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Comissão Editorial do BIB</nomecomite>
@@ -845,7 +845,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Guita Grin Debert </nome>
+  <nome>Guita Grin Debert</nome>
   <instituicao>Unicamp</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -854,7 +854,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Luiz  Werneck Vianna </nome>
+  <nome>Luiz  Werneck Vianna</nome>
   <instituicao>PUC-Rio</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -863,7 +863,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marcelo Ridenti </nome>
+  <nome>Marcelo Ridenti</nome>
   <instituicao>Unicamp</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -872,7 +872,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marcos Costa Lima </nome>
+  <nome>Marcos Costa Lima</nome>
   <instituicao>UFPE</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -881,7 +881,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Alice Rezende de Carvalho </nome>
+  <nome>Maria Alice Rezende de Carvalho</nome>
   <instituicao>PUC-Rio</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -890,7 +890,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Arminda do Nascimento Arruda </nome>
+  <nome>Maria Arminda do Nascimento Arruda</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -899,7 +899,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Hermínia Tavares de Almeida </nome>
+  <nome>Maria Hermínia Tavares de Almeida</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -908,7 +908,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Otavio Velho </nome>
+  <nome>Otavio Velho</nome>
   <instituicao>MN/UFRJ</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -917,7 +917,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Roque de Barros Laraia </nome>
+  <nome>Roque de Barros Laraia</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -926,7 +926,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ruben Oliven </nome>
+  <nome>Ruben Oliven</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -935,7 +935,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Sergio Miceli </nome>
+  <nome>Sergio Miceli</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -944,7 +944,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Silke Weber </nome>
+  <nome>Silke Weber</nome>
   <instituicao>UFPE</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -953,7 +953,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Carla Teixeira </nome>
+  <nome>Carla Teixeira</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora dos  Concursos  ANPOCS</nomecomite>
@@ -962,7 +962,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Celina Souza </nome>
+  <nome>Celina Souza</nome>
   <instituicao>UFBA</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora dos  Concursos  ANPOCS</nomecomite>
@@ -971,7 +971,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Edmilson Lopes </nome>
+  <nome>Edmilson Lopes</nome>
   <instituicao>UFRN</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora dos  Concursos  ANPOCS</nomecomite>
@@ -980,7 +980,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Fernando Lattman-Weltman </nome>
+  <nome>Fernando Lattman-Weltman</nome>
   <instituicao>FGV/RJ</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora dos  Concursos  ANPOCS</nomecomite>
@@ -989,7 +989,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Lucila Scavone </nome>
+  <nome>Lucila Scavone</nome>
   <instituicao>UNESP</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora dos  Concursos  ANPOCS</nomecomite>
@@ -998,7 +998,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Luis Felipe Miguel </nome>
+  <nome>Luis Felipe Miguel</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora dos  Concursos  ANPOCS</nomecomite>
@@ -1007,7 +1007,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Laura Viveiros de Castro Cavalcanti </nome>
+  <nome>Maria Laura Viveiros de Castro Cavalcanti</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora dos  Concursos  ANPOCS</nomecomite>
@@ -1025,7 +1025,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Russel Parry Scott </nome>
+  <nome>Russel Parry Scott</nome>
   <instituicao>UFPE</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora dos  Concursos  ANPOCS</nomecomite>
@@ -1034,7 +1034,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Claudia Turra Magni </nome>
+  <nome>Claudia Turra Magni</nome>
   <instituicao>UFPel</instituicao>
   <comite>
    <nomecomite>Comissão de Imagem e Som </nomecomite>
@@ -1043,7 +1043,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Esther Hamburger </nome>
+  <nome>Esther Hamburger</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão de Imagem e Som </nomecomite>
@@ -1052,7 +1052,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Paulo Menezes </nome>
+  <nome>Paulo Menezes</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão de Imagem e Som </nomecomite>
@@ -1061,7 +1061,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Rosemary Segurado </nome>
+  <nome>Rosemary Segurado</nome>
   <instituicao>PUCSP</instituicao>
   <comite>
    <nomecomite>Comissão de Imagem e Som </nomecomite>
@@ -1070,7 +1070,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Antonádia Monteiro Borges </nome>
+  <nome>Antonádia Monteiro Borges</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Comissão de Intercâmbio Internacional</nomecomite>
@@ -1079,7 +1079,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Renato Lessa </nome>
+  <nome>Renato Lessa</nome>
   <instituicao>UFF</instituicao>
   <comite>
    <nomecomite>Comissão de Intercâmbio Internacional</nomecomite>
@@ -1088,7 +1088,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Tom Dwyer </nome>
+  <nome>Tom Dwyer</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Comissão de Intercâmbio Internacional</nomecomite>
@@ -1097,7 +1097,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Tullo Vigevani </nome>
+  <nome>Tullo Vigevani</nome>
   <instituicao>CEDEC, UNESP</instituicao>
   <comite>
    <nomecomite>Comissão de Intercâmbio Internacional</nomecomite>
@@ -1106,7 +1106,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Adalberto Moreira Cardoso </nome>
+  <nome>Adalberto Moreira Cardoso</nome>
   <instituicao>IESP/UERJ</instituicao>
   <comite>
    <nomecomite>Comissão de Pós-Graduação</nomecomite>
@@ -1115,7 +1115,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Carlos Benedito Martins </nome>
+  <nome>Carlos Benedito Martins</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Comissão de Pós-Graduação</nomecomite>
@@ -1124,7 +1124,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Rafael Menezes Bastos </nome>
+  <nome>Rafael Menezes Bastos</nome>
   <instituicao>UFSC</instituicao>
   <comite>
    <nomecomite>Comissão de Pós-Graduação</nomecomite>
@@ -1133,7 +1133,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marcelo Ridenti </nome>
+  <nome>Marcelo Ridenti</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Comitê Acadêmico</nomecomite>
@@ -1142,7 +1142,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Peter Fry </nome>
+  <nome>Peter Fry</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comitê Acadêmico</nomecomite>
@@ -1151,7 +1151,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Tullo Vigevani </nome>
+  <nome>Tullo Vigevani</nome>
   <instituicao>CEDEC</instituicao>
   <comite>
    <nomecomite>Comitê Acadêmico</nomecomite>
@@ -1169,7 +1169,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Bila Sorj </nome>
+  <nome>Bila Sorj</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comissão Editorial RBCS</nomecomite>
@@ -1178,7 +1178,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Heloisa Pontes </nome>
+  <nome>Heloisa Pontes</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Comissão Editorial RBCS</nomecomite>
@@ -1187,7 +1187,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Eduardo Noronha </nome>
+  <nome>Eduardo Noronha</nome>
   <instituicao>UFSCar</instituicao>
   <comite>
    <nomecomite>Comissão Editorial RBCS</nomecomite>
@@ -1205,7 +1205,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>André Botelho </nome>
+  <nome>André Botelho</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comissão Editorial do BIB </nomecomite>
@@ -1214,7 +1214,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Andrei Koerner </nome>
+  <nome>Andrei Koerner</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Comissão Editorial do BIB </nomecomite>
@@ -1223,7 +1223,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Arlei Sander Damo </nome>
+  <nome>Arlei Sander Damo</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Comissão Editorial do BIB </nomecomite>
@@ -1232,7 +1232,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Gilberto Velho </nome>
+  <nome>Gilberto Velho</nome>
   <instituicao>MN/UFRJ</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -1241,7 +1241,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Guita Grin Debert </nome>
+  <nome>Guita Grin Debert</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -1250,7 +1250,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Alice Rezende de Carvalho </nome>
+  <nome>Maria Alice Rezende de Carvalho</nome>
   <instituicao>PUC-Rio</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -1259,7 +1259,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Hermínia Tavares de Almeida </nome>
+  <nome>Maria Hermínia Tavares de Almeida</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -1268,7 +1268,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ruben Oliven </nome>
+  <nome>Ruben Oliven</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -1277,7 +1277,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Sergio Miceli </nome>
+  <nome>Sergio Miceli</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -1286,7 +1286,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Silke Weber </nome>
+  <nome>Silke Weber</nome>
   <instituicao>UFPE</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -1295,7 +1295,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Peter Fry </nome>
+  <nome>Peter Fry</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comissão de Intercâmbio Internacional</nomecomite>
@@ -1304,7 +1304,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Renato Lessa </nome>
+  <nome>Renato Lessa</nome>
   <instituicao>UFF</instituicao>
   <comite>
    <nomecomite>Comissão de Intercâmbio Internacional</nomecomite>
@@ -1313,7 +1313,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Tullo Vigevani </nome>
+  <nome>Tullo Vigevani</nome>
   <instituicao>CEDEC</instituicao>
   <comite>
    <nomecomite>Comissão de Intercâmbio Internacional</nomecomite>
@@ -1322,7 +1322,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Brasilmar Ferreira Nunes </nome>
+  <nome>Brasilmar Ferreira Nunes</nome>
   <instituicao>UFF</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora dos  Concursos  ANPOCS</nomecomite>
@@ -1331,7 +1331,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Carlos Steil </nome>
+  <nome>Carlos Steil</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora dos  Concursos  ANPOCS</nomecomite>
@@ -1340,7 +1340,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Cynthia Sarti </nome>
+  <nome>Cynthia Sarti</nome>
   <instituicao>UNIFESP</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora dos  Concursos  ANPOCS</nomecomite>
@@ -1349,7 +1349,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Dulce Pandolfi </nome>
+  <nome>Dulce Pandolfi</nome>
   <instituicao>CPDOC/FGV-RJ</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora dos  Concursos  ANPOCS</nomecomite>
@@ -1358,7 +1358,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ernani Carvalho </nome>
+  <nome>Ernani Carvalho</nome>
   <instituicao>UFPE</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora dos  Concursos  ANPOCS</nomecomite>
@@ -1367,7 +1367,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Irlys Alencar Firmo Barreira </nome>
+  <nome>Irlys Alencar Firmo Barreira</nome>
   <instituicao>UFC</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora dos  Concursos  ANPOCS</nomecomite>
@@ -1376,7 +1376,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Rafael Devos </nome>
+  <nome>Rafael Devos</nome>
   <instituicao>UFSC</instituicao>
   <comite>
    <nomecomite>Comissão de Imagem e Som</nomecomite>
@@ -1385,7 +1385,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Vera Chaia </nome>
+  <nome>Vera Chaia</nome>
   <instituicao>PUC-SP</instituicao>
   <comite>
    <nomecomite>Comissão de Imagem e Som</nomecomite>
@@ -1394,7 +1394,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marco Antonio Gonçalves </nome>
+  <nome>Marco Antonio Gonçalves</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comissão de Imagem e Som</nomecomite>
@@ -1403,7 +1403,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marina Soler </nome>
+  <nome>Marina Soler</nome>
   <instituicao>UNIFESP</instituicao>
   <comite>
    <nomecomite>Comissão de Imagem e Som</nomecomite>
@@ -1412,7 +1412,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Carlos Benedito Martins </nome>
+  <nome>Carlos Benedito Martins</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Comissão de Pós-graduação</nomecomite>
@@ -1421,7 +1421,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marcio Ferreira da Silva </nome>
+  <nome>Marcio Ferreira da Silva</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão de Pós-graduação</nomecomite>
@@ -1430,7 +1430,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Argelina Cheibub Figueiredo </nome>
+  <nome>Argelina Cheibub Figueiredo</nome>
   <instituicao>IESP/UERJ</instituicao>
   <comite>
    <nomecomite>Comissão de Pós-graduação</nomecomite>
@@ -1439,7 +1439,7 @@
   </comite>
  </participante>
  <participante>
-  <nome> </nome>
+  <nome/>
   <comite>
    <nomecomite>Comissão de Pós-graduação</nomecomite>
    <ano>2011</ano>
@@ -1447,7 +1447,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Celina Souza </nome>
+  <nome>Celina Souza</nome>
   <instituicao>UFBA</instituicao>
   <comite>
    <nomecomite>Comitê Acadêmico</nomecomite>
@@ -1456,7 +1456,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Heloisa Pontes </nome>
+  <nome>Heloisa Pontes</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Comitê Acadêmico</nomecomite>
@@ -1465,7 +1465,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>José Ricardo Ramalho </nome>
+  <nome>José Ricardo Ramalho</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comitê Acadêmico</nomecomite>
@@ -1483,7 +1483,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Márcia Lima </nome>
+  <nome>Márcia Lima</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão Editorial RBCS</nomecomite>
@@ -1492,7 +1492,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marco Aurélio Nogueira </nome>
+  <nome>Marco Aurélio Nogueira</nome>
   <instituicao>UNESP</instituicao>
   <comite>
    <nomecomite>Comissão Editorial RBCS</nomecomite>
@@ -1501,7 +1501,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marcos Cesar Alvarez </nome>
+  <nome>Marcos Cesar Alvarez</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão Editorial RBCS</nomecomite>
@@ -1510,7 +1510,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Filomena Gregori </nome>
+  <nome>Maria Filomena Gregori</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Comissão Editorial RBCS</nomecomite>
@@ -1519,7 +1519,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Adriana Resende Barreto Vianna </nome>
+  <nome>Adriana Resende Barreto Vianna</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -1528,7 +1528,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>André Pereira Botelho  </nome>
+  <nome>André Pereira Botelho</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -1537,7 +1537,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ângela Alonso  </nome>
+  <nome>Ângela Alonso</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -1546,7 +1546,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Bernard Manin  </nome>
+  <nome>Bernard Manin</nome>
   <instituicao>New York University</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -1555,7 +1555,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Carmen Silvia Rial  </nome>
+  <nome>Carmen Silvia Rial</nome>
   <instituicao>UFSC</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -1564,7 +1564,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Celi Regina Jardim Pinto </nome>
+  <nome>Celi Regina Jardim Pinto</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -1573,7 +1573,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Claudia Lee Fonseca </nome>
+  <nome>Claudia Lee Fonseca</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -1582,7 +1582,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Eduardo Garuti Noronha  </nome>
+  <nome>Eduardo Garuti Noronha</nome>
   <instituicao>UFSCar</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -1591,7 +1591,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Fabio Wanderley Reis </nome>
+  <nome>Fabio Wanderley Reis</nome>
   <instituicao>UFMG</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -1600,7 +1600,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Guilherme Simões Gomes Jr.  </nome>
+  <nome>Guilherme Simões Gomes Jr.</nome>
   <instituicao>PUC-SP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -1609,7 +1609,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Irlys Alencar Firmo Barreira  </nome>
+  <nome>Irlys Alencar Firmo Barreira</nome>
   <instituicao>UFC</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -1618,7 +1618,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Jane Felipe Beltrão  </nome>
+  <nome>Jane Felipe Beltrão</nome>
   <instituicao>UFPA</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -1627,7 +1627,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Luiz Roberto Cardoso de Oliveira  </nome>
+  <nome>Luiz Roberto Cardoso de Oliveira</nome>
   <instituicao>UNB</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -1636,7 +1636,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Manuel Villaverde Cabral  </nome>
+  <nome>Manuel Villaverde Cabral</nome>
   <instituicao>Universidade de Lisboa</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -1645,7 +1645,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marcelo Gantus Jasmin  </nome>
+  <nome>Marcelo Gantus Jasmin</nome>
   <instituicao>IUPERJ</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -1654,7 +1654,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marcus André de Mello  </nome>
+  <nome>Marcus André de Mello</nome>
   <instituicao>UFPE</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -1663,7 +1663,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Miriam Cristina Marcilio Rabelo  </nome>
+  <nome>Miriam Cristina Marcilio Rabelo</nome>
   <instituicao>UFBA</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -1672,7 +1672,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Nadya Araújo Guimarães  </nome>
+  <nome>Nadya Araújo Guimarães</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -1681,7 +1681,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Renato Monseff Perissinoto  </nome>
+  <nome>Renato Monseff Perissinoto</nome>
   <instituicao>UFPR</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -1690,7 +1690,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Verena Stolcke </nome>
+  <nome>Verena Stolcke</nome>
   <instituicao>Universidad Autonoma de Barcelona</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -1708,7 +1708,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Bila Sorj </nome>
+  <nome>Bila Sorj</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comissão Editorial do BIB </nomecomite>
@@ -1717,7 +1717,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Sergio Carrara </nome>
+  <nome>Sergio Carrara</nome>
   <instituicao>UERJ</instituicao>
   <comite>
    <nomecomite>Comissão Editorial do BIB </nomecomite>
@@ -1726,7 +1726,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Argelina Cheibub Figueiredo </nome>
+  <nome>Argelina Cheibub Figueiredo</nome>
   <instituicao>IUPERJ</instituicao>
   <comite>
    <nomecomite>Comissão Editorial do BIB </nomecomite>
@@ -1735,7 +1735,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Leôncio Martins Rodrigues </nome>
+  <nome>Leôncio Martins Rodrigues</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -1744,7 +1744,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Luiz Werneck Vianna </nome>
+  <nome>Luiz Werneck Vianna</nome>
   <instituicao>IUPERJ</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -1753,7 +1753,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marcelo Ridenti </nome>
+  <nome>Marcelo Ridenti</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -1762,7 +1762,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Roque de Barros Laraia </nome>
+  <nome>Roque de Barros Laraia</nome>
   <instituicao>UNB</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -1771,7 +1771,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Rubem Oliven </nome>
+  <nome>Rubem Oliven</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -1780,7 +1780,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Tullo Vigevani </nome>
+  <nome>Tullo Vigevani</nome>
   <instituicao>UNESP</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -1789,7 +1789,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Antonio Carlos Souza Lima </nome>
+  <nome>Antonio Carlos Souza Lima</nome>
   <instituicao>MN/UFRJ</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora dos  Concursos  ANPOCS</nomecomite>
@@ -1798,7 +1798,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Bila Sorj </nome>
+  <nome>Bila Sorj</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora dos  Concursos  ANPOCS</nomecomite>
@@ -1807,7 +1807,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Cesar Barreira </nome>
+  <nome>Cesar Barreira</nome>
   <instituicao>UFC</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora dos  Concursos  ANPOCS</nomecomite>
@@ -1816,7 +1816,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Luiz Roberto Cardoso de Oliveira </nome>
+  <nome>Luiz Roberto Cardoso de Oliveira</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora dos  Concursos  ANPOCS</nomecomite>
@@ -1825,7 +1825,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marcelo Gantus Jasmin </nome>
+  <nome>Marcelo Gantus Jasmin</nome>
   <instituicao>IUPERJ</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora dos  Concursos  ANPOCS</nomecomite>
@@ -1834,7 +1834,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Rita Loureiro </nome>
+  <nome>Maria Rita Loureiro</nome>
   <instituicao>FGV/SP</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora dos  Concursos  ANPOCS</nomecomite>
@@ -1843,7 +1843,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Milton Lahuerta </nome>
+  <nome>Milton Lahuerta</nome>
   <instituicao>UNESP</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora dos  Concursos  ANPOCS</nomecomite>
@@ -1852,7 +1852,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Omar Ribeiro Thomaz </nome>
+  <nome>Omar Ribeiro Thomaz</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora dos  Concursos  ANPOCS</nomecomite>
@@ -1861,7 +1861,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ruben Barboza Filho </nome>
+  <nome>Ruben Barboza Filho</nome>
   <instituicao>UFJF</instituicao>
   <comite>
    <nomecomite>Comissão Julgadora dos  Concursos  ANPOCS</nomecomite>
@@ -1870,7 +1870,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ana Paula Cavalcanti Simeoni </nome>
+  <nome>Ana Paula Cavalcanti Simeoni</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão de Imagem e Som</nomecomite>
@@ -1879,7 +1879,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Cornelia Eckert </nome>
+  <nome>Cornelia Eckert</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Comissão de Imagem e Som</nomecomite>
@@ -1888,7 +1888,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Vera Chaia </nome>
+  <nome>Vera Chaia</nome>
   <instituicao>PUC-SP</instituicao>
   <comite>
    <nomecomite>Comissão de Imagem e Som</nomecomite>
@@ -1897,7 +1897,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Peter Fry </nome>
+  <nome>Peter Fry</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comissão de Intercâmbio Internacional</nomecomite>
@@ -1906,7 +1906,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Renato Lessa </nome>
+  <nome>Renato Lessa</nome>
   <instituicao>IUPERJ</instituicao>
   <comite>
    <nomecomite>Comissão de Intercâmbio Internacional</nomecomite>
@@ -1915,7 +1915,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Sergio Miceli </nome>
+  <nome>Sergio Miceli</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão de Intercâmbio Internacional</nomecomite>
@@ -1924,7 +1924,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Carlos Benedito Martins </nome>
+  <nome>Carlos Benedito Martins</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Comissão de Pós-graduação</nomecomite>
@@ -1933,7 +1933,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marcio Ferreira da Silva </nome>
+  <nome>Marcio Ferreira da Silva</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão de Pós-graduação</nomecomite>
@@ -1942,7 +1942,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Mônica Herz </nome>
+  <nome>Mônica Herz</nome>
   <instituicao>PUC-Rio</instituicao>
   <comite>
    <nomecomite>Comissão de Pós-graduação</nomecomite>
@@ -1951,7 +1951,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Gustavo Lins Ribeiro </nome>
+  <nome>Gustavo Lins Ribeiro</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Comitê Acadêmico </nomecomite>
@@ -1960,7 +1960,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Tereza Sadek  </nome>
+  <nome>Maria Tereza Sadek</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comitê Acadêmico </nomecomite>
@@ -1969,7 +1969,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ricardo Benzaquen Araujo </nome>
+  <nome>Ricardo Benzaquen Araujo</nome>
   <instituicao>IUPERJ</instituicao>
   <comite>
    <nomecomite>Comitê Acadêmico </nomecomite>
@@ -1987,7 +1987,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Angela Alonso </nome>
+  <nome>Angela Alonso</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão Editorial da RBCS </nomecomite>
@@ -1996,7 +1996,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Cláudio Couto  </nome>
+  <nome>Cláudio Couto</nome>
   <instituicao>PUC-SP</instituicao>
   <comite>
    <nomecomite>Comissão Editorial da RBCS </nomecomite>
@@ -2005,7 +2005,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Lilia Schwarcz </nome>
+  <nome>Lilia Schwarcz</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão Editorial da RBCS </nomecomite>
@@ -2014,7 +2014,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Nadya Guimarães </nome>
+  <nome>Nadya Guimarães</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão Editorial da RBCS </nomecomite>
@@ -2023,7 +2023,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Julio Assis Simões </nome>
+  <nome>Julio Assis Simões</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão Editorial da RBCS </nomecomite>
@@ -2032,7 +2032,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Alex Fiúza de Melo </nome>
+  <nome>Alex Fiúza de Melo</nome>
   <instituicao>UFPA</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -2041,7 +2041,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Anete Brito Leal Ivo </nome>
+  <nome>Anete Brito Leal Ivo</nome>
   <instituicao>UFBA</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -2050,7 +2050,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Bruno Wanderley Reis </nome>
+  <nome>Bruno Wanderley Reis</nome>
   <instituicao>UFMG</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -2059,7 +2059,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Fernando Antonio Azevedo </nome>
+  <nome>Fernando Antonio Azevedo</nome>
   <instituicao>UFSCar</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -2068,7 +2068,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Guita Grin Debert </nome>
+  <nome>Guita Grin Debert</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -2077,7 +2077,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Luiz Fernando Dias Duarte </nome>
+  <nome>Luiz Fernando Dias Duarte</nome>
   <instituicao>MN/UFRJ</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -2086,7 +2086,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marco Aurélio Nogueira </nome>
+  <nome>Marco Aurélio Nogueira</nome>
   <instituicao>UNESP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -2095,7 +2095,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marcos Chor Maio </nome>
+  <nome>Marcos Chor Maio</nome>
   <instituicao>FIOCRUZ</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -2104,7 +2104,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Paulo Henrique Martins </nome>
+  <nome>Paulo Henrique Martins</nome>
   <instituicao>UFPE</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -2113,7 +2113,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ricardo Antunes </nome>
+  <nome>Ricardo Antunes</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -2122,7 +2122,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Rogério Bastos Arantes </nome>
+  <nome>Rogério Bastos Arantes</nome>
   <instituicao>PUC/SP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -2131,7 +2131,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Tamara Benakouche </nome>
+  <nome>Tamara Benakouche</nome>
   <instituicao>UFSC</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS </nomecomite>
@@ -2149,7 +2149,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Emerson Alessandro Giumbelli </nome>
+  <nome>Emerson Alessandro Giumbelli</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comissão Editorial do BIB </nomecomite>
@@ -2158,7 +2158,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>José Sérgio Leite Lopes </nome>
+  <nome>José Sérgio Leite Lopes</nome>
   <instituicao>MN/UFRJ</instituicao>
   <comite>
    <nomecomite>Comissão Editorial do BIB </nomecomite>
@@ -2167,7 +2167,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Celi Scalon </nome>
+  <nome>Maria Celi Scalon</nome>
   <instituicao>IUPERJ</instituicao>
   <comite>
    <nomecomite>Comissão Editorial do BIB </nomecomite>
@@ -2176,7 +2176,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Jane Felipe Beltrão </nome>
+  <nome>Jane Felipe Beltrão</nome>
   <instituicao>UFPA </instituicao>
   <comite>
    <nomecomite>Conselho Editorial do BIB </nomecomite>
@@ -2185,7 +2185,7 @@
   </comite>
  </participante>
  <participante>
-  <nome> </nome>
+  <nome/>
   <comite>
    <nomecomite>Conselho Editorial do BIB </nomecomite>
    <ano>2007</ano>
@@ -2193,7 +2193,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>João Emanuel Evangelista de Oliveira </nome>
+  <nome>João Emanuel Evangelista de Oliveira</nome>
   <instituicao>UFRN</instituicao>
   <comite>
    <nomecomite>Conselho Editorial do BIB </nomecomite>
@@ -2202,7 +2202,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Jorge Zaverucha </nome>
+  <nome>Jorge Zaverucha</nome>
   <instituicao>UFPE</instituicao>
   <comite>
    <nomecomite>Conselho Editorial do BIB </nomecomite>
@@ -2211,7 +2211,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Lívio Sansone </nome>
+  <nome>Lívio Sansone</nome>
   <instituicao>UFBA</instituicao>
   <comite>
    <nomecomite>Conselho Editorial do BIB </nomecomite>
@@ -2220,7 +2220,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Lúcia Bógus </nome>
+  <nome>Lúcia Bógus</nome>
   <instituicao>PUC/SP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial do BIB </nomecomite>
@@ -2229,7 +2229,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Helena Bomeny </nome>
+  <nome>Helena Bomeny</nome>
   <instituicao>CPDOC-FGV/RJ</instituicao>
   <comite>
    <nomecomite>Conselho Editorial do BIB </nomecomite>
@@ -2238,7 +2238,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Paulo Roberto Neves Costa </nome>
+  <nome>Paulo Roberto Neves Costa</nome>
   <instituicao>UFPR</instituicao>
   <comite>
    <nomecomite>Conselho Editorial do BIB </nomecomite>
@@ -2247,7 +2247,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Roberto Grün </nome>
+  <nome>Roberto Grün</nome>
   <instituicao>UFSCar </instituicao>
   <comite>
    <nomecomite>Conselho Editorial do BIB </nomecomite>
@@ -2256,7 +2256,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Abílio Baeta Neves </nome>
+  <nome>Abílio Baeta Neves</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Comissão de Pós-graduação </nomecomite>
@@ -2265,7 +2265,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marcelo Medeiros </nome>
+  <nome>Marcelo Medeiros</nome>
   <instituicao>UFPE</instituicao>
   <comite>
    <nomecomite>Comissão de Pós-graduação </nomecomite>
@@ -2274,7 +2274,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Arminda do Nascimento Arruda </nome>
+  <nome>Maria Arminda do Nascimento Arruda</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão de Pós-graduação </nomecomite>
@@ -2283,7 +2283,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Miriam Pilar Grossi </nome>
+  <nome>Miriam Pilar Grossi</nome>
   <instituicao>UFSC</instituicao>
   <comite>
    <nomecomite>Comissão de Pós-graduação </nomecomite>
@@ -2292,7 +2292,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Antonio Flávio Pierucci </nome>
+  <nome>Antonio Flávio Pierucci</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional </nomecomite>
@@ -2301,7 +2301,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>César Barreira </nome>
+  <nome>César Barreira</nome>
   <instituicao>UFC</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional </nomecomite>
@@ -2310,7 +2310,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Cláudia Fonseca </nome>
+  <nome>Cláudia Fonseca</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional </nomecomite>
@@ -2319,7 +2319,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Gabriel Cohn </nome>
+  <nome>Gabriel Cohn</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional </nomecomite>
@@ -2328,7 +2328,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Gilberto Velho </nome>
+  <nome>Gilberto Velho</nome>
   <instituicao>MN/UFRJ</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional </nomecomite>
@@ -2337,7 +2337,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Luiz Werneck Viana </nome>
+  <nome>Luiz Werneck Viana</nome>
   <instituicao>IUPERJ</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional </nomecomite>
@@ -2346,7 +2346,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Roque de Barros Laraia </nome>
+  <nome>Roque de Barros Laraia</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional </nomecomite>
@@ -2355,7 +2355,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ari Pedro Oro </nome>
+  <nome>Ari Pedro Oro</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Comissão do Concurso ANPOCS </nomecomite>
@@ -2364,7 +2364,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Carlos Benedito Martins </nome>
+  <nome>Carlos Benedito Martins</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Comissão do Concurso ANPOCS </nomecomite>
@@ -2373,7 +2373,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Cícero Araújo </nome>
+  <nome>Cícero Araújo</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão do Concurso ANPOCS </nomecomite>
@@ -2382,7 +2382,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Alice Rezende de Carvalho </nome>
+  <nome>Maria Alice Rezende de Carvalho</nome>
   <instituicao>IUPERJ</instituicao>
   <comite>
    <nomecomite>Comissão do Concurso ANPOCS </nomecomite>
@@ -2391,7 +2391,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ana Luiza Carvalho da Rocha </nome>
+  <nome>Ana Luiza Carvalho da Rocha</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Comissão de Imagem e Som </nomecomite>
@@ -2400,7 +2400,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Clarice Peixoto </nome>
+  <nome>Clarice Peixoto</nome>
   <instituicao>UERJ</instituicao>
   <comite>
    <nomecomite>Comissão de Imagem e Som </nomecomite>
@@ -2409,7 +2409,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Mauro Luiz Rovai  </nome>
+  <nome>Mauro Luiz Rovai</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Comissão de Imagem e Som </nomecomite>
@@ -2418,7 +2418,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Miguel Chaia </nome>
+  <nome>Miguel Chaia</nome>
   <instituicao>PUC-SP</instituicao>
   <comite>
    <nomecomite>Comissão de Imagem e Som </nomecomite>
@@ -2427,7 +2427,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Paulo Menezes </nome>
+  <nome>Paulo Menezes</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão de Imagem e Som </nomecomite>
@@ -2436,7 +2436,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Alice Paiva Abreu </nome>
+  <nome>Alice Paiva Abreu</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comissão de Intercâmbio Internacional </nomecomite>
@@ -2445,7 +2445,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Hélgio Trindade </nome>
+  <nome>Hélgio Trindade</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Comissão de Intercâmbio Internacional </nomecomite>
@@ -2454,7 +2454,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Josefa Salete Cavalcanti </nome>
+  <nome>Josefa Salete Cavalcanti</nome>
   <instituicao>UFPE</instituicao>
   <comite>
    <nomecomite>Comissão de Intercâmbio Internacional </nomecomite>
@@ -2463,7 +2463,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Lourdes Bandeira </nome>
+  <nome>Lourdes Bandeira</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Comissão de Intercâmbio Internacional </nomecomite>
@@ -2472,7 +2472,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Lourdes Sola </nome>
+  <nome>Lourdes Sola</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão de Intercâmbio Internacional </nomecomite>
@@ -2481,7 +2481,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Tullo Vigevani </nome>
+  <nome>Tullo Vigevani</nome>
   <instituicao>UNESP</instituicao>
   <comite>
    <nomecomite>Comissão de Intercâmbio Internacional </nomecomite>
@@ -2490,7 +2490,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Celi Pinto </nome>
+  <nome>Celi Pinto</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Comitê Acadêmico</nomecomite>
@@ -2499,7 +2499,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Moacir Palmeira </nome>
+  <nome>Moacir Palmeira</nome>
   <instituicao>MN/UFRJ</instituicao>
   <comite>
    <nomecomite>Comitê Acadêmico</nomecomite>
@@ -2508,7 +2508,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Otavio Soares Dulci </nome>
+  <nome>Otavio Soares Dulci</nome>
   <instituicao>UFMG</instituicao>
   <comite>
    <nomecomite>Comitê Acadêmico</nomecomite>
@@ -2517,7 +2517,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Gildo Marçal Brandão </nome>
+  <nome>Gildo Marçal Brandão</nome>
   <instituicao>USP - Editor</instituicao>
   <comite>
    <nomecomite>Comissão Editorial da RBCS</nomecomite>
@@ -2526,7 +2526,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>George Avelino </nome>
+  <nome>George Avelino</nome>
   <instituicao>FGV-SP</instituicao>
   <comite>
    <nomecomite>Comissão Editorial da RBCS</nomecomite>
@@ -2535,7 +2535,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Júlio Assis Simões </nome>
+  <nome>Júlio Assis Simões</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão Editorial da RBCS</nomecomite>
@@ -2544,7 +2544,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Helena Oliva Augusto </nome>
+  <nome>Maria Helena Oliva Augusto</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão Editorial da RBCS</nomecomite>
@@ -2553,7 +2553,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Miguel Wady Chaia </nome>
+  <nome>Miguel Wady Chaia</nome>
   <instituicao>PUC/SP Assessor editorial</instituicao>
   <comite>
    <nomecomite>Comissão Editorial da RBCS</nomecomite>
@@ -2562,7 +2562,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Alex Fiúza de Melo </nome>
+  <nome>Alex Fiúza de Melo</nome>
   <instituicao>UFPA</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
@@ -2571,7 +2571,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Anete Brito Leal Ivo </nome>
+  <nome>Anete Brito Leal Ivo</nome>
   <instituicao>UFBA</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
@@ -2580,7 +2580,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Bruno Wanderley Reis </nome>
+  <nome>Bruno Wanderley Reis</nome>
   <instituicao>UFMG</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
@@ -2589,7 +2589,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Fernando Antonio Azevedo </nome>
+  <nome>Fernando Antonio Azevedo</nome>
   <instituicao>UFSCar</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
@@ -2598,7 +2598,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Guita Grun Debert </nome>
+  <nome>Guita Grun Debert</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
@@ -2607,7 +2607,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Lilia Schwarcz </nome>
+  <nome>Lilia Schwarcz</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
@@ -2616,7 +2616,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Luiz Fernando Dias Duarte </nome>
+  <nome>Luiz Fernando Dias Duarte</nome>
   <instituicao>MN/UFRJ</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
@@ -2625,7 +2625,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marco Aurélio Nogueira </nome>
+  <nome>Marco Aurélio Nogueira</nome>
   <instituicao>UNESP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
@@ -2634,7 +2634,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marcos Chor Maio </nome>
+  <nome>Marcos Chor Maio</nome>
   <instituicao>FIOCRUZ</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
@@ -2643,7 +2643,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Paulo Henrique Martins </nome>
+  <nome>Paulo Henrique Martins</nome>
   <instituicao>UFPE</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
@@ -2652,7 +2652,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ricardo Benzaquen de Araújo </nome>
+  <nome>Ricardo Benzaquen de Araújo</nome>
   <instituicao>IUPERJ</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
@@ -2669,7 +2669,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Rogério Bastos Arantes </nome>
+  <nome>Rogério Bastos Arantes</nome>
   <instituicao>PUC/SP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
@@ -2678,7 +2678,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ruben George Oliven </nome>
+  <nome>Ruben George Oliven</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
@@ -2687,7 +2687,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Tamara Benakouche </nome>
+  <nome>Tamara Benakouche</nome>
   <instituicao>UFSC</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
@@ -2705,7 +2705,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>César Guimarães </nome>
+  <nome>César Guimarães</nome>
   <instituicao>IUPERJ</instituicao>
   <comite>
    <nomecomite>Comissão Editorial da BIB</nomecomite>
@@ -2714,7 +2714,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Emerson Alessandro Giumbelli </nome>
+  <nome>Emerson Alessandro Giumbelli</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comissão Editorial da BIB</nomecomite>
@@ -2723,7 +2723,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>José Sérgio Leite Lopes </nome>
+  <nome>José Sérgio Leite Lopes</nome>
   <instituicao>MN/UFRJ</instituicao>
   <comite>
    <nomecomite>Comissão Editorial da BIB</nomecomite>
@@ -2732,7 +2732,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Celi Scalon </nome>
+  <nome>Maria Celi Scalon</nome>
   <instituicao>IUPERJ</instituicao>
   <comite>
    <nomecomite>Comissão Editorial da BIB</nomecomite>
@@ -2741,7 +2741,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Gustavo Lins Ribeiro </nome>
+  <nome>Gustavo Lins Ribeiro</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da BIB</nomecomite>
@@ -2750,7 +2750,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Jane Felipe Beltrão </nome>
+  <nome>Jane Felipe Beltrão</nome>
   <instituicao>UFPA</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da BIB</nomecomite>
@@ -2759,7 +2759,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>João Emanuel Evangelista de Oliveira </nome>
+  <nome>João Emanuel Evangelista de Oliveira</nome>
   <instituicao>UFRN</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da BIB</nomecomite>
@@ -2768,7 +2768,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Jorge Zaverucha </nome>
+  <nome>Jorge Zaverucha</nome>
   <instituicao>UFPE</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da BIB</nomecomite>
@@ -2777,7 +2777,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Lívio Sansone </nome>
+  <nome>Lívio Sansone</nome>
   <instituicao>UFBA </instituicao>
   <comite>
    <nomecomite>Conselho Editorial da BIB</nomecomite>
@@ -2786,7 +2786,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Lúcia Bógus </nome>
+  <nome>Lúcia Bógus</nome>
   <instituicao>PUC/SP </instituicao>
   <comite>
    <nomecomite>Conselho Editorial da BIB</nomecomite>
@@ -2795,7 +2795,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Helena Bomeny </nome>
+  <nome>Helena Bomeny</nome>
   <instituicao>CPDOC-FGV/RJ</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da BIB</nomecomite>
@@ -2804,7 +2804,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Magda Almeida Neves </nome>
+  <nome>Magda Almeida Neves</nome>
   <instituicao>PUC/MG</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da BIB</nomecomite>
@@ -2813,7 +2813,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Paulo Roberto Neves Costa </nome>
+  <nome>Paulo Roberto Neves Costa</nome>
   <instituicao>UFPR</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da BIB</nomecomite>
@@ -2822,7 +2822,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Roberto Grün </nome>
+  <nome>Roberto Grün</nome>
   <instituicao>UFSCar</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da BIB</nomecomite>
@@ -2831,7 +2831,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Carlos Benedito Martins </nome>
+  <nome>Carlos Benedito Martins</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Comissão de Pós-Graduação</nomecomite>
@@ -2840,7 +2840,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Márcio Ferreira da Silva </nome>
+  <nome>Márcio Ferreira da Silva</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão de Pós-Graduação</nomecomite>
@@ -2849,7 +2849,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Alice Rezende de Carvalho </nome>
+  <nome>Maria Alice Rezende de Carvalho</nome>
   <instituicao>IUPERJ</instituicao>
   <comite>
    <nomecomite>Comissão de Pós-Graduação</nomecomite>
@@ -2858,7 +2858,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Vera Chaia </nome>
+  <nome>Vera Chaia</nome>
   <instituicao>PUC-SP</instituicao>
   <comite>
    <nomecomite>Comissão de Pós-Graduação</nomecomite>
@@ -2867,7 +2867,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Gláucio Dillon Soares </nome>
+  <nome>Gláucio Dillon Soares</nome>
   <instituicao>IUPERJ</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -2876,7 +2876,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Hélgio Trindade </nome>
+  <nome>Hélgio Trindade</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -2885,7 +2885,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Irlys Barreira </nome>
+  <nome>Irlys Barreira</nome>
   <instituicao>UFC</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -2894,7 +2894,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Arminda Nascimento Arruda </nome>
+  <nome>Maria Arminda Nascimento Arruda</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -2903,7 +2903,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Roberto Cardoso de Oliveira  </nome>
+  <nome>Roberto Cardoso de Oliveira</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -2912,7 +2912,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Sérgio Miceli </nome>
+  <nome>Sérgio Miceli</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -2921,7 +2921,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Yvonne Maggie </nome>
+  <nome>Yvonne Maggie</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional</nomecomite>
@@ -2930,7 +2930,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Álvaro de Vita </nome>
+  <nome>Álvaro de Vita</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão do Concurso CNPq-ANPOCS</nomecomite>
@@ -2939,7 +2939,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Elide Rugai Bastos </nome>
+  <nome>Elide Rugai Bastos</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Comissão do Concurso CNPq-ANPOCS</nomecomite>
@@ -2948,7 +2948,7 @@
   </comite>
  </participante>
  <participante>
-  <nome> </nome>
+  <nome/>
   <comite>
    <nomecomite>Comissão do Concurso CNPq-ANPOCS</nomecomite>
    <ano>2005</ano>
@@ -2956,7 +2956,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Gilberto Velho </nome>
+  <nome>Gilberto Velho</nome>
   <instituicao>MN/UFRJ</instituicao>
   <comite>
    <nomecomite>Comissão do Concurso CNPq-ANPOCS</nomecomite>
@@ -2973,7 +2973,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Andréa Barbosa </nome>
+  <nome>Andréa Barbosa</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som </nomecomite>
@@ -2982,7 +2982,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Bela Feldman Bianco </nome>
+  <nome>Bela Feldman Bianco</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som </nomecomite>
@@ -2991,7 +2991,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Caleb de Faria Alves </nome>
+  <nome>Caleb de Faria Alves</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som </nomecomite>
@@ -3000,7 +3000,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Deise Lucy Oliveira Montardo </nome>
+  <nome>Deise Lucy Oliveira Montardo</nome>
   <instituicao>UFAM</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som </nomecomite>
@@ -3009,7 +3009,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Rogério Proença Leite </nome>
+  <nome>Rogério Proença Leite</nome>
   <instituicao>UFS</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som </nomecomite>
@@ -3018,7 +3018,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Afrânio Raul Garcia </nome>
+  <nome>Afrânio Raul Garcia</nome>
   <instituicao>EHESS</instituicao>
   <comite>
    <nomecomite>Comitê de Intercâmbio Internacional</nomecomite>
@@ -3027,7 +3027,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Benício Schmidt </nome>
+  <nome>Benício Schmidt</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Comitê de Intercâmbio Internacional</nomecomite>
@@ -3036,7 +3036,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Rafael Villa </nome>
+  <nome>Rafael Villa</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comitê de Intercâmbio Internacional</nomecomite>
@@ -3045,7 +3045,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Russel Parry Scott </nome>
+  <nome>Russel Parry Scott</nome>
   <instituicao>UFPE</instituicao>
   <comite>
    <nomecomite>Comitê de Intercâmbio Internacional</nomecomite>
@@ -3054,7 +3054,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Sebastião Velasco e Cruz </nome>
+  <nome>Sebastião Velasco e Cruz</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Comitê de Intercâmbio Internacional</nomecomite>
@@ -3063,7 +3063,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Mônica Herz </nome>
+  <nome>Mônica Herz</nome>
   <instituicao>PUC/RJ</instituicao>
   <comite>
    <nomecomite>Comitê de Intercâmbio Internacional</nomecomite>
@@ -3072,7 +3072,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Bila Sorj </nome>
+  <nome>Bila Sorj</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comitê Acadêmico</nomecomite>
@@ -3081,7 +3081,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Lilia Schwarcz </nome>
+  <nome>Lilia Schwarcz</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comitê Acadêmico</nomecomite>
@@ -3090,7 +3090,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Hermínia Tavares de Almeida </nome>
+  <nome>Maria Hermínia Tavares de Almeida</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comitê Acadêmico</nomecomite>
@@ -3099,7 +3099,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Elide Rugai Bastos </nome>
+  <nome>Elide Rugai Bastos</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Comissão Editorial RBCS</nomecomite>
@@ -3108,7 +3108,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Eduardo César Marques </nome>
+  <nome>Eduardo César Marques</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão Editorial RBCS</nomecomite>
@@ -3117,7 +3117,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Leopoldo Pinto Waizbort </nome>
+  <nome>Leopoldo Pinto Waizbort</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão Editorial RBCS</nomecomite>
@@ -3126,7 +3126,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Filomena Gregori </nome>
+  <nome>Maria Filomena Gregori</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Comissão Editorial RBCS</nomecomite>
@@ -3143,7 +3143,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Miguel Chaia </nome>
+  <nome>Miguel Chaia</nome>
   <instituicao>PUC-SP</instituicao>
   <comite>
    <nomecomite>Comissão Editorial RBCS</nomecomite>
@@ -3152,7 +3152,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>José Ricardo Ramalho </nome>
+  <nome>José Ricardo Ramalho</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comissão Editorial BIB</nomecomite>
@@ -3161,7 +3161,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>João Trajano de Lima Sento Sé </nome>
+  <nome>João Trajano de Lima Sento Sé</nome>
   <instituicao>UERJ</instituicao>
   <comite>
    <nomecomite>Comissão Editorial BIB</nomecomite>
@@ -3170,7 +3170,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Luiz Fernando Dias Duarte </nome>
+  <nome>Luiz Fernando Dias Duarte</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comissão Editorial BIB</nomecomite>
@@ -3179,7 +3179,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Alice Rezende de Carvalho </nome>
+  <nome>Maria Alice Rezende de Carvalho</nome>
   <instituicao>IUPERJ</instituicao>
   <comite>
    <nomecomite>Comissão Editorial BIB</nomecomite>
@@ -3188,7 +3188,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ricardo Benzaquen Araújo </nome>
+  <nome>Ricardo Benzaquen Araújo</nome>
   <instituicao>IUPERJ</instituicao>
   <comite>
    <nomecomite>Comissão Editorial BIB</nomecomite>
@@ -3197,7 +3197,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Edna Castro </nome>
+  <nome>Edna Castro</nome>
   <instituicao>UFPA</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -3206,7 +3206,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Gisela Black Taschner </nome>
+  <nome>Gisela Black Taschner</nome>
   <instituicao>FGV-SP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -3215,7 +3215,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ilza Araújo Leão de Andrade </nome>
+  <nome>Ilza Araújo Leão de Andrade</nome>
   <instituicao>UFRN</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -3224,7 +3224,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Jessé José de Souza </nome>
+  <nome>Jessé José de Souza</nome>
   <instituicao>IUPERJ</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -3233,7 +3233,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Julio Assis Simões </nome>
+  <nome>Julio Assis Simões</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -3242,7 +3242,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marcelo Gantus Jasmim </nome>
+  <nome>Marcelo Gantus Jasmim</nome>
   <instituicao>IUPERJ</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -3251,7 +3251,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria José Carneiro </nome>
+  <nome>Maria José Carneiro</nome>
   <instituicao>UFRRJ</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -3260,7 +3260,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Mauro Koury </nome>
+  <nome>Mauro Koury</nome>
   <instituicao>UFPB</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -3269,7 +3269,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Milton Lahuerta </nome>
+  <nome>Milton Lahuerta</nome>
   <instituicao>UNESP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -3278,7 +3278,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Miriam Pillar Grossi </nome>
+  <nome>Miriam Pillar Grossi</nome>
   <instituicao>UFSC</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -3287,7 +3287,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Omar Ribeiro Thomaz </nome>
+  <nome>Omar Ribeiro Thomaz</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -3296,7 +3296,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Roberto Grün </nome>
+  <nome>Roberto Grün</nome>
   <instituicao>UFSCar</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -3305,7 +3305,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Roberto Kant de Lima </nome>
+  <nome>Roberto Kant de Lima</nome>
   <instituicao>UFF</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -3314,7 +3314,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Valeriano Mendes Ferreira da Costa </nome>
+  <nome>Valeriano Mendes Ferreira da Costa</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -3323,7 +3323,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Vera Chaia </nome>
+  <nome>Vera Chaia</nome>
   <instituicao>PUC-SP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial RBCS</nomecomite>
@@ -3332,7 +3332,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Carmen Rial </nome>
+  <nome>Carmen Rial</nome>
   <instituicao>UFSC</instituicao>
   <comite>
    <nomecomite>Conselho Editorial BIB</nomecomite>
@@ -3341,7 +3341,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ethel Kosminsky </nome>
+  <nome>Ethel Kosminsky</nome>
   <instituicao>UNESP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial BIB</nomecomite>
@@ -3350,7 +3350,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Guita Grin Debert </nome>
+  <nome>Guita Grin Debert</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial BIB</nomecomite>
@@ -3359,7 +3359,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Helena Bomeny </nome>
+  <nome>Helena Bomeny</nome>
   <instituicao>UERJ</instituicao>
   <comite>
    <nomecomite>Conselho Editorial BIB</nomecomite>
@@ -3368,7 +3368,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Lívio Sansone </nome>
+  <nome>Lívio Sansone</nome>
   <instituicao>UFBA</instituicao>
   <comite>
    <nomecomite>Conselho Editorial BIB</nomecomite>
@@ -3377,7 +3377,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Magda Maria Neves </nome>
+  <nome>Magda Maria Neves</nome>
   <instituicao>PUC-MG</instituicao>
   <comite>
    <nomecomite>Conselho Editorial BIB</nomecomite>
@@ -3386,7 +3386,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marcos Chor Maio </nome>
+  <nome>Marcos Chor Maio</nome>
   <instituicao>FIOCRUZ</instituicao>
   <comite>
    <nomecomite>Conselho Editorial BIB</nomecomite>
@@ -3395,7 +3395,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Rubem Barbosa Filho </nome>
+  <nome>Rubem Barbosa Filho</nome>
   <instituicao>UFJF</instituicao>
   <comite>
    <nomecomite>Conselho Editorial BIB</nomecomite>
@@ -3404,7 +3404,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Walquíria Leão Rego </nome>
+  <nome>Walquíria Leão Rego</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial BIB</nomecomite>
@@ -3413,7 +3413,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Washington Bonfim </nome>
+  <nome>Washington Bonfim</nome>
   <instituicao>UFPI</instituicao>
   <comite>
    <nomecomite>Conselho Editorial BIB</nomecomite>
@@ -3422,7 +3422,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Carlos Benedito Martins </nome>
+  <nome>Carlos Benedito Martins</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Comissão de Pós-Graduação</nomecomite>
@@ -3431,7 +3431,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ilse Scherer-Warren </nome>
+  <nome>Ilse Scherer-Warren</nome>
   <instituicao>UFSC</instituicao>
   <comite>
    <nomecomite>Comissão de Pós-Graduação</nomecomite>
@@ -3440,7 +3440,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marcio Ferreira da Silva </nome>
+  <nome>Marcio Ferreira da Silva</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão de Pós-Graduação</nomecomite>
@@ -3449,7 +3449,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Renato Lessa </nome>
+  <nome>Renato Lessa</nome>
   <instituicao>IUPERJ</instituicao>
   <comite>
    <nomecomite>Comissão de Pós-Graduação</nomecomite>
@@ -3458,7 +3458,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>César Guimarães </nome>
+  <nome>César Guimarães</nome>
   <instituicao>IUPERJ</instituicao>
   <comite>
    <nomecomite>Comissão Institucional</nomecomite>
@@ -3467,7 +3467,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Gilberto Velho </nome>
+  <nome>Gilberto Velho</nome>
   <instituicao>MN/UFRJ</instituicao>
   <comite>
    <nomecomite>Comissão Institucional</nomecomite>
@@ -3476,7 +3476,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Andréa Loyola </nome>
+  <nome>Maria Andréa Loyola</nome>
   <instituicao>UERJ</instituicao>
   <comite>
    <nomecomite>Comissão Institucional</nomecomite>
@@ -3485,7 +3485,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Nazareth Baudel Wanderley </nome>
+  <nome>Maria Nazareth Baudel Wanderley</nome>
   <instituicao>UFPE</instituicao>
   <comite>
    <nomecomite>Comissão Institucional</nomecomite>
@@ -3494,7 +3494,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Otavio Soares Dulci </nome>
+  <nome>Otavio Soares Dulci</nome>
   <instituicao>UFMG</instituicao>
   <comite>
    <nomecomite>Comissão Institucional</nomecomite>
@@ -3503,7 +3503,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Reginaldo Prandi </nome>
+  <nome>Reginaldo Prandi</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão Institucional</nomecomite>
@@ -3512,7 +3512,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Roque de Barros Laraia </nome>
+  <nome>Roque de Barros Laraia</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Comissão Institucional</nomecomite>
@@ -3521,7 +3521,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Hélgio Trindade </nome>
+  <nome>Hélgio Trindade</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Comissão Internacional</nomecomite>
@@ -3530,7 +3530,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Licia do Prado Valladares </nome>
+  <nome>Licia do Prado Valladares</nome>
   <instituicao>IUPERJ</instituicao>
   <comite>
    <nomecomite>Comissão Internacional</nomecomite>
@@ -3539,7 +3539,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Renato Ortiz </nome>
+  <nome>Renato Ortiz</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Comissão Internacional</nomecomite>
@@ -3548,7 +3548,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ruben George Oliven </nome>
+  <nome>Ruben George Oliven</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Comissão Internacional</nomecomite>
@@ -3557,7 +3557,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Sergio Miceli </nome>
+  <nome>Sergio Miceli</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão Internacional</nomecomite>
@@ -3574,7 +3574,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Caleb Faria Alves </nome>
+  <nome>Caleb Faria Alves</nome>
   <instituicao>UFSC</instituicao>
   <comite>
    <nomecomite>Comissão Internacional</nomecomite>
@@ -3583,7 +3583,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Carlos Fausto </nome>
+  <nome>Carlos Fausto</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comissão Internacional</nomecomite>
@@ -3592,7 +3592,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Fernanda Arêas Peixoto </nome>
+  <nome>Fernanda Arêas Peixoto</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão Internacional</nomecomite>
@@ -3601,7 +3601,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Heloisa Pontes </nome>
+  <nome>Heloisa Pontes</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Comissão Internacional</nomecomite>
@@ -3610,7 +3610,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Irlys Barreira </nome>
+  <nome>Irlys Barreira</nome>
   <instituicao>UFC</instituicao>
   <comite>
    <nomecomite>Comissão Internacional</nomecomite>
@@ -3619,7 +3619,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Joanildo Burity </nome>
+  <nome>Joanildo Burity</nome>
   <instituicao>FUNDAJ</instituicao>
   <comite>
    <nomecomite>Comissão Internacional</nomecomite>
@@ -3628,7 +3628,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>José Eisenberg </nome>
+  <nome>José Eisenberg</nome>
   <instituicao>IUPERJ</instituicao>
   <comite>
    <nomecomite>Comissão Internacional</nomecomite>
@@ -3637,7 +3637,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Josefa Salete Cavalcanti </nome>
+  <nome>Josefa Salete Cavalcanti</nome>
   <instituicao>UFPE</instituicao>
   <comite>
    <nomecomite>Comissão Internacional</nomecomite>
@@ -3646,7 +3646,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Leila da Costa Ferreira </nome>
+  <nome>Leila da Costa Ferreira</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Comissão Internacional</nomecomite>
@@ -3655,7 +3655,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Helena Oliva Augusto </nome>
+  <nome>Maria Helena Oliva Augusto</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão Internacional</nomecomite>
@@ -3664,7 +3664,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Stela Grossi Porto </nome>
+  <nome>Maria Stela Grossi Porto</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Comissão Internacional</nomecomite>
@@ -3673,7 +3673,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Teresa Miceli Kerbauy </nome>
+  <nome>Maria Teresa Miceli Kerbauy</nome>
   <instituicao>UNESP</instituicao>
   <comite>
    <nomecomite>Comissão Internacional</nomecomite>
@@ -3682,7 +3682,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Teresa Sadek </nome>
+  <nome>Maria Teresa Sadek</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão Internacional</nomecomite>
@@ -3691,7 +3691,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ricardo Antunes </nome>
+  <nome>Ricardo Antunes</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Comissão Internacional</nomecomite>
@@ -3700,7 +3700,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Robin Wright </nome>
+  <nome>Robin Wright</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Comissão Internacional</nomecomite>
@@ -3709,7 +3709,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Sergio Adorno </nome>
+  <nome>Sergio Adorno</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão Internacional</nomecomite>
@@ -3718,7 +3718,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Yvonne Maggie </nome>
+  <nome>Yvonne Maggie</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comissão Internacional</nomecomite>
@@ -3727,7 +3727,7 @@
   </comite>
  </participante>
  <participante>
-  <nome> </nome>
+  <nome/>
   <comite>
    <nomecomite>Comissão Internacional</nomecomite>
    <ano>2003</ano>
@@ -3735,7 +3735,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ana Luiza Carvalho da Rocha </nome>
+  <nome>Ana Luiza Carvalho da Rocha</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Comissão de Imagem e Som</nomecomite>
@@ -3744,7 +3744,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Bela Feldman-Bianco </nome>
+  <nome>Bela Feldman-Bianco</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Comissão de Imagem e Som</nomecomite>
@@ -3753,7 +3753,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Hector Alimonda </nome>
+  <nome>Hector Alimonda</nome>
   <instituicao>UFRRJ</instituicao>
   <comite>
    <nomecomite>Comissão de Imagem e Som</nomecomite>
@@ -3762,7 +3762,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Paulo Menezes </nome>
+  <nome>Paulo Menezes</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão de Imagem e Som</nomecomite>
@@ -3771,7 +3771,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Renato Athias </nome>
+  <nome>Renato Athias</nome>
   <instituicao>UFPE</instituicao>
   <comite>
    <nomecomite>Comissão de Imagem e Som</nomecomite>
@@ -3780,7 +3780,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Brasílio Sallum Júnior </nome>
+  <nome>Brasílio Sallum Júnior</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comitê Acadêmico</nomecomite>
@@ -3789,7 +3789,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Gilberto Velho </nome>
+  <nome>Gilberto Velho</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comitê Acadêmico</nomecomite>
@@ -3798,7 +3798,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Renato Lessa </nome>
+  <nome>Renato Lessa</nome>
   <instituicao>IUPERJ</instituicao>
   <comite>
    <nomecomite>Comitê Acadêmico</nomecomite>
@@ -3807,7 +3807,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Alzira Alves de Abreu </nome>
+  <nome>Alzira Alves de Abreu</nome>
   <instituicao>FGV-RJ</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional e Patrimonial</nomecomite>
@@ -3816,7 +3816,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Guita Grin Debert </nome>
+  <nome>Guita Grin Debert</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional e Patrimonial</nomecomite>
@@ -3825,7 +3825,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Hélgio Trindade </nome>
+  <nome>Hélgio Trindade</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional e Patrimonial</nomecomite>
@@ -3834,7 +3834,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Inaiá M. Moreira de Carvalho </nome>
+  <nome>Inaiá M. Moreira de Carvalho</nome>
   <instituicao>UFBA</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional e Patrimonial</nomecomite>
@@ -3843,7 +3843,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Sérgio Adorno </nome>
+  <nome>Sérgio Adorno</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão de Assessoramento Institucional e Patrimonial</nomecomite>
@@ -3852,7 +3852,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Carlos Benedito Martins </nome>
+  <nome>Carlos Benedito Martins</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Comissão de Pós-Graduação</nomecomite>
@@ -3861,7 +3861,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Regina Soares de Lima </nome>
+  <nome>Maria Regina Soares de Lima</nome>
   <instituicao>IUPERJ</instituicao>
   <comite>
    <nomecomite>Comissão de Pós-Graduação</nomecomite>
@@ -3870,7 +3870,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Miriam Pilar Grossi </nome>
+  <nome>Miriam Pilar Grossi</nome>
   <instituicao>UFSC</instituicao>
   <comite>
    <nomecomite>Comissão de Pós-Graduação</nomecomite>
@@ -3879,7 +3879,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Sedi Hirano </nome>
+  <nome>Sedi Hirano</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão de Pós-Graduação</nomecomite>
@@ -3888,7 +3888,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Antônio Flávio Pierucci </nome>
+  <nome>Antônio Flávio Pierucci</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão Editorial da RBCS</nomecomite>
@@ -3897,7 +3897,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Fernanda Arêas Peixoto </nome>
+  <nome>Fernanda Arêas Peixoto</nome>
   <instituicao>Unesp USP final de 2001 até 2002</instituicao>
   <comite>
    <nomecomite>Comissão Editorial da RBCS</nomecomite>
@@ -3906,7 +3906,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Gildo Marçal Brandão </nome>
+  <nome>Gildo Marçal Brandão</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão Editorial da RBCS</nomecomite>
@@ -3915,7 +3915,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Heloísa Pontes </nome>
+  <nome>Heloísa Pontes</nome>
   <instituicao>UNICAMP </instituicao>
   <comite>
    <nomecomite>Comissão Editorial da RBCS</nomecomite>
@@ -3924,7 +3924,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ariosvaldo da Silva Diniz </nome>
+  <nome>Ariosvaldo da Silva Diniz</nome>
   <instituicao>UFPB</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
@@ -3933,7 +3933,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Brasília Carlos Ferreira </nome>
+  <nome>Brasília Carlos Ferreira</nome>
   <instituicao>UFRN</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
@@ -3942,7 +3942,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Carlos Caroso </nome>
+  <nome>Carlos Caroso</nome>
   <instituicao>UFBA</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
@@ -3951,7 +3951,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Daniel Lins </nome>
+  <nome>Daniel Lins</nome>
   <instituicao>UFC</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
@@ -3960,7 +3960,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Eli Diniz </nome>
+  <nome>Eli Diniz</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
@@ -3969,7 +3969,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Fernando Limongi </nome>
+  <nome>Fernando Limongi</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
@@ -3978,7 +3978,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ilka Boaventura Leite </nome>
+  <nome>Ilka Boaventura Leite</nome>
   <instituicao>UFSC</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
@@ -3987,7 +3987,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Márcio Silva </nome>
+  <nome>Márcio Silva</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
@@ -3996,7 +3996,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Antonieta Leopoldi </nome>
+  <nome>Maria Antonieta Leopoldi</nome>
   <instituicao>UFF</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
@@ -4005,7 +4005,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria da Glória Bonelli </nome>
+  <nome>Maria da Glória Bonelli</nome>
   <instituicao>UFSCar</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
@@ -4014,7 +4014,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria de Fátima Junho Anastasia </nome>
+  <nome>Maria de Fátima Junho Anastasia</nome>
   <instituicao>UFMG</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
@@ -4023,7 +4023,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Francisca Pinheiro </nome>
+  <nome>Maria Francisca Pinheiro</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
@@ -4032,7 +4032,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Mariza Peirano </nome>
+  <nome>Mariza Peirano</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
@@ -4041,7 +4041,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Regina Reyes Novaes </nome>
+  <nome>Regina Reyes Novaes</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
@@ -4050,7 +4050,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ricardo Antunes </nome>
+  <nome>Ricardo Antunes</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
@@ -4068,7 +4068,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>José Ricardo Ramalho </nome>
+  <nome>José Ricardo Ramalho</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comissão Editorial da BIB</nomecomite>
@@ -4077,7 +4077,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Luiz Fernando Dias Duarte </nome>
+  <nome>Luiz Fernando Dias Duarte</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comissão Editorial da BIB</nomecomite>
@@ -4086,7 +4086,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ricardo Benzaquén de Araújo </nome>
+  <nome>Ricardo Benzaquén de Araújo</nome>
   <instituicao>IUPERJ</instituicao>
   <comite>
    <nomecomite>Comissão Editorial da BIB</nomecomite>
@@ -4095,7 +4095,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>André Singer </nome>
+  <nome>André Singer</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da BIB</nomecomite>
@@ -4104,7 +4104,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Clarissa Baeta Neves </nome>
+  <nome>Clarissa Baeta Neves</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da BIB</nomecomite>
@@ -4113,7 +4113,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Edna Castro </nome>
+  <nome>Edna Castro</nome>
   <instituicao>UFPA</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da BIB</nomecomite>
@@ -4122,7 +4122,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Fernanda Arêas Peixoto </nome>
+  <nome>Fernanda Arêas Peixoto</nome>
   <instituicao>Unesp USP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da BIB</nomecomite>
@@ -4131,7 +4131,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>John Dawsey </nome>
+  <nome>John Dawsey</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da BIB</nomecomite>
@@ -4140,7 +4140,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Jorge Zaverucha </nome>
+  <nome>Jorge Zaverucha</nome>
   <instituicao>UFPE</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da BIB</nomecomite>
@@ -4149,7 +4149,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Leonilde Sérvolo de Medeiros </nome>
+  <nome>Leonilde Sérvolo de Medeiros</nome>
   <instituicao>UFRRJ</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da BIB</nomecomite>
@@ -4158,7 +4158,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marcos Lanna </nome>
+  <nome>Marcos Lanna</nome>
   <instituicao>UFPR</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da BIB</nomecomite>
@@ -4167,7 +4167,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Celina D’Araújo </nome>
+  <nome>Maria Celina D’Araújo</nome>
   <instituicao>UFF</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da BIB</nomecomite>
@@ -4176,7 +4176,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Gisela Black Taschner </nome>
+  <nome>Gisela Black Taschner</nome>
   <instituicao>FGV-SP</instituicao>
   <comite>
    <nomecomite>Comitê de Intercâmbio Internacional</nomecomite>
@@ -4185,7 +4185,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Gustavo Lins Ribeiro </nome>
+  <nome>Gustavo Lins Ribeiro</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Comitê de Intercâmbio Internacional</nomecomite>
@@ -4194,7 +4194,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Renato Boschi </nome>
+  <nome>Renato Boschi</nome>
   <instituicao>IUPERJ</instituicao>
   <comite>
    <nomecomite>Comitê de Intercâmbio Internacional</nomecomite>
@@ -4203,7 +4203,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Sebastião Velasco e Cruz </nome>
+  <nome>Sebastião Velasco e Cruz</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Comitê de Intercâmbio Internacional</nomecomite>
@@ -4212,7 +4212,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Silke Weber </nome>
+  <nome>Silke Weber</nome>
   <instituicao>UFPE</instituicao>
   <comite>
    <nomecomite>Comitê de Intercâmbio Internacional</nomecomite>
@@ -4221,7 +4221,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Yvonne Maggie </nome>
+  <nome>Yvonne Maggie</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comitê de Intercâmbio Internacional</nomecomite>
@@ -4230,7 +4230,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ana Maria Galano </nome>
+  <nome>Ana Maria Galano</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som</nomecomite>
@@ -4239,7 +4239,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Anita Simis </nome>
+  <nome>Anita Simis</nome>
   <instituicao>UNESP/Araraquara</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som</nomecomite>
@@ -4248,7 +4248,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Clarice Peixoto </nome>
+  <nome>Clarice Peixoto</nome>
   <instituicao>UERJ</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som</nomecomite>
@@ -4257,7 +4257,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Lizabete Coradini </nome>
+  <nome>Lizabete Coradini</nome>
   <instituicao>UFRN</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som</nomecomite>
@@ -4266,7 +4266,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Júri do Concurso CNPq-ANPOCS de Teses Universitárias e Obras Científicas </nome>
+  <nome>Júri do Concurso CNPq-ANPOCS de Teses Universitárias e Obras Científicas</nome>
   <instituicao>somente 2001</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som</nomecomite>
@@ -4275,7 +4275,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Argelina Cheibub Figueiredo </nome>
+  <nome>Argelina Cheibub Figueiredo</nome>
   <instituicao>CEBRAP</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som</nomecomite>
@@ -4284,7 +4284,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Elisa Pereira Reis </nome>
+  <nome>Elisa Pereira Reis</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som</nomecomite>
@@ -4293,7 +4293,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Irlys Barreira </nome>
+  <nome>Irlys Barreira</nome>
   <instituicao>UFC</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som</nomecomite>
@@ -4302,7 +4302,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Lúcia Maria Bógus </nome>
+  <nome>Lúcia Maria Bógus</nome>
   <instituicao>PUC-SP</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som</nomecomite>
@@ -4311,7 +4311,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Roberto Motta </nome>
+  <nome>Roberto Motta</nome>
   <instituicao>UFPE</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som</nomecomite>
@@ -4320,7 +4320,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Helena Oliva Augusto </nome>
+  <nome>Maria Helena Oliva Augusto</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som</nomecomite>
@@ -4329,7 +4329,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Hermínia Tavares de Almeida </nome>
+  <nome>Maria Hermínia Tavares de Almeida</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som</nomecomite>
@@ -4338,7 +4338,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marisa Corrêa </nome>
+  <nome>Marisa Corrêa</nome>
   <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som</nomecomite>
@@ -4347,7 +4347,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Roberto Cardoso de Oliveira </nome>
+  <nome>Roberto Cardoso de Oliveira</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som</nomecomite>
@@ -4356,7 +4356,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marcia Izabel Valladão de Carvalho </nome>
+  <nome>Marcia Izabel Valladão de Carvalho</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som</nomecomite>
@@ -4365,7 +4365,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Teresa Miceli Kerbauy </nome>
+  <nome>Maria Teresa Miceli Kerbauy</nome>
   <instituicao>UNESP / Araraquara</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som</nomecomite>
@@ -4374,7 +4374,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Júri do Concurso CNPQ-ANPOCS Prêmio “José Albertino Rodrigues” </nome>
+  <nome>Júri do Concurso CNPQ-ANPOCS Prêmio “José Albertino Rodrigues”</nome>
   <instituicao>somente 2002</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som</nomecomite>
@@ -4383,7 +4383,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ari Pedro Oro </nome>
+  <nome>Ari Pedro Oro</nome>
   <instituicao>UFRGS</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som</nomecomite>
@@ -4392,7 +4392,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Irlys Barreira </nome>
+  <nome>Irlys Barreira</nome>
   <instituicao>UFC</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som</nomecomite>
@@ -4401,7 +4401,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Julio Cezar Melatti </nome>
+  <nome>Julio Cezar Melatti</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som</nomecomite>
@@ -4410,7 +4410,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Lúcia Bógus </nome>
+  <nome>Lúcia Bógus</nome>
   <instituicao>PUC-SP</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som</nomecomite>
@@ -4419,7 +4419,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Helena Oliva Augusto </nome>
+  <nome>Maria Helena Oliva Augusto</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som</nomecomite>
@@ -4428,7 +4428,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Hermínia Tavares de Almeida </nome>
+  <nome>Maria Hermínia Tavares de Almeida</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som</nomecomite>
@@ -4437,7 +4437,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Izabel Valladão </nome>
+  <nome>Maria Izabel Valladão</nome>
   <instituicao>UnB</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som</nomecomite>
@@ -4446,7 +4446,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Maria Tereza Miceli Kerbauy </nome>
+  <nome>Maria Tereza Miceli Kerbauy</nome>
   <instituicao>UNESP/Araraquara</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som</nomecomite>
@@ -4455,7 +4455,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Peter Fry </nome>
+  <nome>Peter Fry</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som</nomecomite>
@@ -4464,7 +4464,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Regina Morel </nome>
+  <nome>Regina Morel</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som</nomecomite>
@@ -4473,7 +4473,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Roberto Motta </nome>
+  <nome>Roberto Motta</nome>
   <instituicao>UFPE</instituicao>
   <comite>
    <nomecomite>Comitê de Imagem e Som</nomecomite>
@@ -4482,7 +4482,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Elisa Pereira Reis </nome>
+  <nome>Elisa Pereira Reis</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comitê de Comemoração do 25o Aniversário da ANPOCS</nomecomite>
@@ -4491,7 +4491,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Otávio Guilherme Velho </nome>
+  <nome>Otávio Guilherme Velho</nome>
   <instituicao>UFRJ</instituicao>
   <comite>
    <nomecomite>Comitê de Comemoração do 25o Aniversário da ANPOCS</nomecomite>
@@ -4500,7 +4500,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Reginaldo Prandi </nome>
+  <nome>Reginaldo Prandi</nome>
   <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comitê de Comemoração do 25o Aniversário da ANPOCS</nomecomite>
@@ -4509,7 +4509,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Wanderley Guilherme dos Santos </nome>
+  <nome>Wanderley Guilherme dos Santos</nome>
   <instituicao>Univ. Cândido Mendes IUPERJ</instituicao>
   <comite>
    <nomecomite>Comitê de Comemoração do 25o Aniversário da ANPOCS</nomecomite>
@@ -4518,7 +4518,7 @@
   </comite>
  </participante>
  <participante>
-  <nome> </nome>
+  <nome/>
   <comite>
    <nomecomite>Comitê de Comemoração do 25o Aniversário da ANPOCS</nomecomite>
    <ano>2001</ano>
@@ -5206,7 +5206,7 @@
   </comite>
  </participante>
  <participante>
-  <nome> </nome>
+  <nome/>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
    <ano>1997</ano>
@@ -5230,7 +5230,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>José Ricardo Ramalho </nome>
+  <nome>José Ricardo Ramalho</nome>
   <comite>
    <nomecomite>Comissão Editorial do BIB</nomecomite>
    <ano>1997</ano>
@@ -5910,7 +5910,7 @@
   </comite>
  </participante>
  <participante>
-  <nome> </nome>
+  <nome/>
   <comite>
    <nomecomite>Conselho Editorial do BIB</nomecomite>
    <ano>1995</ano>
@@ -6542,7 +6542,7 @@
   </comite>
  </participante>
  <participante>
-  <nome> </nome>
+  <nome/>
   <comite>
    <nomecomite>Comissão Patrimonial</nomecomite>
    <ano>1993</ano>
@@ -7230,7 +7230,7 @@
   </comite>
  </participante>
  <participante>
-  <nome> </nome>
+  <nome/>
   <comite>
    <nomecomite>Comitê de Bolsas IAF</nomecomite>
    <ano>1991</ano>
@@ -7830,7 +7830,7 @@
   </comite>
  </participante>
  <participante>
-  <nome>Marcus Figueiredo </nome>
+  <nome>Marcus Figueiredo</nome>
   <comite>
    <nomecomite>Comitê ANPOCS Fulbright</nomecomite>
    <ano>1989</ano>
@@ -7886,7 +7886,7 @@
   </comite>
  </participante>
  <participante>
-  <nome> </nome>
+  <nome/>
   <comite>
    <nomecomite>Comissão de Política Científica para a Área de Ciências Sociais</nomecomite>
    <ano>1989</ano>
@@ -8518,7 +8518,7 @@
   </comite>
  </participante>
  <participante>
-  <nome> </nome>
+  <nome/>
   <comite>
    <nomecomite>Comitê de Bolsas Ford</nomecomite>
    <ano>1985</ano>

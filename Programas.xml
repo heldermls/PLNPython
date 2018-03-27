@@ -1,0 +1,538 @@
+<?xml version="1.0" ?>
+<programas>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação Ciências Sociais</nomeprograma>
+  <instituicao>UFAL</instituicao>
+  <anofiliacao>2005</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Antropologia Social</nomeprograma>
+  <instituicao>UFAM</instituicao>
+  <anofiliacao>2009</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>CRH - Centro de Recursos Humanos</nomeprograma>
+  <instituicao>UFBA</instituicao>
+  <anofiliacao>1978</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciências Sociais</nomeprograma>
+  <instituicao>UFBA</instituicao>
+  <anofiliacao>1978</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Políticas Públicas e Sociedade</nomeprograma>
+  <instituicao>UECE</instituicao>
+  <anofiliacao>2012</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Núcleo de Documentação Cultural</nomeprograma>
+  <instituicao>UFC</instituicao>
+  <anofiliacao>1986</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Sociologia</nomeprograma>
+  <instituicao>UFC</instituicao>
+  <anofiliacao>1978</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>CEPPAC - Centro de Pesquisa e Pós-Graduação sobre as Américas</nomeprograma>
+  <instituicao>UnB</instituicao>
+  <anofiliacao>2008</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Relações Internacionais</nomeprograma>
+  <instituicao>UnB</instituicao>
+  <anofiliacao>1992</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Antropologia</nomeprograma>
+  <instituicao>UnB</instituicao>
+  <anofiliacao>1978</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciência Política</nomeprograma>
+  <instituicao>UnB</instituicao>
+  <anofiliacao>1992</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Sociologia</nomeprograma>
+  <instituicao>UnB</instituicao>
+  <anofiliacao>1978</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciências Sociais</nomeprograma>
+  <instituicao>UFES</instituicao>
+  <anofiliacao>2009</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Sociologia Política</nomeprograma>
+  <instituicao>UVV</instituicao>
+  <anofiliacao>2014</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Sociologia</nomeprograma>
+  <instituicao>UFG</instituicao>
+  <anofiliacao>2001</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciência Política</nomeprograma>
+  <instituicao>UFG</instituicao>
+  <anofiliacao>2012</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Antropologia Social</nomeprograma>
+  <instituicao>UFG</instituicao>
+  <anofiliacao>2016</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciências Sociais</nomeprograma>
+  <instituicao>UFMA</instituicao>
+  <anofiliacao>2007</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Sociologia</nomeprograma>
+  <instituicao>UFGD</instituicao>
+  <anofiliacao>2016</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciências Sociais</nomeprograma>
+  <instituicao>UFJF</instituicao>
+  <anofiliacao>2006</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Antropologia</nomeprograma>
+  <instituicao>UFMG</instituicao>
+  <anofiliacao>2006</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciência Política</nomeprograma>
+  <instituicao>UFMG</instituicao>
+  <anofiliacao>1978</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Sociologia</nomeprograma>
+  <instituicao>UFMG</instituicao>
+  <anofiliacao>1981</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciências Sociais</nomeprograma>
+  <instituicao>PUC-MG</instituicao>
+  <anofiliacao>2003</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Relações Internacionais</nomeprograma>
+  <instituicao>PUC-MG</instituicao>
+  <anofiliacao>2013</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciências Sociais</nomeprograma>
+  <instituicao>UFU</instituicao>
+  <anofiliacao>2016</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>NAEA - Núcleo de Altos Estudos Amazonicos</nomeprograma>
+  <instituicao>UFPA</instituicao>
+  <anofiliacao>1978</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciências Sociais</nomeprograma>
+  <instituicao>UFPA</instituicao>
+  <anofiliacao>1996</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Núcleo de Documentação e Informação Histórica Regional - NDIHR</nomeprograma>
+  <instituicao>UFPB</instituicao>
+  <anofiliacao>1993</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Sociologia</nomeprograma>
+  <instituicao>UFPB</instituicao>
+  <anofiliacao>1982</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Antropologia</nomeprograma>
+  <instituicao>UFPB</instituicao>
+  <anofiliacao>2012</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciências Sociais</nomeprograma>
+  <instituicao>UFCG</instituicao>
+  <anofiliacao>2008</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Antropologia</nomeprograma>
+  <instituicao>UFPR</instituicao>
+  <anofiliacao>2000</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciência Política</nomeprograma>
+  <instituicao>UFPR</instituicao>
+  <anofiliacao>2009</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Sociologia</nomeprograma>
+  <instituicao>UFPR</instituicao>
+  <anofiliacao>1999</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciências Sociais</nomeprograma>
+  <instituicao>UEL</instituicao>
+  <anofiliacao>2006</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciências Sociais</nomeprograma>
+  <instituicao>UEM</instituicao>
+  <anofiliacao>2009</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciências Sociais</nomeprograma>
+  <instituicao>UNIOESTE</instituicao>
+  <anofiliacao>2010</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciência Política</nomeprograma>
+  <instituicao>UFPE</instituicao>
+  <anofiliacao>1982</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Antropologia</nomeprograma>
+  <instituicao>UFPE</instituicao>
+  <anofiliacao>1978</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Sociologia</nomeprograma>
+  <instituicao>UFPE</instituicao>
+  <anofiliacao>1978</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Antropologia</nomeprograma>
+  <instituicao>UFPI</instituicao>
+  <anofiliacao>2009</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>CPDOC - Centro de Pesquisa e Documentação de História Contemporânea</nomeprograma>
+  <instituicao>FGV</instituicao>
+  <anofiliacao>1970</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>- Instituto de Estudos da Religião</nomeprograma>
+  <instituicao>ISER</instituicao>
+  <anofiliacao>1983</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Museu Nacional - Programa de Pós-Graduação em Antropologia Social</nomeprograma>
+  <instituicao>UFRJ</instituicao>
+  <anofiliacao>1978</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Sociedade</nomeprograma>
+  <instituicao>UFRRJ</instituicao>
+  <anofiliacao>1981</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciências Sociais</nomeprograma>
+  <instituicao>UFRRJ</instituicao>
+  <anofiliacao>2012</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Antropologia</nomeprograma>
+  <instituicao>UFF</instituicao>
+  <anofiliacao>1996</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciência Política</nomeprograma>
+  <instituicao>IESP/UERJ</instituicao>
+  <anofiliacao>2010</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciência Política</nomeprograma>
+  <instituicao>UFF</instituicao>
+  <anofiliacao>1996</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciências Sociais</nomeprograma>
+  <instituicao>PUC-RJ</instituicao>
+  <anofiliacao>2006</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciências Sociais</nomeprograma>
+  <instituicao>UERJ</instituicao>
+  <anofiliacao>2001</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Relações Internacionais</nomeprograma>
+  <instituicao>UERJ</instituicao>
+  <anofiliacao>2009</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Estudos Estratégicos da Defesa e Segurança</nomeprograma>
+  <instituicao>UFF</instituicao>
+  <anofiliacao>2008</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Sociologia</nomeprograma>
+  <instituicao>IESP/UERJ</instituicao>
+  <anofiliacao>2010</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Sociologia e Antropologia Social</nomeprograma>
+  <instituicao>UFRJ</instituicao>
+  <anofiliacao>1982</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Sociologia e Direito</nomeprograma>
+  <instituicao>UFF</instituicao>
+  <anofiliacao>2006</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Sociologia</nomeprograma>
+  <instituicao>UFF</instituicao>
+  <anofiliacao>2010</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Sociologia Política</nomeprograma>
+  <instituicao>UENF</instituicao>
+  <anofiliacao>2007</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>IRI - Instituto de Relações Internacionais</nomeprograma>
+  <instituicao>PUC-RJ</instituicao>
+  <anofiliacao>1984</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciência Política e Relações Internacionais</nomeprograma>
+  <instituicao>IUPERJ</instituicao>
+  <anofiliacao>1978</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Sociologia</nomeprograma>
+  <instituicao>IUPERJ</instituicao>
+  <anofiliacao>1978</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciências Sociais</nomeprograma>
+  <instituicao>UFRN</instituicao>
+  <anofiliacao>1993</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Antropologia Social</nomeprograma>
+  <instituicao>UFRN</instituicao>
+  <anofiliacao>2006</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Instituto Humanitas</nomeprograma>
+  <instituicao>UNISINOS</instituicao>
+  <anofiliacao>0000</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Antropologia Social</nomeprograma>
+  <instituicao>UFRGS</instituicao>
+  <anofiliacao>1979</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciência Política</nomeprograma>
+  <instituicao>UFPel</instituicao>
+  <anofiliacao>2012</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciência Política</nomeprograma>
+  <instituicao>UFRGS</instituicao>
+  <anofiliacao>1979</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciências Sociais Aplicadas</nomeprograma>
+  <instituicao>UNISINOS</instituicao>
+  <anofiliacao>1993</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciências Sociais</nomeprograma>
+  <instituicao>UFSM</instituicao>
+  <anofiliacao>2008</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciências Sociais</nomeprograma>
+  <instituicao>PUC-RS</instituicao>
+  <anofiliacao>2008</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciências Sociais</nomeprograma>
+  <instituicao>UFPel</instituicao>
+  <anofiliacao>2010</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Planejamento Urbano Regional</nomeprograma>
+  <instituicao>UFRGS</instituicao>
+  <anofiliacao>1980</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Sociologia</nomeprograma>
+  <instituicao>UFRGS</instituicao>
+  <anofiliacao>1979</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Antropologia Social</nomeprograma>
+  <instituicao>UFSC</instituicao>
+  <anofiliacao>1994</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Sociologia Política</nomeprograma>
+  <instituicao>UFSC</instituicao>
+  <anofiliacao>1979</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Relações Internacionais</nomeprograma>
+  <instituicao>UFSC</instituicao>
+  <anofiliacao>2012</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Centro de Estudos Africanos</nomeprograma>
+  <instituicao>CEA-USP</instituicao>
+  <anofiliacao>1978</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Centro Brasileiro de Análise e Planejamento</nomeprograma>
+  <instituicao>CEBRAP</instituicao>
+  <anofiliacao>1978</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>CER - Centro de Estudos da Religião “Duglas Teixeira Monteiro”</nomeprograma>
+  <instituicao>USP</instituicao>
+  <anofiliacao>0000</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Centro de Estudos de Cultura Contemporânea</nomeprograma>
+  <instituicao>CEDEC</instituicao>
+  <anofiliacao>1978</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Centro de Estudos Rurais e Urbanos</nomeprograma>
+  <instituicao>CERU-USP</instituicao>
+  <anofiliacao>1978</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Núcleo de Estudos de População</nomeprograma>
+  <instituicao>NEPO-UNICAMP</instituicao>
+  <anofiliacao>1986</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Núcleo de Estudos de Gênero -</nomeprograma>
+  <instituicao>PAGU/UNICAMP</instituicao>
+  <anofiliacao>2004</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Núcleo de Estudos de Política Pública</nomeprograma>
+  <instituicao>UNICAMP</instituicao>
+  <anofiliacao>1991</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Doutorado em Ciências Sociais</nomeprograma>
+  <instituicao>UNICAMP</instituicao>
+  <anofiliacao>1996</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Política Científica Tecnológica</nomeprograma>
+  <instituicao>UNICAMP</instituicao>
+  <anofiliacao>1990</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação Culturas e Identidades Brasileiras</nomeprograma>
+  <instituicao>IEB/USP</instituicao>
+  <anofiliacao>2010</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Administração Pública e Governo</nomeprograma>
+  <instituicao>FGV</instituicao>
+  <anofiliacao>2003</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Antropologia Social</nomeprograma>
+  <instituicao>UNICAMP</instituicao>
+  <anofiliacao>1971</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Antropologia Social</nomeprograma>
+  <instituicao>USP</instituicao>
+  <anofiliacao>1979</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Antropologia Social</nomeprograma>
+  <instituicao>UFSCar</instituicao>
+  <anofiliacao>2006</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciências Sociais</nomeprograma>
+  <instituicao>UNIFESP</instituicao>
+  <anofiliacao>2010</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciência Política</nomeprograma>
+  <instituicao>UNICAMP</instituicao>
+  <anofiliacao>1978</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciência Política</nomeprograma>
+  <instituicao>USP</instituicao>
+  <anofiliacao>1979</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciência Política</nomeprograma>
+  <instituicao>UFSCar</instituicao>
+  <anofiliacao>2007</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciências Sociais</nomeprograma>
+  <instituicao>PUC-SP</instituicao>
+  <anofiliacao>1978</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Relações Internacionais</nomeprograma>
+  <instituicao>UNESP-UNICAMP-PUC/SP</instituicao>
+  <anofiliacao>2005</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação de Pós-Graduação em Relações Internacionais</nomeprograma>
+  <instituicao>IRI/USP</instituicao>
+  <anofiliacao>2010</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciências Sociais</nomeprograma>
+  <instituicao>UNESP-Araraquara</instituicao>
+  <anofiliacao>1981</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Ciências Sociais</nomeprograma>
+  <instituicao>UNESP-Marília</instituicao>
+  <anofiliacao>2000</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Sociologia</nomeprograma>
+  <instituicao>UNICAMP</instituicao>
+  <anofiliacao>1978</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Sociologia</nomeprograma>
+  <instituicao>USP</instituicao>
+  <anofiliacao>1978</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Sociologia</nomeprograma>
+  <instituicao>UFSCar</instituicao>
+  <anofiliacao>2007</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Núcleo de Ciência</nomeprograma>
+  <instituicao/>
+  <anofiliacao>2009</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Programa de Pós-Graduação em Sociologia</nomeprograma>
+  <instituicao>UFS</instituicao>
+  <anofiliacao>2005</anofiliacao>
+ </programa>
+ <programa>
+  <nomeprograma>Núcleo de Pós-Graduação em Antropologia</nomeprograma>
+  <instituicao>UFS</instituicao>
+  <anofiliacao>2010</anofiliacao>
+ </programa>
+</programas>
