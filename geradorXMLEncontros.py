@@ -22,11 +22,42 @@ for line in lines:
         # bienio = ET.SubElement(root, 'bienios')
         print("linha vazia")
     else:
+        diafim = None
+        res = line.split(",")
+        estado = res[-1].strip()
+        cidade = res[1].strip()
+        strdatas = res[0]
+        dias = re.findall(r'\s\d\d\s',strdatas)
+        diainicio = dias[0].strip()
+        print(dias)
+        n = len(dias)
+        print(n)
+        if n > 1:
+            diafim = dias[1]
+        resmes = re.search(r'setembro|outubro', strdatas)
+        mes = resmes[0].strip()
+        if mes == "setembro":
+            mesdata = 9
+        if mes == "outubro":
+            mesdata = 10
+        resano = re.search(r'\d\d\d\d', strdatas)
+        ano = resano[0]
+        encontro = et.SubElement(root, "encontro")
 
-        colaborador = et.SubElement(root, "colaborador")
-        nome = et.SubElement(colaborador, 'nome')
-        nome.text = util.getnome(line)
 
+
+        cid = et.SubElement(encontro, 'cidade')
+        cid.text = cidade
+
+        est = et.SubElement(encontro, "estado")
+        est.text = estado
+
+        dataini = et.SubElement(encontro, "datainicio")
+        dataini.text = diainicio.strip() + '-' + mes + '-' + ano
+
+        if diafim is not None:
+            datafim = et.SubElement(encontro, "datafim")
+            datafim.text = diafim.strip() + "-" + str(mesdata) + "-" + ano
 
 f.close()
 #prettify xml

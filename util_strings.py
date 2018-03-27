@@ -1,15 +1,6 @@
 import re
 
 
-def sohletras(str):
-    result = re.search('\(|\)', str)
-    if result != None:
-
-        return False
-
-    else:
-        return True
-
 
 def getbienios(line):
     lst = line.split(" ")
@@ -43,3 +34,32 @@ def get_instituicao(line):
         instituicao = instituicao.replace('(', '')
         instituicao = instituicao.replace(')', '')
     return instituicao
+
+def periodoporextenso(anoinicio,anofim):
+    ai = int(anoinicio)
+    af = int(anofim)
+    retorno = anoinicio
+    if ai > af:
+        temp = af
+        af = ai
+        ai = temp
+    ano = ai+1
+    while ano < af + 1:
+        retorno = retorno + ", " + str(ano)
+        ano = ano + 1
+    return retorno.strip()
+
+def explodeperiodo(line):
+    res = re.findall(r'\d\d\d\d-\d\d\d\d', line)
+
+    tamanho = len(res)
+    i = 0
+    retorno = line
+
+    while i < tamanho:
+        st = res[i].split('-')
+        retorno = retorno.replace(res[i], periodoporextenso(st[0], st[1]))
+        i = i + 1
+
+    return retorno
+
