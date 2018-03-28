@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b647030c-e020-4c66-93de-2e1edea0a0b6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/ImagemSom.txt" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/ImagemSom.txt" afterPath="$PROJECT_DIR$/ImagemSom.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,8 +36,8 @@
       <file leaf-file-name="ImagemSom.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ImagemSom.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="43" column="94" lean-forward="true" selection-start-line="43" selection-start-column="94" selection-end-line="43" selection-end-column="94" />
+            <state relative-caret-position="3891">
+              <caret line="328" column="89" lean-forward="false" selection-start-line="328" selection-start-column="89" selection-end-line="328" selection-end-column="89" />
               <folding />
             </state>
           </provider>
@@ -575,8 +574,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ImagemSom.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="43" column="94" lean-forward="true" selection-start-line="43" selection-start-column="94" selection-end-line="43" selection-end-column="94" />
+        <state relative-caret-position="3891">
+          <caret line="328" column="89" lean-forward="false" selection-start-line="328" selection-start-column="89" selection-end-line="328" selection-end-column="89" />
           <folding />
         </state>
       </provider>
