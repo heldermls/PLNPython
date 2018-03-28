@@ -1,7 +1,6 @@
 import re
 
 
-
 def getbienios(line):
     lst = line.split(" ")
     filtrado = lst[1]
@@ -25,7 +24,6 @@ def getnome(line):
     return string.strip()
 
 
-
 def get_instituicao(line):
     result = re.search(r'\(.*\)', line)
     instituicao = ""
@@ -34,6 +32,7 @@ def get_instituicao(line):
         instituicao = instituicao.replace('(', '')
         instituicao = instituicao.replace(')', '')
     return instituicao
+
 
 def periodoporextenso(anoinicio,anofim):
     ai = int(anoinicio)
@@ -49,6 +48,7 @@ def periodoporextenso(anoinicio,anofim):
         ano = ano + 1
     return retorno.strip()
 
+
 def explodeperiodo(line):
     res = re.findall(r'\d\d\d\d-\d\d\d\d', line)
 
@@ -61,5 +61,11 @@ def explodeperiodo(line):
         retorno = retorno.replace(res[i], periodoporextenso(st[0], st[1]))
         i = i + 1
 
+    return retorno
+
+
+def removeparenteses(txt):
+    retorno = txt.replace("(", "")
+    retorno = retorno.replace(")", "")
     return retorno
 

@@ -61,7 +61,7 @@ formatedXML = minidom.parseString(et.tostring(root)).toprettyxml(indent=" ").str
 
 #tree.write('diretorias.xml',  method='xml')
 # write the formatedXML to file.
-with io.open("ComissoesFormatado.xml", "w+", encoding="utf-8") as f:
+with io.open("Comissoes.xml", "w+", encoding="utf-8") as f:
     f.write(formatedXML)
 
 
