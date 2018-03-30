@@ -18,8 +18,7 @@ for line in lines:
     # if its a break of subelements  - that is an empty space
 
     if not line or bool(re.match(r'\s\s*', line)):
-        # add the next subelement and get it as celldata
-        # bienio = ET.SubElement(root, 'bienios')
+        
         print("linha vazia")
     else:
 
