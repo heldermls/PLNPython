@@ -2,7 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b647030c-e020-4c66-93de-2e1edea0a0b6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/geradorXMLConversaComAutor.py" beforeDir="false" afterPath="$PROJECT_DIR$/geradorXMLConversaComAutor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Colaboradores.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xml/Colaboradores.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Comissoes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xml/Comissoes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Comites.txt" beforeDir="false" afterPath="$PROJECT_DIR$/txt/Comites.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conferencistas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/txt/Conferencistas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conferencistas.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xml/Conferencistas.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConversaComAutor.txt" beforeDir="false" afterPath="$PROJECT_DIR$/txt/ConversaComAutor.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConversaComAutor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xml/ConversaComAutor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Diretorias.txt" beforeDir="false" afterPath="$PROJECT_DIR$/txt/Diretorias.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiretoriasFormatado.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/xml/DiretoriasFormatado.xsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encontros.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xml/Encontros.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EnsaiosFotograficos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/txt/EnsaiosFotograficos.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EnsaiosFotograficos.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xml/EnsaiosFotograficos.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Filmes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/txt/Filmes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Filmes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xml/Filmes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeradorXMLComites.py" beforeDir="false" afterPath="$PROJECT_DIR$/py/GeradorXMLComites.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeradorXMLDiretorias.py" beforeDir="false" afterPath="$PROJECT_DIR$/py/GeradorXMLDiretorias.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeradorXMLDiretoriasBienio.py" beforeDir="false" afterPath="$PROJECT_DIR$/py/GeradorXMLDiretoriasBienio.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeradorXMLEnsaiosFotograficos.py" beforeDir="false" afterPath="$PROJECT_DIR$/py/GeradorXMLEnsaiosFotograficos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Livrodosnomesanpocs_2016.txt" beforeDir="false" afterPath="$PROJECT_DIR$/txt/Livrodosnomesanpocs_2016.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Participantes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/txt/Participantes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Participantes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xml/Participantes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/txt/Programas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programas.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xml/Programas.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/colaboradores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/txt/Colaboradores.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diretorias.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xml/diretorias.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encontros.txt" beforeDir="false" afterPath="$PROJECT_DIR$/txt/Encontros.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geradorXMLColaboradores.py" beforeDir="false" afterPath="$PROJECT_DIR$/py/geradorXMLColaboradores.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geradorXMLConferencistas.py" beforeDir="false" afterPath="$PROJECT_DIR$/py/geradorXMLConferencistas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geradorXMLConversaComAutor.py" beforeDir="false" afterPath="$PROJECT_DIR$/py/geradorXMLConversaComAutor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geradorXMLEncontros.py" beforeDir="false" afterPath="$PROJECT_DIR$/py/geradorXMLEncontros.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geradorXMLFilmes.py" beforeDir="false" afterPath="$PROJECT_DIR$/py/geradorXMLFilmes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geradorXMLParticipantes.py" beforeDir="false" afterPath="$PROJECT_DIR$/py/geradorXMLParticipantes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geradorXMLProgramas.py" beforeDir="false" afterPath="$PROJECT_DIR$/py/geradorXMLProgramas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/py/util_strings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,20 +46,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ConversaComAutor.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ConversaComAutor.txt">
+      <file leaf-file-name="geradorXMLConversaComAutor.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/py/geradorXMLConversaComAutor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="geradorXMLConversaComAutor.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/geradorXMLConversaComAutor.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+            <state relative-caret-position="159">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
               <folding>
                 <element signature="e#56#65#0" expanded="true" />
               </folding>
@@ -34,29 +58,83 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="geradorXMLConferencistas.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/geradorXMLConferencistas.py">
+      <file leaf-file-name="GeradorXMLDiretorias.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/py/GeradorXMLDiretorias.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+            <state relative-caret-position="493">
+              <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GeradorXMLDiretoriasBienio.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/py/GeradorXMLDiretoriasBienio.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="geradorXMLColaboradores.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/geradorXMLColaboradores.py">
+        <entry file="file://$PROJECT_DIR$/py/geradorXMLColaboradores.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="306">
+              <caret line="23" column="49" lean-forward="true" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="util_strings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/util_strings.py">
+      <file leaf-file-name="geradorXMLProgramas.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/py/geradorXMLProgramas.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1122">
-              <caret line="66" column="26" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
+            <state relative-caret-position="833">
+              <caret line="54" column="19" lean-forward="true" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="geradorXMLEncontros.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/py/geradorXMLEncontros.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GeradorXMLEnsaiosFotograficos.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/py/GeradorXMLEnsaiosFotograficos.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="geradorXMLFilmes.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/py/geradorXMLFilmes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="geradorXMLConferencistas.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/py/geradorXMLConferencistas.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GeradorXMLComites.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/py/GeradorXMLComites.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -115,6 +193,17 @@
         <option value="$PROJECT_DIR$/Filmes.txt" />
         <option value="$PROJECT_DIR$/ConversaComAutor.txt" />
         <option value="$PROJECT_DIR$/geradorXMLConversaComAutor.py" />
+        <option value="$PROJECT_DIR$/py/geradorXMLProgramas.py" />
+        <option value="$PROJECT_DIR$/py/geradorXMLParticipantes.py" />
+        <option value="$PROJECT_DIR$/py/geradorXMLFilmes.py" />
+        <option value="$PROJECT_DIR$/py/GeradorXMLEnsaiosFotograficos.py" />
+        <option value="$PROJECT_DIR$/py/geradorXMLEncontros.py" />
+        <option value="$PROJECT_DIR$/py/GeradorXMLDiretoriasBienio.py" />
+        <option value="$PROJECT_DIR$/py/geradorXMLConversaComAutor.py" />
+        <option value="$PROJECT_DIR$/py/geradorXMLConferencistas.py" />
+        <option value="$PROJECT_DIR$/py/GeradorXMLComites.py" />
+        <option value="$PROJECT_DIR$/py/geradorXMLColaboradores.py" />
+        <option value="$PROJECT_DIR$/py/GeradorXMLDiretorias.py" />
       </list>
     </option>
   </component>
@@ -128,21 +217,10 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,16 +228,38 @@
               <item name="PLNPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="PLNPython" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PLNPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PLNPython" type="462c0819:PsiDirectoryNode" />
+              <item name="py" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PLNPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PLNPython" type="462c0819:PsiDirectoryNode" />
+              <item name="txt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PLNPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PLNPython" type="462c0819:PsiDirectoryNode" />
+              <item name="xml" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pedropc\PLNPython\txt" />
+      <recent name="C:\Users\pedropc\PLNPython\py" />
+      <recent name="C:\Users\pedropc\PLNPython\xml" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -173,8 +273,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.geradorXMLConversaComAutor">
-    <configuration name="EnsaiosFotograficos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.GeradorXMLDiretorias">
+    <configuration name="GeradorXMLComites (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PLN Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,17 +282,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\helde\Github\PLNPython\GeradorXMLEnsaiosFotograficos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py/GeradorXMLComites.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="GeradorXMLComites" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="GeradorXMLDiretorias" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PLN Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,29 +300,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GeradorXMLComites.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="geradorXMLConferencistas" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PLN Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geradorXMLConferencistas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py/GeradorXMLDiretorias.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,13 +322,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geradorXMLConversaComAutor.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\pedropc\PLNPython\py\geradorXMLConversaComAutor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="geradorXMLFilmes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="geradorXMLEncontros" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PLN Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,30 +336,48 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geradorXMLFilmes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py/geradorXMLEncontros.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="geradorXMLProgramas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PLN Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py/geradorXMLProgramas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.GeradorXMLComites" />
-      <item itemvalue="Python.geradorXMLConferencistas" />
-      <item itemvalue="Python.EnsaiosFotograficos" />
-      <item itemvalue="Python.geradorXMLFilmes" />
       <item itemvalue="Python.geradorXMLConversaComAutor" />
+      <item itemvalue="Python.GeradorXMLComites (1)" />
+      <item itemvalue="Python.geradorXMLProgramas" />
+      <item itemvalue="Python.geradorXMLEncontros" />
+      <item itemvalue="Python.GeradorXMLDiretorias" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.GeradorXMLDiretorias" />
+        <item itemvalue="Python.geradorXMLEncontros" />
+        <item itemvalue="Python.geradorXMLProgramas" />
+        <item itemvalue="Python.GeradorXMLComites (1)" />
         <item itemvalue="Python.geradorXMLConversaComAutor" />
-        <item itemvalue="Python.geradorXMLFilmes" />
-        <item itemvalue="Python.EnsaiosFotograficos" />
-        <item itemvalue="Python.geradorXMLConferencistas" />
-        <item itemvalue="Python.GeradorXMLComites" />
       </list>
     </recent_temporary>
   </component>
@@ -304,13 +404,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.15952381" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.159375" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50714284" side_tool="true" weight="0.32858709" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49285713" weight="0.32858709" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49285713" visible="true" weight="0.32837406" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -355,35 +456,35 @@
     <option name="LAST_COMMIT_MESSAGE" value="novos xml" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ConversaComAutor.txt">
+    <entry file="file://$PROJECT_DIR$/txt/ConversaComAutor.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/geradorXMLConferencistas.py">
+    <entry file="file://$PROJECT_DIR$/py/geradorXMLConferencistas.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="47" lean-forward="true" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/geradorXMLColaboradores.py">
+    <entry file="file://$PROJECT_DIR$/py/geradorXMLColaboradores.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/util_strings.py">
+    <entry file="file://$PROJECT_DIR$/py/util_strings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1122">
           <caret line="66" column="26" lean-forward="true" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/geradorXMLConversaComAutor.py">
+    <entry file="file://$PROJECT_DIR$/py/geradorXMLConversaComAutor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
@@ -393,14 +494,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GeradorXMLDiretoriasBienio.py">
+    <entry file="file://$PROJECT_DIR$/py/GeradorXMLDiretoriasBienio.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1054">
           <caret line="67" column="3" selection-start-line="67" selection-start-column="3" selection-end-line="67" selection-end-column="3" />
+          <folding>
+            <element signature="e#56#65#0" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/util_strings.py">
+    <entry file="file://$PROJECT_DIR$/py/util_strings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="38" column="19" lean-forward="true" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
@@ -420,158 +524,161 @@
     <entry file="file://$USER_HOME$/PycharmProjects/LivroDeNomes/util.py" />
     <entry file="file://$PROJECT_DIR$/diretorias_teste.txt" />
     <entry file="file://$PROJECT_DIR$/teste2.xml" />
-    <entry file="file://$PROJECT_DIR$/Comites.txt">
+    <entry file="file://$PROJECT_DIR$/txt/Comites.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1649">
           <caret line="136" column="22" lean-forward="true" selection-start-line="136" selection-start-column="22" selection-end-line="136" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/colaboradores.txt">
+    <entry file="file://$PROJECT_DIR$/txt/Colaboradores.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2516">
           <caret line="148" column="29" lean-forward="true" selection-start-line="148" selection-start-column="29" selection-end-line="148" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Diretorias.txt">
+    <entry file="file://$PROJECT_DIR$/txt/Diretorias.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-459" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programas.txt">
+    <entry file="file://$PROJECT_DIR$/txt/Programas.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1664">
           <caret line="135" column="46" selection-start-line="135" selection-start-column="43" selection-end-line="135" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/geradorXMLProgramas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="41" column="48" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeradorXMLDiretoriasBienio.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="96" selection-start-line="96" selection-end-line="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeradorXMLDiretorias.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="89" column="24" selection-start-line="89" selection-start-column="24" selection-end-line="89" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/geradorXMLEncontros.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Participantes.txt">
+    <entry file="file://$PROJECT_DIR$/txt/Participantes.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114920">
           <caret line="6760" column="18" selection-start-line="6760" selection-start-column="18" selection-end-line="6760" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/encontros.txt">
+    <entry file="file://$PROJECT_DIR$/txt/Encontros.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GeradorXMLComites.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util_strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="66" column="26" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Conferencistas.txt">
+    <entry file="file://$PROJECT_DIR$/txt/Conferencistas.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1496">
           <caret line="88" column="38" selection-start-line="88" selection-start-column="38" selection-end-line="88" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GeradorXMLEnsaiosFotograficos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="31" column="49" selection-end-line="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/geradorXMLFilmes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="44" column="45" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EnsaiosFotograficos.txt">
+    <entry file="file://$PROJECT_DIR$/txt/EnsaiosFotograficos.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="25" column="119" selection-start-line="25" selection-start-column="118" selection-end-line="25" selection-end-column="119" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Filmes.txt">
+    <entry file="file://$PROJECT_DIR$/txt/Filmes.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/geradorXMLParticipantes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="17" column="47" lean-forward="true" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/geradorXMLConferencistas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/geradorXMLColaboradores.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ConversaComAutor.txt">
+    <entry file="file://$PROJECT_DIR$/txt/ConversaComAutor.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/geradorXMLConversaComAutor.py">
+    <entry file="file://$PROJECT_DIR$/py/util_strings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        <state relative-caret-position="176">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py/geradorXMLParticipantes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py/geradorXMLFilmes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py/GeradorXMLEnsaiosFotograficos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py/geradorXMLEncontros.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py/GeradorXMLDiretoriasBienio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <folding>
+            <element signature="e#56#65#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py/geradorXMLConversaComAutor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
           <folding>
             <element signature="e#56#65#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py/geradorXMLConferencistas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py/GeradorXMLComites.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py/geradorXMLProgramas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="54" column="19" lean-forward="true" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py/geradorXMLColaboradores.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="23" column="49" lean-forward="true" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py/GeradorXMLDiretorias.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
         </state>
       </provider>
     </entry>

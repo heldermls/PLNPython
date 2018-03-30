@@ -1,25 +1,22 @@
 # from xml.etree.ElementTree import Element,ElementTree
 import re
 import io
-import util_strings as util
+from py import util_strings as util
 import unicodedata
 import xml.dom.minidom as minidom
 import xml.etree.ElementTree as et
 
 root = et.Element('conferencistas')
 tree = et.ElementTree(root)
-with open('Conferencistas.txt', encoding="utf8") as f:
+with open('../txt/Conferencistas.txt', encoding="utf8") as f:
     txt = f.read()
     clean_text = unicodedata.normalize("NFKD", txt)
     lines = clean_text.splitlines()
 
 
 for line in lines:
-    # if its a break of subelements  - that is an empty space
 
     if not line or bool(re.match(r'\s\s*', line)):
-        # add the next subelement and get it as celldata
-        # bienio = ET.SubElement(root, 'bienios')
         print("linha vazia")
     else:
         spl = line.split(',')
@@ -49,7 +46,7 @@ formatedXML = minidom.parseString(et.tostring(root)).toprettyxml(indent=" ").str
 
 #tree.write('diretorias.xml',  method='xml')
 # write the formatedXML to file.
-with io.open("Conferencistas.xml", "w+", encoding="utf-8") as f:
+with io.open("../xml/Conferencistas.xml", "w+", encoding="utf-8") as f:
     f.write(formatedXML)
 
 
