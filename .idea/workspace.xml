@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b647030c-e020-4c66-93de-2e1edea0a0b6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/ConversaComAutor.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/geradorXMLConversaComAutor.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/EnsaiosFotograficos.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/EnsaiosFotograficos.py" afterPath="$PROJECT_DIR$/GeradorXMLEnsaiosFotograficos.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,7 +27,7 @@
       <file leaf-file-name="geradorXMLConversaComAutor.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/geradorXMLConversaComAutor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="391">
               <caret line="28" column="40" lean-forward="false" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
               <folding />
             </state>
@@ -189,7 +188,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PLN Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EnsaiosFotograficos.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\helde\Github\PLNPython\GeradorXMLEnsaiosFotograficos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -538,7 +537,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EnsaiosFotograficos.py">
+    <entry file="file://$PROJECT_DIR$/GeradorXMLEnsaiosFotograficos.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="31" column="49" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
@@ -604,7 +603,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/geradorXMLConversaComAutor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
+        <state relative-caret-position="391">
           <caret line="28" column="40" lean-forward="false" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
           <folding />
         </state>
