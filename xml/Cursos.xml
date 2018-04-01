@@ -1,0 +1,496 @@
+<?xml version="1.0" ?>
+<cursos>
+ <curso>
+  <nome>Reinventando os Clássicos</nome>
+  <subcurso>
+   <nomesubcurso>Democracia e República em Alexis de Toqueville</nomesubcurso>
+   <professor>Marcelo Jasmin</professor>
+   <ano>2010</ano>
+  </subcurso>
+  <subcurso>
+   <nomesubcurso>Aspectos do tem a da determinação em Karl Marx e a sociologia da cultura de Raymond Williams</nomesubcurso>
+   <professor>Marcelo Ridenti</professor>
+   <ano>2011</ano>
+  </subcurso>
+  <subcurso>
+   <nomesubcurso>Gramsci e a reinvenção do marxismo</nomesubcurso>
+   <professor>Marco Aurélio Nogueira</professor>
+   <ano>2012</ano>
+  </subcurso>
+  <subcurso>
+   <nomesubcurso>A teoria Crítica e os Estudos Pós-Coloniais na Política Internacional</nomesubcurso>
+   <professor>Marcos Costa Lima</professor>
+   <ano>2013</ano>
+  </subcurso>
+  <subcurso>
+   <nomesubcurso>Alexis de Tocqueville – sociedade e política</nomesubcurso>
+   <professor>Maria Alice Rezende de Carvalho</professor>
+   <ano>2013</ano>
+  </subcurso>
+  <subcurso>
+   <nomesubcurso>Relendo os clássicos para repensar as instituições políticas</nomesubcurso>
+   <professor>Maria Hermínia Tavares de Almeida</professor>
+   <ano>2008</ano>
+  </subcurso>
+  <subcurso>
+   <nomesubcurso>A escola de Manchester</nomesubcurso>
+   <professor>Peter Fry</professor>
+   <ano>2015</ano>
+  </subcurso>
+  <subcurso>
+   <nomesubcurso>Roger Bastide e a Sociologia das Religiões Afro-Brasileiras</nomesubcurso>
+   <professor>Reginaldo Prandi</professor>
+   <ano>2012</ano>
+  </subcurso>
+  <subcurso>
+   <nomesubcurso>Max Weber e a “transformação da alma do homem”</nomesubcurso>
+   <professor>Renan Springer de Freitas</professor>
+   <ano>2010</ano>
+  </subcurso>
+  <subcurso>
+   <nomesubcurso>Leach, Mary Douglas, Turner: Antropologia da ambiguidade</nomesubcurso>
+   <professor>Roberto DaMatta</professor>
+   <ano>2008</ano>
+  </subcurso>
+  <subcurso>
+   <nomesubcurso>Clássicos: a trajetória da Antropologia</nomesubcurso>
+   <professor>Roque de Barros Laraia</professor>
+   <ano>2013</ano>
+  </subcurso>
+  <subcurso>
+   <nomesubcurso>Globalização e Identidades Nacionais</nomesubcurso>
+   <professor>Ruben Oliven</professor>
+   <ano>2012</ano>
+  </subcurso>
+  <subcurso>
+   <nomesubcurso>A antropologia e o estudo da cidade</nomesubcurso>
+   <professor>Ruben Oliven</professor>
+   <ano>2010</ano>
+  </subcurso>
+  <subcurso>
+   <nomesubcurso>Sociologia e a “nova economia”: novas tecnologias, globalização, mercado e estado</nomesubcurso>
+   <professor>Sônia Guimarães</professor>
+   <ano>2009</ano>
+  </subcurso>
+  <subcurso>
+   <nomesubcurso>Sir Edward Evans-Pritchard: Bruxaria, oráculos e magia entre os azande e o medo do feitiço no Brasil republicano</nomesubcurso>
+   <professor>Yvonne Maggie</professor>
+   <ano>2011</ano>
+  </subcurso>
+ </curso>
+ <curso>
+  <nome>Reinventando os Clássicos Brasileiros</nome>
+  <subcurso>
+   <nomesubcurso>O populismo na política brasileira</nomesubcurso>
+   <professor>André Singer</professor>
+   <ano>2010</ano>
+  </subcurso>
+  <subcurso>
+   <nomesubcurso>Pensamento Social Brasileiro, Estado e Desenvolvimento</nomesubcurso>
+   <professor>Carlos Eduardo Martins</professor>
+   <ano>2011</ano>
+  </subcurso>
+  <subcurso>
+   <nomesubcurso>Maria Isaura Pereira de Queiroz – teoria e prática de pesquisar</nomesubcurso>
+   <professor>Cesar Barreira</professor>
+   <ano>2011</ano>
+  </subcurso>
+  <subcurso>
+   <nomesubcurso>Sociologia no Brasil e circulação de ideias</nomesubcurso>
+   <professor>Elide Rugai Bastos</professor>
+   <ano>2011</ano>
+  </subcurso>
+  <subcurso>
+   <nomesubcurso>Florestan Fernandes e Roger Bastide: parcerias “indisciplinares”</nomesubcurso>
+   <professor>Fernanda Peixoto</professor>
+   <ano>2009</ano>
+  </subcurso>
+  <subcurso>
+   <nomesubcurso>A atualidade de Joaquim Nabuco</nomesubcurso>
+   <professor>Francisco C. Weffort</professor>
+   <ano>2008</ano>
+  </subcurso>
+  <subcurso>
+   <nomesubcurso>Circuitos fechados e viagens redondas: Caio, Faoro e Florestan</nomesubcurso>
+   <professor>Gildo Marçal Brandão</professor>
+   <ano>2009</ano>
+  </subcurso>
+  <subcurso>
+   <nomesubcurso>Brasil além do mito: uma crítica ao pensamento social brasileiro</nomesubcurso>
+   <professor>Jessé Souza</professor>
+   <ano>2009</ano>
+  </subcurso>
+  <subcurso>
+   <nomesubcurso>Clássicos brasileiros: incursões sobre gênero e diversidade</nomesubcurso>
+   <professor>Lia Zanotta Machado</professor>
+   <ano>2010</ano>
+  </subcurso>
+  <subcurso>
+   <nomesubcurso>Uma introdução à antropologia no e do Brasil</nomesubcurso>
+   <professor>Lilia Schwarcz</professor>
+   <ano>2011</ano>
+  </subcurso>
+  <subcurso>
+   <nomesubcurso>A sociologia de Gilberto Freyre</nomesubcurso>
+   <professor>Ricardo Benzaquen</professor>
+   <ano>2008</ano>
+  </subcurso>
+ </curso>
+ <curso>
+  <nome>Temas Contemporâneos</nome>
+  <subcurso>
+   <nomesubcurso>O trabalho no plural: as novas fronteiras do assalariamento</nomesubcurso>
+   <professor>Cinara Rosenfield</professor>
+   <ano>2012</ano>
+  </subcurso>
+  <subcurso>
+   <nomesubcurso>O trabalho no plural: as novas fronteiras do assalariamento</nomesubcurso>
+   <professor>Jacob Carlos Lima</professor>
+   <ano>2012</ano>
+  </subcurso>
+  <subcurso>
+   <nomesubcurso>Internet e Representação Política: Tendências e efeitos no Brasil contemporâneo</nomesubcurso>
+   <professor>Jamil Marques</professor>
+   <ano>2012</ano>
+  </subcurso>
+  <subcurso>
+   <nomesubcurso>Favelas Cariocas: ontem e hoje</nomesubcurso>
+   <professor>Mário Brum</professor>
+   <ano>2012</ano>
+  </subcurso>
+  <subcurso>
+   <nomesubcurso>Favelas Cariocas: ontem e hoje</nomesubcurso>
+   <professor>Mauro Amoroso</professor>
+   <ano>2012</ano>
+  </subcurso>
+  <subcurso>
+   <nomesubcurso>Favelas Cariocas: ontem e hoje</nomesubcurso>
+   <professor>Rafael Soares Gonçalves</professor>
+   <ano>2012</ano>
+  </subcurso>
+ </curso>
+ <curso>
+  <nome>Análises de correspondências em Ciências Sociais</nome>
+  <professor>
+   <nome>Enivaldo Carvalho da Rocha</nome>
+   <instituicao>UFPE</instituicao>
+  </professor>
+  <ano>2006</ano>
+ </curso>
+ <curso>
+  <nome>Aplicabilidade do programa NVIVO7 nas pesquisa social</nome>
+  <professor>
+   <nome>Alex N. Teixeira</nome>
+   <instituicao>UFRGS</instituicao>
+  </professor>
+  <ano>2006</ano>
+  <professor>
+   <nome>José Vicente Tavares dos Santos</nome>
+   <instituicao>UFRGS</instituicao>
+  </professor>
+  <ano>2006</ano>
+  <professor>
+   <nome>Maurício Russo</nome>
+   <instituicao>UFRGS</instituicao>
+  </professor>
+  <ano>2006</ano>
+ </curso>
+ <curso>
+  <nome>Cultura e Política: a perspectiva da antropologia</nome>
+  <professor>
+   <nome>Antônio Augusto Arantes</nome>
+   <instituicao>UNICAMP</instituicao>
+  </professor>
+  <ano>2000</ano>
+ </curso>
+ <curso>
+  <nome>Cultura e Política: a perspectiva da ciência política</nome>
+  <professor>
+   <nome>César Guimarães</nome>
+   <instituicao>IUPERJ</instituicao>
+  </professor>
+  <ano>2000</ano>
+ </curso>
+ <curso>
+  <nome>Cultura e política: a perspectiva da sociologia</nome>
+  <professor>
+   <nome>Sérgio Miceli</nome>
+   <instituicao>USP</instituicao>
+  </professor>
+  <ano>2000</ano>
+ </curso>
+ <curso>
+  <nome>Economia e Sociedade: olhares das Ciências Sociais</nome>
+  <professor>
+   <nome>Cécile Raud-Mattedi</nome>
+   <instituicao>UFSC</instituicao>
+  </professor>
+  <ano>2006</ano>
+  <professor>
+   <nome>Maria Rita Loureiro</nome>
+   <instituicao>FGV-SP</instituicao>
+  </professor>
+  <ano>2006</ano>
+  <professor>
+   <nome>Ricardo Abramovay</nome>
+   <instituicao/>
+  </professor>
+  <ano>2006</ano>
+ </curso>
+ <curso>
+  <nome>Indicadores sociais e de Direitos Humanos</nome>
+  <professor>
+   <nome>Débora de Santana Oliveira</nome>
+   <instituicao>UFRJ</instituicao>
+  </professor>
+  <ano>2007</ano>
+  <professor>
+   <nome>Leonardo de Carvalho da Silva</nome>
+   <instituicao>SSP-RJ</instituicao>
+  </professor>
+  <ano>2007</ano>
+  <professor>
+   <nome>Neide Lopes Patarra</nome>
+   <instituicao>ENCE/IBGE</instituicao>
+  </professor>
+  <ano>2007</ano>
+  <professor>
+   <nome>Paulo de Martino Januzzi</nome>
+   <instituicao>ENCE/IBGE, SEADE</instituicao>
+  </professor>
+  <ano>2007</ano>
+ </curso>
+ <curso>
+  <nome>Introdução ao uso de Bancos de Dados</nome>
+  <professor>
+   <nome>Davi Cordeiro Moreira</nome>
+   <instituicao>CIS/USP</instituicao>
+  </professor>
+  <ano>2011</ano>
+  <professor>
+   <nome>Diego Novais Souza</nome>
+   <instituicao>CIS/USP</instituicao>
+  </professor>
+  <ano>2015</ano>
+  <professor>
+   <nome>Leilor Miranda Soares</nome>
+   <instituicao>CIS/USP</instituicao>
+  </professor>
+  <ano>2015</ano>
+  <professor>
+   <nome>Fábio Lacerda</nome>
+   <instituicao>CIS/USP</instituicao>
+  </professor>
+  <ano>2012</ano>
+  <professor>
+   <nome>Fernanda Machado</nome>
+   <instituicao>CIS/USP</instituicao>
+  </professor>
+  <ano>2014</ano>
+  <professor>
+   <nome>Fernando Bortolleto</nome>
+   <instituicao>CIS/USP</instituicao>
+  </professor>
+  <ano>2015</ano>
+  <professor>
+   <nome>Maurício Moya   2007</nome>
+   <instituicao>CIS/ANPOCS</instituicao>
+  </professor>
+  <ano>2006</ano>
+  <professor>
+   <nome>Marcela Tulli</nome>
+   <instituicao>CIS/USP</instituicao>
+  </professor>
+  <ano>2014</ano>
+  <professor>
+   <nome>Michelle Medrado</nome>
+   <instituicao>CIS</instituicao>
+  </professor>
+  <ano>2006</ano>
+  <professor>
+   <nome>Paulo Sérgio Peres</nome>
+   <instituicao>CIS</instituicao>
+  </professor>
+  <ano>2006</ano>
+  <professor>
+   <nome>Perdro Iemma</nome>
+   <instituicao>CIS/USP</instituicao>
+  </professor>
+  <ano>2006</ano>
+  <professor>
+   <nome>Rodrigo Martins</nome>
+   <instituicao>CIS/USP</instituicao>
+  </professor>
+  <ano>2013</ano>
+  <professor>
+   <nome>Sergio Simoni Junior</nome>
+   <instituicao>CIS/USP</instituicao>
+  </professor>
+  <ano>2012</ano>
+  <professor>
+   <nome>Vinícius S. M. do Valle</nome>
+   <instituicao>CIS/USP</instituicao>
+  </professor>
+  <ano>2013</ano>
+ </curso>
+ <curso>
+  <nome>Novas tendências nas Ciências Sociais</nome>
+  <professor>
+   <nome>Gláucia Villas Boas</nome>
+   <instituicao>UFRJ</instituicao>
+  </professor>
+  <ano>2007</ano>
+  <professor>
+   <nome>Gustavo Lins Ribeiro</nome>
+   <instituicao>UnB</instituicao>
+  </professor>
+  <ano>2007</ano>
+  <professor>
+   <nome>José Eisenberg</nome>
+   <instituicao>IUPERJ</instituicao>
+  </professor>
+  <ano>2007</ano>
+ </curso>
+ <curso>
+  <nome>Religião e Ciências Sociais</nome>
+  <professor>
+   <nome>Antônio Flávio Pierucci</nome>
+   <instituicao>USP</instituicao>
+  </professor>
+  <ano>2007</ano>
+  <professor>
+   <nome>Ari Pedro Oro</nome>
+   <instituicao>UFRGS</instituicao>
+  </professor>
+  <ano>2007</ano>
+  <professor>
+   <nome>Joanildo A. Burity</nome>
+   <instituicao>FUNDAJ</instituicao>
+  </professor>
+  <ano>2007</ano>
+ </curso>
+ <curso>
+  <nome>O Censo Demográfico e as Ciências Sociais: aspectos metodológicos, acessibilidade e perspectivas de análises temáticas</nome>
+  <professor>
+   <nome>José Eustáquio Diniz Alves</nome>
+   <instituicao>ENCE/IBGE</instituicao>
+  </professor>
+  <ano>2011</ano>
+  <professor>
+   <nome>Suzana Cavenaghi</nome>
+   <instituicao/>
+  </professor>
+  <ano>2011</ano>
+ </curso>
+ <curso>
+  <nome>Teoria Antropológica</nome>
+  <professor>
+   <nome>Eunice Durham</nome>
+   <instituicao>USP</instituicao>
+  </professor>
+  <ano>2001</ano>
+  <professor>
+   <nome>Guita Grin Debert</nome>
+   <instituicao>UNICAMP</instituicao>
+  </professor>
+  <ano>2004</ano>
+  <professor>
+   <nome>Roberto DaMatta</nome>
+   <instituicao>UFF</instituicao>
+  </professor>
+  <ano>2003</ano>
+  <professor>
+   <nome>Yvonne Maggie</nome>
+   <instituicao>UFRJ</instituicao>
+  </professor>
+  <ano>2002</ano>
+ </curso>
+ <curso>
+  <nome>Teoria Política</nome>
+  <professor>
+   <nome>Cícero Araújo</nome>
+   <instituicao>USP</instituicao>
+  </professor>
+  <ano>2003</ano>
+  <professor>
+   <nome>Maria Hermínia Tavares de Almeida</nome>
+   <instituicao>USP</instituicao>
+  </professor>
+  <ano>2002</ano>
+  <professor>
+   <nome>Maria Tereza Sadek</nome>
+   <instituicao>USP</instituicao>
+  </professor>
+  <ano>2004</ano>
+  <professor>
+   <nome>Renato Lessa</nome>
+   <instituicao>IUPERJ</instituicao>
+  </professor>
+  <ano>2001</ano>
+ </curso>
+ <curso>
+  <nome>Teoria Sociológica</nome>
+  <professor>
+   <nome>Antonio Flavio Pierucci</nome>
+   <instituicao>USP</instituicao>
+  </professor>
+  <ano>2003</ano>
+  <professor>
+   <nome>Maria Hermínia Tavares de Almeida</nome>
+   <instituicao>USP</instituicao>
+  </professor>
+  <ano>2002</ano>
+  <professor>
+   <nome>Sérgio Adorno</nome>
+   <instituicao>USP</instituicao>
+  </professor>
+  <ano>2004</ano>
+  <professor>
+   <nome>Vilma Figueiredo</nome>
+   <instituicao>UnB</instituicao>
+  </professor>
+  <ano>2001</ano>
+ </curso>
+ <curso>
+  <nome>Teoria social contemporânea: Antropologia</nome>
+  <professor>
+   <nome>Gilberto Velho</nome>
+   <instituicao>UFRJ</instituicao>
+  </professor>
+  <ano>1999</ano>
+ </curso>
+ <curso>
+  <nome>Teoria social contemporânea: Ciência Política</nome>
+  <professor>
+   <nome>Wanderley Guilherme dos Santos</nome>
+   <instituicao>IUPERJ</instituicao>
+  </professor>
+  <ano>1999</ano>
+ </curso>
+ <curso>
+  <nome>Teoria social contemporânea: Sociologia</nome>
+  <professor>
+   <nome>Gabriel Cohn</nome>
+   <instituicao>USP</instituicao>
+  </professor>
+  <ano>1999</ano>
+ </curso>
+ <curso>
+  <nome>Teorias sociais da cultura</nome>
+  <professor>
+   <nome>Luiz Fernando Dias Duarte</nome>
+   <instituicao>UFRJ</instituicao>
+  </professor>
+  <ano>2005</ano>
+  <professor>
+   <nome>Maria Arminda do Nascimento Arruda</nome>
+   <instituicao>USP</instituicao>
+  </professor>
+  <ano>2005</ano>
+  <professor>
+   <nome>Miguel Chaia</nome>
+   <instituicao>PUC-SP</instituicao>
+  </professor>
+  <ano>2005</ano>
+ </curso>
+</cursos>
