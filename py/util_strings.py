@@ -23,6 +23,15 @@ def getnome(line):
 
     return string.strip()
 
+def getgrupo(line):
+    string = line
+    res = re.search(r'\(.*\)', string)
+    if res is not None:
+        remove = res.group(0)
+        string = string.replace(remove, "")
+
+    return string.strip()
+
 
 def get_instituicao(line):
     result = re.search(r'\(.*\)', line)
