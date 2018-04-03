@@ -1,0 +1,533 @@
+<?xml version="1.0" ?>
+<encontros>
+ <participante>
+  <nome>André Carlos Tucunduva Romano</nome>
+  <instituicao>USP</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>André Eduardo Becker Krein</nome>
+  <instituicao>UNICAMP</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Aline Rodrigues Chiaramonte</nome>
+  <instituicao>USP</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Augusto Ventura dos Santos</nome>
+  <instituicao>USP</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Camila Alves Bastos</nome>
+  <instituicao>UFPR</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Carlos Eduardo Machado</nome>
+  <instituicao>UNESP</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Clara Crizio de Araujo Torres</nome>
+  <instituicao>PIBIC/FAPES</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Cristiane Santos de Castro</nome>
+  <instituicao>UERJ</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Daniel de Oliveira Vasconcelos</nome>
+  <instituicao>UnB</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Deborah Rio Fromm Trinta</nome>
+  <instituicao>UFSCAR</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Deywisson Ronaldo Oliveira de Souza</nome>
+  <instituicao>UFPE</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Diana Zacca Thomaz</nome>
+  <instituicao>UFF</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Diogo Serafim Schmidt</nome>
+  <instituicao>UFRGS</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Eduarda Lazari Maia</nome>
+  <instituicao>UFRJ</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Erika Cristina Dias Nogueira</nome>
+  <instituicao>UFMG</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Eucástila Jordânia de Souza Dias Anjos</nome>
+  <instituicao>UFRN</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Felipe Freller</nome>
+  <instituicao>USP</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Felipe Rangel Martins</nome>
+  <instituicao>UFSCAR</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Frederico Matos Alves Cabral</nome>
+  <instituicao>UFRS</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Gabriela de Brito Caruso</nome>
+  <instituicao>FGV/RJ</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Gabriela Sartori Mingatos</nome>
+  <instituicao>UNIFESP</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Gil de Souza von der Weid</nome>
+  <instituicao>UFF</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Giovana Almeida Nascimento</nome>
+  <instituicao>UFCG</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Guilherme Augusto da Silva</nome>
+  <instituicao>PUC/MG</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Gustavo da Rocha Silveira</nome>
+  <instituicao>UFSM</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Helma Janielle Souza de Oliveira</nome>
+  <instituicao>UFPB</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Jorge Garcia de Holanda</nome>
+  <instituicao>UFC</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>José Eduardo Gomes</nome>
+  <instituicao>UFRGS</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>José Evilásio Paula Ribeiro</nome>
+  <instituicao>UFC</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>José Radamés Marques Miguel dos Anjos</nome>
+  <instituicao>UFPE</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Josué Ferreira de Souza</nome>
+  <instituicao>CLAM/IMS/UERJ</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Juliana Passos de Mello</nome>
+  <instituicao>UFRGS</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Kamila Lima do Nascimento</nome>
+  <instituicao>UFPEL</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Karim Abdalla Helayel</nome>
+  <instituicao>UFRJ</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Leandro Carlos Dias Conde</nome>
+  <instituicao>UFRRJ</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Lucas Silveira de Moura</nome>
+  <instituicao>UFRGS</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Lucía Copelotti Guedes</nome>
+  <instituicao>UFRGS</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Luiza Mattheis Cruz Caixeta</nome>
+  <instituicao>UFJF</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Luiza Duarte Bissoli</nome>
+  <instituicao>UFES</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Maíra Kobayashi</nome>
+  <instituicao>PUC/SP</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Mariana Davi Ferreira</nome>
+  <instituicao>UFPB</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Mayra Rizzo Vieira</nome>
+  <instituicao>FESP</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Marcela Rabello de Castro Centelhas</nome>
+  <instituicao>UFRJ</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Marcela Zamboni Lucena</nome>
+  <instituicao>UFPB</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Marcelo Henrique Távora do Amaral</nome>
+  <instituicao>UFRJ</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Marcos Vinícius Guidotti Silva</nome>
+  <instituicao>UFSCAR</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Marília Gabrielle de Paula</nome>
+  <instituicao>UNIFESP</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Naiane Inez Cossul</nome>
+  <instituicao>UFSC</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Nelson Felix Lima Neto</nome>
+  <instituicao>PUC/RJ</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Paolla Jenevain Braga</nome>
+  <instituicao>UFJF</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Paulo Rodrigo de Sousa Santos</nome>
+  <instituicao>UFAM</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Pedro Lukas Trindade de Freitas</nome>
+  <instituicao>PIVIC/UFES</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Quézia Genaro de Freitas Torres</nome>
+  <instituicao>PUC/MG</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Rafael do Nascimento Cesar</nome>
+  <instituicao>USP</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Rafael Moreira Dardaque Mucinhato</nome>
+  <instituicao>USP</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Rafaela Gava Etechebere</nome>
+  <instituicao>UFSCAR</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Raíra Bohrer dos Santos</nome>
+  <instituicao>UFSM</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Roberto Romero Ribeiro Júnior</nome>
+  <instituicao>UFMG</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Rodrigo da Silva Camargo</nome>
+  <instituicao>UFRRJ</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Rodrigo Vieira de Assis</nome>
+  <instituicao>Fundação Joaquim Nabuco</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Sarah Celestini</nome>
+  <instituicao>UFSCAR</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Samantha de Andrade Gifalli</nome>
+  <instituicao>UFRJ</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Sandra Stephanie Holanda Ponte Ribeiro</nome>
+  <instituicao>UFC</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Veridiana Domingos Cordeiro</nome>
+  <instituicao>USP</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Victor Alcantara e Silva</nome>
+  <instituicao>UFMG</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Vinicius Prado Januzzi</nome>
+  <instituicao>UnB</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Vinícius Pedro Correia Zanoli</nome>
+  <instituicao>Unicamp</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Vivian Prado Pereira</nome>
+  <instituicao>UFSJ</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Thaiane Alexsandra Silva de Rezende</nome>
+  <instituicao>UFMG</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Tathiane dos Santos Vitorino</nome>
+  <instituicao>CLAM/IMS/UERJ</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Thiago Brandão Peres</nome>
+  <instituicao>UFRJ</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Waneska Andressa Viana de Oliveira</nome>
+  <instituicao>UFPE</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Weslley Hanns Carvalho Matos</nome>
+  <instituicao>UERJ</instituicao>
+  <papel>Autor com trabalho aprovado</papel>
+ </participante>
+ <participante>
+  <nome>Adriano Codato</nome>
+  <instituicao>UFPR</instituicao>
+  <papel>Coordenação</papel>
+ </participante>
+ <participante>
+  <nome>Alexandre Werneck</nome>
+  <instituicao>UFRJ</instituicao>
+  <papel>Coordenação</papel>
+ </participante>
+ <participante>
+  <nome>Aline Bonetti</nome>
+  <instituicao>UFBA</instituicao>
+  <papel>Coordenação</papel>
+ </participante>
+ <participante>
+  <nome>Bernardo Ferreira</nome>
+  <instituicao>UERJ</instituicao>
+  <papel>Coordenação</papel>
+ </participante>
+ <participante>
+  <nome>Camilo Braz</nome>
+  <instituicao>UFG</instituicao>
+  <papel>Coordenação</papel>
+ </participante>
+ <participante>
+  <nome>Clarice Cohn</nome>
+  <instituicao>UFSCAR</instituicao>
+  <papel>Coordenação</papel>
+ </participante>
+ <participante>
+  <nome>Daniel Hirata</nome>
+  <instituicao>UFRJ</instituicao>
+  <papel>Coordenação</papel>
+ </participante>
+ <participante>
+  <nome>Ernani Carvalho</nome>
+  <instituicao>UFPE</instituicao>
+  <papel>Coordenação</papel>
+ </participante>
+ <participante>
+  <nome>Fernando Pinheiro</nome>
+  <instituicao>USP</instituicao>
+  <papel>Coordenação</papel>
+ </participante>
+ <participante>
+  <nome>Geraldo Andrello</nome>
+  <instituicao>UFSCAR</instituicao>
+  <papel>Coordenação</papel>
+ </participante>
+ <participante>
+  <nome>Isadora L. França</nome>
+  <instituicao>UNICAMP</instituicao>
+  <papel>Coordenação</papel>
+ </participante>
+ <participante>
+  <nome>Janina Onuki</nome>
+  <instituicao>USP</instituicao>
+  <papel>Coordenação</papel>
+ </participante>
+ <participante>
+  <nome>Jorge Leite Jr.</nome>
+  <instituicao>UFSCAR</instituicao>
+  <papel>Coordenação</papel>
+ </participante>
+ <participante>
+  <nome>Luiz Henrique Passador</nome>
+  <instituicao>UFFS</instituicao>
+  <papel>Coordenação</papel>
+ </participante>
+ <participante>
+  <nome>Marcella Beraldo</nome>
+  <instituicao>UFJF</instituicao>
+  <papel>Coordenação</papel>
+ </participante>
+ <participante>
+  <nome>Marcelo Kunrath</nome>
+  <instituicao>UFRGS</instituicao>
+  <papel>Coordenação</papel>
+ </participante>
+ <participante>
+  <nome>Marcelo Natividade</nome>
+  <instituicao>UFC</instituicao>
+  <papel>Coordenação</papel>
+ </participante>
+ <participante>
+  <nome>Marcus Abílio G. Pereira</nome>
+  <instituicao>UFMG</instituicao>
+  <papel>Coordenação</papel>
+ </participante>
+ <participante>
+  <nome>Maria Aparecida Bridi</nome>
+  <instituicao>UFPR</instituicao>
+  <papel>Coordenação</papel>
+ </participante>
+ <participante>
+  <nome>Maria Fernanda L. Fernandes</nome>
+  <instituicao>UNIFESP</instituicao>
+  <papel>Coordenação</papel>
+ </participante>
+ <participante>
+  <nome>Maria Rosário Carvalho</nome>
+  <instituicao>UFBA</instituicao>
+  <papel>Coordenação</papel>
+ </participante>
+ <participante>
+  <nome>Marko Monteiro</nome>
+  <instituicao>UNICAMP</instituicao>
+  <papel>Coordenação</papel>
+ </participante>
+ <participante>
+  <nome>Nadia Meinerz</nome>
+  <instituicao>UFAL</instituicao>
+  <papel>Coordenação</papel>
+ </participante>
+ <participante>
+  <nome>Renato Monseff Perissinoto</nome>
+  <instituicao>UFPR</instituicao>
+  <papel>Coordenação</papel>
+ </participante>
+ <participante>
+  <nome>Renato Sztutman</nome>
+  <instituicao>USP</instituicao>
+  <papel>Coordenação</papel>
+ </participante>
+ <participante>
+  <nome>Ricardo Mariano</nome>
+  <instituicao>PUC/RS</instituicao>
+  <papel>Coordenação</papel>
+ </participante>
+ <participante>
+  <nome>Ronaldo de Castro</nome>
+  <instituicao>UERJ</instituicao>
+  <papel>Coordenação</papel>
+ </participante>
+ <participante>
+  <nome>Rossana Reis</nome>
+  <instituicao>USP</instituicao>
+  <papel>Coordenação</papel>
+ </participante>
+ <participante>
+  <nome>Ruy Braga</nome>
+  <instituicao>USP</instituicao>
+  <papel>Coordenação</papel>
+ </participante>
+ <participante>
+  <nome>Tanielle Rui</nome>
+  <instituicao>UNICAMP</instituicao>
+  <papel>Coordenação</papel>
+ </participante>
+ <participante>
+  <nome>Bernardo Ricupero</nome>
+  <instituicao>USP</instituicao>
+  <papel>Comissão Acadêmica</papel>
+ </participante>
+ <participante>
+  <nome>Regina Facchini</nome>
+  <instituicao>UNICAMP</instituicao>
+  <papel>Comissão Acadêmica</papel>
+ </participante>
+ <participante>
+  <nome>Gabriel Feltran</nome>
+  <instituicao>UFSCar</instituicao>
+  <papel>Comissão Acadêmica</papel>
+ </participante>
+</encontros>
