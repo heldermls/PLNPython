@@ -1,4 +1,4 @@
-# from xml.etree.ElementTree import Element,ElementTree
+#from xml.etree.ElementTree import Element,ElementTree
 import re
 import io
 from py import util_strings as util
@@ -13,14 +13,13 @@ with open('../txt/EncontrosIniciacaoCientifica.txt', encoding="utf8") as f:
     txt = f.read()
     clean_text = unicodedata.normalize("NFKD", txt)
     lines = clean_text.splitlines()
-#gerando iterador para ter acesso ao next()
+# gerando iterador para ter acesso ao next()
 itr = iter(lines)
 for line in itr:
 
     if not line or bool(re.match(r'\s\s*', line)):
         print("linha vazia")
     else:
-
 
         searchpapel = re.search(r'Autores.*|Coordenadores.*|Comiss.*', line)
         ehcargo = bool(searchpapel)
@@ -41,18 +40,13 @@ for line in itr:
             pap = et.SubElement(participante, 'papel')
             pap.text = papel
 
-
-
-
-
-
 f.close()
-#prettify xml
+# prettify xml
 
 formatedXML = minidom.parseString(et.tostring(root)).toprettyxml(indent=" ").strip()
-#print(formatedXML)
+# print(formatedXML)
 
-#tree.write('diretorias.xml',  method='xml')
+# tree.write('diretorias.xml',  method='xml')
 # write the formatedXML to file.
 with io.open("../xml/EncontrosIniciacaoCientifica.xml", "w+", encoding="utf-8") as f:
     f.write(formatedXML)
