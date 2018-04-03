@@ -23,7 +23,7 @@ def getnome(line):
 
     return string.strip()
 
-def getgrupo(line):
+def removeano(line):
     string = line
     res = re.search(r'\(.*\)', string)
     if res is not None:
