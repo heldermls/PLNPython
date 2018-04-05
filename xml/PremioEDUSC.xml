@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<root>
+<vencedor>
+  <nome>Heloísa Buarque de Almeida</nome>
+  <instituicao>UNICAMP</instituicao>
+  <ano>2002</ano>
+</vencedor>
+<vencedor>
+  <nome>Thamy Pogrebinschi</nome>
+  <instituicao>IUPERJ</instituicao>
+  <ano>2002</ano>
+</vencedor>
+<vencedor>
+  <nome>Renan Springer de Freitas</nome>
+  <instituicao>UFMF</instituicao>
+  <ano>2002</ano>
+</vencedor>
+<vencedor>
+  <nome>Carlos Antonio Costa Ribeiro</nome>
+    <ano>2003</ano>
+</vencedor>
+    <vencedor>
+  <nome>Izabel Missagia de Mattos</nome>
+    <ano>2003</ano>
+</vencedor>
+<vencedor>
+  <nome>Laura Moutinho</nome>
+    <ano>2003</ano>
+</vencedor>
+<vencedor>
+  <nome>Miguel Serna Forcheri</nome>
+    <ano>2003</ano>
+</vencedor>
+</root>
