@@ -28,7 +28,6 @@ for line in itr:
             txttipoobra = line.replace("#", "")
         searchnome = re.search(r'(.*),\s*(\d\d\d\d)', line)
         ehnome = bool(searchnome)
-        print(searchnome)
         if ehconcurso:
             tipoconcurso = searchtipoconcurso.group(0)
             tipoconcurso = tipoconcurso.replace("#", "")
@@ -44,10 +43,7 @@ for line in itr:
             anoobra.text = ano
             tipoobra = et.SubElement(obra, 'categoria')
             tipoobra.text = txttipoobra
-
-
         else:
-
             nomeobra = line.strip()
             nmobra = et.SubElement(obra, 'titulo')
             nmobra.text = nomeobra
