@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<root>
+<vencedor>
+  <nome>Alexandre Barbosa Fraga</nome>
+  <instituicao>UFRJ</instituicao>
+   <premio>Menção Honrosa</premio>
+  <ano>2009</ano>
+</vencedor>
+<vencedor>
+  <nome>Cláudio Gonçalves Couto</nome>
+  <instituicao>FGV-SP / PUC-SP</instituicao>
+     <premio>1º lugar, Pesquisador</premio>
+  <ano>2009</ano>
+</vencedor>
+<vencedor>
+  <nome>Danilo Buscatto Medeiros</nome>
+  <instituicao>USP</instituicao>
+    <premio>1º lugar, Pós-graduando</premio>
+  <ano>2009</ano>
+</vencedor>
+<vencedor>
+  <nome>Gabriela Nunes Ferreira</nome>
+    <instituicao>CEDEC</instituicao>
+    <premio>2º lugar, Pesquisadora</premio>
+  <ano>2009</ano>
+
+</vencedor>
+    <vencedor>
+  <nome>Igor Suzano Machado</nome>
+    <instituicao>IUPERJ</instituicao>
+    <premio>Menção Honrosa</premio>
+  <ano>2009</ano>
+</vencedor>
+<vencedor>
+  <nome>Júlio Aurélio Vianna Lope</nome>
+
+    <instituicao>Fundação Casa de Rui Barbosa</instituicao>
+    <premio>3º lugar, Pesquisador</premio>
+  <ano>2009</ano>
+</vencedor>
+<vencedor>
+  <nome>Maria Fernanda Lombardi Fernandes</nome>
+    <ano>UFRJ</ano>
+    <instituicao>CEDEC</instituicao>
+    <premio>2º lugar, Pesquisadora</premio>
+  <ano>2009</ano>
+</vencedor>
+    <vencedor>
+  <nome>Patrick Cunha Silva</nome>
+
+    <instituicao>USP/CEBRAP</instituicao>
+    <premio>3º lugar, Pós-graduando</premio>
+  <ano>2009</ano>
+</vencedor>
+    <vencedor>
+  <nome>Rafael de Souza</nome>
+    <instituicao>USP/CEBRAP</instituicao>
+    <premio>3º lugar, Pós-graduando</premio>
+  <ano>2009</ano>
+</vencedor>
+     <vencedor>
+  <nome>Rafael Freitas dos Santos</nome>
+    <instituicao>USP</instituicao>
+    <premio>1º lugar, Pós-graduando</premio>
+  <ano>2009</ano>
+</vencedor>
+    <vencedor>
+  <nome>Rafael Silveira e Silva</nome>
+    <instituicao>UnB</instituicao>
+    <premio> 2º lugar, Pós-graduando</premio>
+  <ano>2009</ano>
+</vencedor>
+    <vencedor>
+  <nome>Rogério Bastos Arantes</nome>
+    <instituicao>USP</instituicao>
+    <premio>1º lugar, Pesquisador</premio>
+  <ano>2009</ano>
+</vencedor>
+    <vencedor>
+  <nome>Samuel Moura Santos</nome>
+    <instituicao>USP</instituicao>
+    <premio>1º lugar, Pós- graduando</premio>
+  <ano>2009</ano>
+</vencedor>
+<vencedor>
+  <nome>Sérgio Simoni Júnior </nome>
+    <instituicao>USP/CEBRAP</instituicao>
+    <premio>3º lugar, Pós-graduando</premio>
+  <ano>2009</ano>
+</vencedor>
+</root>

@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<root>
+<vencedor>
+  <nome>Caio Martins Bugiato</nome>
+  <instituicao>UNICAMP</instituicao>
+   <programa>Mestrado em Ciência Política</programa>
+  <ano>2008</ano>
+</vencedor>
+<vencedor>
+  <nome>César Augusto Marques da Silva</nome>
+  <instituicao>Nepo-UNICAMP</instituicao>
+  <ano>2008</ano>
+</vencedor>
+<vencedor>
+  <nome>Cláudio Barcelos Ogando</nome>
+  <instituicao>UFSC</instituicao>
+    <programa>Mestrado em Sociologia</programa>
+  <ano>2008</ano>
+</vencedor>
+<vencedor>
+  <nome>Fernando Wilson Sabonete</nome>
+    <instituicao>UFPE</instituicao>
+    <programa>Mestrado em Antropologia</programa>
+  <ano>2008</ano>
+
+</vencedor>
+    <vencedor>
+  <nome>Jamile Larias Chequer</nome>
+    <instituicao>PUC-Rio</instituicao>
+    <programa>Mestrado em Ciências Sociais</programa>
+  <ano>2008</ano>
+</vencedor>
+<vencedor>
+  <nome>Joyce Fatttori</nome>
+
+    <instituicao>Unesp–Marília</instituicao>
+    <programa>Mestrado em Ciência Política</programa>
+  <ano>2008</ano>
+</vencedor>
+<vencedor>
+  <nome>Luisa Barbosa Pereira</nome>
+    <ano>UFRJ</ano>
+    <instituicao>Unesp–Marília</instituicao>
+    <programa>Mestrado em Sociologia</programa>
+  <ano>2008</ano>
+</vencedor>
+    <vencedor>
+  <nome>Marcela Fernanda da Paz de Souza</nome>
+
+    <instituicao>UFJF</instituicao>
+    <programa>Mestrado em Sociologia</programa>
+  <ano>2008</ano>
+</vencedor>
+    <vencedor>
+  <nome>Maurício Hiroaki Hashizume</nome>
+    <instituicao>USP</instituicao>
+    <programa>Mestrado em Sociologia</programa>
+  <ano>2008</ano>
+</vencedor>
+     <vencedor>
+  <nome>Norma Valentina de Almeida dos Anjos</nome>
+    <instituicao>Puc-Minas</instituicao>
+    <programa>Mestrado em Sociologia</programa>
+  <ano>2008</ano>
+</vencedor>
+</root>
