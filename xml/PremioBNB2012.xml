@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<root>
+<vencedor>
+  <nome>Marcus Ramúsyo de Almeida Brasil</nome>
+  <instituicao>PUC-SP</instituicao>
+   <premio>1º lugar, Doutorado</premio>
+  <ano>2012</ano>
+</vencedor>
+<vencedor>
+  <nome>Pedro Tadeu Faria D’Allevedo</nome>
+  <instituicao>UFPB</instituicao>
+     <premio>1º lugar, Mestrado</premio>
+  <ano>2012</ano>
+</vencedor>
+<vencedor>
+  <nome>Danilo Buscatto Medeiros</nome>
+  <instituicao>USP</instituicao>
+    <premio>1º lugar, Pós-graduando</premio>
+  <ano>2009</ano>
+</vencedor>
+<vencedor>
+  <nome>Sebastião Patrício Mendes da Costa</nome>
+    <instituicao>UFPI</instituicao>
+    <premio>2º lugar, Mestrado</premio>
+  <ano>2009</ano>
+</vencedor>
+</root>

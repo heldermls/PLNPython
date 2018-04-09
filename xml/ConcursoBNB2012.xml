@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<root>
+<vencedor>
+  <nome>Gemilson Soares da Silva Segundo</nome>
+  <instituicao>UFRRJ</instituicao>
+   <programa>Mestrado</programa>
+  <ano>2012</ano>
+</vencedor>
+<vencedor>
+  <nome>Lúcio Vasconcellos de Verçoza</nome>
+  <instituicao>UFSCar</instituicao>
+    <programa>Doutorado</programa>
+  <ano>2012</ano>
+</vencedor>
+<vencedor>
+  <nome>Ornela Fortes de Melo</nome>
+  <instituicao>UFPI</instituicao>
+    <programa>Mestrado</programa>
+  <ano>2012</ano>
+</vencedor>
+<vencedor>
+  <nome>Vanuccio Medeiros Pimentel</nome>
+    <instituicao>UFPE</instituicao>
+    <programa>Doutorado</programa>
+  <ano>2012</ano>
+
+</vencedor>
+
+</root>

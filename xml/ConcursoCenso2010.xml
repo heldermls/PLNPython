@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<root>
+<vencedor>
+  <nome>Arnaldo Lôpo Mont’Alvão Neto</nome>
+  <instituicao>UFMG</instituicao>
+  <ano>2010</ano>
+</vencedor>
+<vencedor>
+  <nome>Eduardo Ribeiro</nome>
+  <instituicao>UERJ</instituicao>
+  <ano>2010</ano>
+</vencedor>
+    <vencedor>
+  <nome>Marcel Theodor Hazeu</nome>
+  <instituicao>NAEA – UFPA</instituicao>
+  <ano>2010</ano>
+</vencedor>
+    <vencedor>
+  <nome>Lucia Isabel Silva</nome>
+  <instituicao>NAEA – UFPA</instituicao>
+  <ano>2010</ano>
+</vencedor>
+<vencedor>
+  <nome>Pedro Herculano Guimarães Ferreira de Souza</nome>
+  <instituicao>UnB</instituicao>
+  <ano>2010</ano>
+</vencedor>
+</root>

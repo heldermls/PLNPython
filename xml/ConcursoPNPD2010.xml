@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<root>
+<vencedor>
+  <nome>Alânia Mara de Lima Magalhães Felix </nome>
+  <instituicao>UFJF</instituicao>
+   <programa>Mestrado em Sociologia</programa>
+  <ano>2010</ano>
+</vencedor>
+<vencedor>
+  <nome>Aroldo Bezerra da Silva</nome>
+  <instituicao>UFRJ</instituicao>
+    <programa>Mestrado em Sociologia e Antropologia</programa>
+  <ano>2010</ano>
+</vencedor>
+<vencedor>
+  <nome>Cláudio Barcelos Ogando</nome>
+  <instituicao>UFSC</instituicao>
+    <programa>Mestrado em Sociologia</programa>
+  <ano>2008</ano>
+</vencedor>
+<vencedor>
+  <nome>Camila Ychikawa Bassi</nome>
+    <instituicao>Unesp–Marília</instituicao>
+    <programa>Mestrado em Ciências Sociais</programa>
+  <ano>2010</ano>
+
+</vencedor>
+    <vencedor>
+  <nome>Marcelo Alves Mourão</nome>
+    <instituicao>PUC Minas</instituicao>
+    <programa>Programa de Pós-Graduação em Ciências Sociais</programa>
+  <ano>2010</ano>
+</vencedor>
+<vencedor>
+  <nome>Marcio Batista Caparroz</nome>
+
+    <instituicao>Unesp–Marília</instituicao>
+    <programa>Mestrado em Sociologia</programa>
+  <ano>2010</ano>
+</vencedor>
+</root>
