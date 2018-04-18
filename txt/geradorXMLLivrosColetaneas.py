@@ -27,19 +27,24 @@ for matchNum, match in enumerate(matches):
         if groupNum == 1:
             vencedores = match.group(groupNum).split(" e ")
             for nome in vencedores:
-                res = re.search(r'\(.*\)', match.group(groupNum))
+                print(nome)
+                res = re.search(r'\(.*\)', nome)
                 txtnome = nome
                 autor = et.SubElement(obra, "autor")
                 nomeautor = et.SubElement(autor, "nomeautor")
                 if bool(res):
+
                     txtnome = txtnome.replace(res[0], "")
                     funcao = et.SubElement(autor, "funcao")
-                    funcao.text = res.group(0)
+                    if res.group(0).__contains__("oo"):
+                        funcao.text = "coordenador"
+                    else:
+                        funcao.text = "organizador"
                 nomeautor.text = txtnome
         if groupNum == 3:
             nomeobra = et.SubElement(obra, "nomeobra")
             nomeobra.text = match.group(groupNum).strip()
-            print(nomeobra.text)
+
         if groupNum == 4:
             if match.group(groupNum) != " ":
                 editora = et.SubElement(obra, "editora")

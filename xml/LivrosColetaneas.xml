@@ -3,11 +3,10 @@
  <obra>
   <autor>
    <nomeautor>Amaury de Souza</nomeautor>
-   <funcao>(org.)</funcao>
   </autor>
   <autor>
    <nomeautor>Bolívar Lamounier </nomeautor>
-   <funcao>(org.)</funcao>
+   <funcao>organizador</funcao>
   </autor>
   <nomeobra>As Elites Brasileiras e a Modernização do Setor Público: Um debate</nomeobra>
   <editora>Idesp/Sumaré</editora>
@@ -32,7 +31,7 @@
  <obra>
   <autor>
    <nomeautor>Armando Castelar </nomeautor>
-   <funcao>(org.)</funcao>
+   <funcao>organizador</funcao>
   </autor>
   <nomeobra>Judiciário e Economia no Brasil</nomeobra>
   <editora>Ed. Sumaré/ Idesp SP</editora>
@@ -57,7 +56,7 @@
  <obra>
   <autor>
    <nomeautor>Bolívar Lamounier </nomeautor>
-   <funcao>(org.)</funcao>
+   <funcao>organizador</funcao>
   </autor>
   <nomeobra>Juan Linz, Arent Lijphart, Arturo Valenzuela, A Opção Parlamentarista</nomeobra>
   <editora>Ed. Sumaré SP</editora>
@@ -66,11 +65,10 @@
  <obra>
   <autor>
    <nomeautor>Bolívar Lamounier</nomeautor>
-   <funcao>(org.)</funcao>
   </autor>
   <autor>
    <nomeautor>Dieter Nohlen </nomeautor>
-   <funcao>(org.)</funcao>
+   <funcao>organizador</funcao>
   </autor>
   <nomeobra>Presidencialismo ou Parlamentarismo: Perspectivas sobre a Reorganização Institucional Brasileira</nomeobra>
   <editora>Idesp Loyola</editora>
@@ -79,7 +77,7 @@
  <obra>
   <autor>
    <nomeautor>Bolívar Lamounier </nomeautor>
-   <funcao>(org.)</funcao>
+   <funcao>organizador</funcao>
   </autor>
   <nomeobra>Ouvindo o Brasil</nomeobra>
   <editora>Sumaré/IRS</editora>
@@ -88,7 +86,7 @@
  <obra>
   <autor>
    <nomeautor>Bolívar Lamounier </nomeautor>
-   <funcao>(org.)</funcao>
+   <funcao>organizador</funcao>
   </autor>
   <nomeobra>De Geisel a Collor</nomeobra>
   <editora>Ed. Sumaré SP</editora>
@@ -245,7 +243,7 @@
  <obra>
   <autor>
    <nomeautor>Maria Tereza Sadek </nomeautor>
-   <funcao>(org.)</funcao>
+   <funcao>organizador</funcao>
   </autor>
   <nomeobra>Justiça e Cidadania no Brasil, Ed. Sumaré/ Idesp</nomeobra>
   <editora>SP</editora>
@@ -254,7 +252,7 @@
  <obra>
   <autor>
    <nomeautor>Maria Tereza Sadek </nomeautor>
-   <funcao>(org.)</funcao>
+   <funcao>organizador</funcao>
   </autor>
   <nomeobra>O Sistema de Justiça</nomeobra>
   <editora>Ed. Sumaré SP</editora>
@@ -263,7 +261,7 @@
  <obra>
   <autor>
    <nomeautor>Maria Tereza Sadek </nomeautor>
-   <funcao>(org.)</funcao>
+   <funcao>organizador</funcao>
   </autor>
   <nomeobra>O Ministério Público e a Justiça no Brasil</nomeobra>
   <editora>Ed. Sumaré SP</editora>
@@ -272,7 +270,7 @@
  <obra>
   <autor>
    <nomeautor>Maria Tereza Sadek </nomeautor>
-   <funcao>(org.)</funcao>
+   <funcao>organizador</funcao>
   </autor>
   <nomeobra>Uma Introdução ao Estudo da Justiça</nomeobra>
   <editora>Ed. Sumaré SP</editora>
@@ -313,7 +311,7 @@
  <obra>
   <autor>
    <nomeautor>Sérgio Miceli </nomeautor>
-   <funcao>(org.)</funcao>
+   <funcao>organizador</funcao>
   </autor>
   <nomeobra>História das Ciências Sociais no Brasil – Vol 1</nomeobra>
   <editora>Ed. Sumaré SP</editora>
@@ -322,7 +320,7 @@
  <obra>
   <autor>
    <nomeautor>Sérgio Miceli </nomeautor>
-   <funcao>(org.)</funcao>
+   <funcao>organizador</funcao>
   </autor>
   <nomeobra>História das Ciências Sociais no Brasil – Vol 1 e 2</nomeobra>
   <editora>Ed. Sumaré SP</editora>
@@ -331,7 +329,7 @@
  <obra>
   <autor>
    <nomeautor>Sergio Miceli </nomeautor>
-   <funcao>(org.)</funcao>
+   <funcao>organizador</funcao>
   </autor>
   <nomeobra>A Fundação Ford no Brasil</nomeobra>
   <editora>Ed. Sumaré SP</editora>
@@ -340,7 +338,7 @@
  <obra>
   <autor>
    <nomeautor>Sérgio Miceli </nomeautor>
-   <funcao>(org.)</funcao>
+   <funcao>organizador</funcao>
   </autor>
   <nomeobra>O que Ler na Ciência social Brasileira Vol 2</nomeobra>
   <ano>0000</ano>
@@ -348,7 +346,7 @@
  <obra>
   <autor>
    <nomeautor>Sérgio Miceli </nomeautor>
-   <funcao>(org.)</funcao>
+   <funcao>organizador</funcao>
   </autor>
   <nomeobra>O que Ler na Ciência social Brasileira Vol 4</nomeobra>
   <ano>0000</ano>
@@ -576,12 +574,12 @@
  </obra>
  <obra>
   <autor>
-   <nomeautor>Carlos Benedito Martins (coord.)</nomeautor>
-   <funcao>(coord.) e Luiz Fernando Dias Duarte (org.)</funcao>
+   <nomeautor>Carlos Benedito Martins </nomeautor>
+   <funcao>coordenador</funcao>
   </autor>
   <autor>
-   <nomeautor>Luiz Fernando Dias Duarte (org.)</nomeautor>
-   <funcao>(coord.) e Luiz Fernando Dias Duarte (org.)</funcao>
+   <nomeautor>Luiz Fernando Dias Duarte </nomeautor>
+   <funcao>organizador</funcao>
   </autor>
   <nomeobra>Horizontes das ciências sociais – Antropologia</nomeobra>
   <editora>Anpocs/Barcarola</editora>
@@ -589,12 +587,12 @@
  </obra>
  <obra>
   <autor>
-   <nomeautor>Carlos Benedito Martins (coord.)</nomeautor>
-   <funcao>(coord.) e Renato Lessa (org.)</funcao>
+   <nomeautor>Carlos Benedito Martins </nomeautor>
+   <funcao>coordenador</funcao>
   </autor>
   <autor>
-   <nomeautor>Renato Lessa (org.)</nomeautor>
-   <funcao>(coord.) e Renato Lessa (org.)</funcao>
+   <nomeautor>Renato Lessa </nomeautor>
+   <funcao>organizador</funcao>
   </autor>
   <nomeobra>Horizontes das ciências sociais – Ciência Política</nomeobra>
   <editora>Anpocs/Barcarola</editora>
@@ -602,12 +600,12 @@
  </obra>
  <obra>
   <autor>
-   <nomeautor>Carlos Benedito Martins (coord.)</nomeautor>
-   <funcao>(coord.) e Heloísa T. de Souza Martins (org.)</funcao>
+   <nomeautor>Carlos Benedito Martins </nomeautor>
+   <funcao>coordenador</funcao>
   </autor>
   <autor>
-   <nomeautor>Heloísa T. de Souza Martins (org.)</nomeautor>
-   <funcao>(coord.) e Heloísa T. de Souza Martins (org.)</funcao>
+   <nomeautor>Heloísa T. de Souza Martins </nomeautor>
+   <funcao>organizador</funcao>
   </autor>
   <nomeobra>Horizontes das ciências sociais – Sociologia</nomeobra>
   <editora>Anpocs/Barcarola</editora>
@@ -616,7 +614,7 @@
  <obra>
   <autor>
    <nomeautor>Carlos Benedito Martins </nomeautor>
-   <funcao>(org.)</funcao>
+   <funcao>organizador</funcao>
   </autor>
   <nomeobra>Para Onde Vai a Pós-Graduação em Ciências Sociais no Brasil</nomeobra>
   <editora>Anpocs/Edusc</editora>
@@ -725,7 +723,7 @@
  <obra>
   <autor>
    <nomeautor>Gustavo Lins Ribeiro </nomeautor>
-   <funcao>(org.)</funcao>
+   <funcao>organizador</funcao>
   </autor>
   <nomeobra>Social, political and cultural challenges of the BRICS</nomeobra>
   <editora>Langaa/Anpocs</editora>
@@ -734,7 +732,7 @@
  <obra>
   <autor>
    <nomeautor>Gustavo Lins Ribeiro </nomeautor>
-   <funcao>(org.)</funcao>
+   <funcao>organizador</funcao>
   </autor>
   <nomeobra>Desafios sociais, políticos e culturais dos BRICS</nomeobra>
   <ano>2014</ano>
@@ -765,7 +763,7 @@
  <obra>
   <autor>
    <nomeautor>Hélgio Trindade </nomeautor>
-   <funcao>(org.)</funcao>
+   <funcao>organizador</funcao>
   </autor>
   <nomeobra>As Ciências Sociais na América Latina em Perspectiva Comparada (1930-2005), Anpocs/UFRGS</nomeobra>
   <editora>2ª edição</editora>
@@ -892,15 +890,13 @@ Júlio Assis Simões</nomeautor>
  <obra>
   <autor>
    <nomeautor>Maria Alice Rezende de Carvalho</nomeautor>
-   <funcao>(orgs.)</funcao>
   </autor>
   <autor>
    <nomeautor>Cícero Araújo</nomeautor>
-   <funcao>(orgs.)</funcao>
   </autor>
   <autor>
    <nomeautor>Júlio Assis Simões </nomeautor>
-   <funcao>(orgs.)</funcao>
+   <funcao>organizador</funcao>
   </autor>
   <nomeobra>A Constituição de 1988: Passado e Futuro</nomeobra>
   <ano>2009</ano>
@@ -1058,11 +1054,10 @@ Júlio Assis Simões</nomeautor>
  <obra>
   <autor>
    <nomeautor>Ruben George Oliven</nomeautor>
-   <funcao>(orgs.)</funcao>
   </autor>
   <autor>
    <nomeautor>Marcelo Ridenti e Gildo Marçal Brandão </nomeautor>
-   <funcao>(orgs.)</funcao>
+   <funcao>organizador</funcao>
   </autor>
   <nomeobra>A Constituição de 1988 na vida brasileira</nomeobra>
   <ano>2008</ano>
