@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<Homenageados>
+ <homenageado>
+  <nome>OLAVO BRASIL DE LIMA JR.</nome>
+ </homenageado>
+ <homenageado>
+  <nome>VILMAR FARIA</nome>
+ </homenageado>
+ <homenageado>
+  <nome>REGIS DE CASTRO ANDRADE</nome>
+ </homenageado>
+ <homenageado>
+  <nome>OCTAVIO IANNI</nome>
+  <revista>
+   <nomerevista>BIB</nomerevista>
+   <numeroedicao>57</numeroedicao>
+  </revista>
+ </homenageado>
+ <homenageado>
+  <nome>MARIA DO CARMO CAMPELLO DE SOUZA</nome>
+  <revista>
+   <nomerevista>RBCS</nomerevista>
+   <numeroedicao>61</numeroedicao>
+  </revista>
+ </homenageado>
+ <homenageado>
+  <nome>EDUARDO KUGELMAS</nome>
+  <revista>
+   <nomerevista>RBCS</nomerevista>
+   <numeroedicao>63</numeroedicao>
+  </revista>
+ </homenageado>
+ <homenageado>
+  <nome>RUTH CARDOSO</nome>
+  <revista>
+   <nomerevista>RBCS</nomerevista>
+   <numeroedicao>68</numeroedicao>
+  </revista>
+ </homenageado>
+ <homenageado>
+  <nome>GILDO MARÇAL BRANDÃO</nome>
+  <revista>
+   <nomerevista>RBCS</nomerevista>
+   <numeroedicao>72</numeroedicao>
+  </revista>
+ </homenageado>
+ <homenageado>
+  <nome>JUAREZ BRANDÃO LOPES</nome>
+  <revista>
+   <nomerevista>RBCS</nomerevista>
+   <numeroedicao>72</numeroedicao>
+  </revista>
+ </homenageado>
+ <homenageado>
+  <nome>GILBERTO VELHO</nome>
+  <revista>
+   <nomerevista>RBCS</nomerevista>
+   <numeroedicao>79</numeroedicao>
+  </revista>
+ </homenageado>
+ <homenageado>
+  <nome>ANTÔNIO FLÁVIO PIERUCCI</nome>
+  <revista>
+   <nomerevista>RBCS</nomerevista>
+   <numeroedicao>81</numeroedicao>
+  </revista>
+ </homenageado>
+</Homenageados>
