@@ -27,9 +27,11 @@ for matchNum, match in enumerate(matches):
             vencedor = et.SubElement(root, "vencedor")
             nomeVencedor = et.SubElement(vencedor,"nomevencedor")
             nomeVencedor.text = match.group(groupNum)
-        elif match.group is not None:
-            ano = et.SubElement(root, "ano")
-            ano.text = match.group(groupNum)
+        else:
+            print(match.group(groupNum))
+            if match.group(groupNum) is not  None:
+                ano = et.SubElement(vencedor, "ano")
+                ano.text = match.group(groupNum)
 
 
 
