@@ -20,16 +20,17 @@ for line in lines:
         print("linha vazia")
     else:
 
-        ehbienio = bool(re.search('Bi.*nio', line))
-        search = re.search('Comit.*|Comiss.*|Pr.mio.*|Conse.*', line)
+        anos = re.findall('\d\d\d\d', line)
+        search = re.search('Comit.*|Comiss.*|Pr.mio.*|Conse.*|J.*ri.*', line)
         ehcomite = bool(search)
-        ehnome = (not ehcomite) and (not ehbienio)
-        if ehbienio:
-            anos = util.getbienios(line)
-
-            ano_inicio = anos[0]
-
-            ano_fim = anos[1]
+        ehnome = (not ehcomite) and (not bool(anos))
+        if bool(anos):
+            if len(anos) == 2:
+                ano_1 = anos[0]
+                ano_2 = anos[1]
+            if len(anos) == 1:
+                ano_1 = anos[0]
+                ano_2 = ""
         if ehcomite:
             cmt = line
 
@@ -43,11 +44,12 @@ for line in lines:
                 instituicao.text = nomeinstituicao
             comite = et.SubElement(participante, 'comite')
             nomecomite = et.SubElement(comite, 'nomecomite')
-            nomecomite.text = cmt
+            nomecomite.text = cmt.strip()
             anoI = et.SubElement(comite, 'ano')
-            anoI.text = anos[0]
-            anoF = et.SubElement(comite, 'ano')
-            anoF.text = anos[1]
+            anoI.text = ano_1
+            if (ano_2 != ""):
+                anoF = et.SubElement(comite, 'ano')
+                anoF.text = ano_2
 
 
 f.close()
