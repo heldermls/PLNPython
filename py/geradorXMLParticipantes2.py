@@ -25,15 +25,12 @@ for line in lines:
         participante = et.SubElement(root, "participante")
         nome = et.SubElement(participante, "nome")
         nome.text = res[0].strip()
-
-        res = re.findall(r'\d\d\d\d', line)
-        tamanho = len(res)
-        i = 0
-        while i < tamanho:
-            ano = et.SubElement(participante, 'ano')
-            ano.text = res[i]
-            i = i + 1
-
+        txtanos = ""
+        anos = re.findall(r'\d\d\d\d', line)
+        for ano in anos:
+            txtanos = txtanos + ";" + ano
+        anos = et.SubElement(participante, "anos")
+        anos.text = txtanos.split(";", 1)[-1]
 f.close()
 #prettify xml
 
@@ -42,7 +39,7 @@ formatedXML = minidom.parseString(et.tostring(root)).toprettyxml(indent=" ").str
 
 #tree.write('diretorias.xml',  method='xml')
 # write the formatedXML to file.
-with io.open("../xml/Participantes.xml", "w+", encoding="utf-8") as f:
+with io.open("../xml/Participantes2.xml", "w+", encoding="utf-8") as f:
     f.write(formatedXML)
 
 
