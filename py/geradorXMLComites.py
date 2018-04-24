@@ -32,7 +32,8 @@ for line in lines:
                 ano_1 = anos[0]
                 ano_2 = ""
         if ehcomite:
-            cmt = line
+            com = re.split('- somente \d\d\d\d', line)
+            cmt = com[0]
 
         if ehnome:
             participante = et.SubElement(root, "participante")
