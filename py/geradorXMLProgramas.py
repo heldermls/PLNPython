@@ -40,7 +40,7 @@ for line in lines:
 
             instituicao = et.SubElement(prg, 'instituicao')
             instituicao.text = nomeinstituicao
-            res = re.search(r'\d\d\d\d',strano)
+            res = re.search(r'\d\d\d\d', strano)
             anofiliacao = res[0]
 
             anofili = et.SubElement(prg, 'anofiliacao')
