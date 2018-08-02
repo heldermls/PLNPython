@@ -1,0 +1,701 @@
+<?xml version="1.0" ?>
+<root>
+ <bienio>
+  <ano_inicio>2015</ano_inicio>
+  <ano_fim>2016</ano_fim>
+  <Presidente>
+   <nome>José Ricardo Ramalho</nome>
+   <instituicao>UFRJ</instituicao>
+  </Presidente>
+  <SecretariaExecutiva>
+   <nome>Cláudio Gonçalves Couto</nome>
+   <instituicao>FGV  SP</instituicao>
+  </SecretariaExecutiva>
+  <SecretariaAdjunta>
+   <nome>Emília Pietrafesa de Godoi</nome>
+   <instituicao>Unicamp</instituicao>
+  </SecretariaAdjunta>
+  <Diretor>
+   <nome>José Luiz de Amorim Ratton Júnior</nome>
+   <instituicao>UFPE</instituicao>
+  </Diretor>
+  <Diretor>
+   <nome>Lúcio Remuzat Rennó Júnior</nome>
+   <instituicao>UnB</instituicao>
+  </Diretor>
+  <Diretor>
+   <nome>Patrice Schuch</nome>
+   <instituicao>UFRGS</instituicao>
+  </Diretor>
+  <conselheiro>
+   <nome>Maria Laura Viveiros de Castro Cavalcanti</nome>
+   <instituicao>UFRJ</instituicao>
+  </conselheiro>
+  <conselheiro>
+   <nome>Marcelo Kunrath Silva</nome>
+   <instituicao>UFRGS</instituicao>
+  </conselheiro>
+  <conselheiro>
+   <nome>Yan de Souza Carreirão</nome>
+   <instituicao>UFSC</instituicao>
+  </conselheiro>
+ </bienio>
+ <bienio>
+  <ano_inicio>2013</ano_inicio>
+  <ano_fim>2014</ano_fim>
+  <Presidente>
+   <nome>Gustavo Lins Ribeiro</nome>
+   <instituicao>UnB</instituicao>
+  </Presidente>
+  <SecretariaExecutiva>
+   <nome>Maria Filomena Gregori</nome>
+   <instituicao>UNICAMP</instituicao>
+  </SecretariaExecutiva>
+  <SecretariaAdjunta>
+   <nome>Claudio Gonçalves Couto</nome>
+   <instituicao>FGV SP</instituicao>
+  </SecretariaAdjunta>
+  <Diretor>
+   <nome>Bruno Pinheiro Wanderley Reis</nome>
+   <instituicao>UFMG</instituicao>
+  </Diretor>
+  <Diretor>
+   <nome>Edna Maria Ramos de Castro</nome>
+   <instituicao>UFPA</instituicao>
+  </Diretor>
+  <Diretor>
+   <nome>Julie Antoinette Cavignac</nome>
+   <instituicao>UFRN</instituicao>
+  </Diretor>
+  <conselheiro>
+   <nome>Angela Maria de Randolpho Paiva</nome>
+   <instituicao>PUC RJ</instituicao>
+  </conselheiro>
+  <conselheiro>
+   <nome>Antonio Carlos Motta de Lima</nome>
+   <instituicao>UFPE</instituicao>
+  </conselheiro>
+  <conselheiro>
+   <nome>Tullo Vigevani</nome>
+   <instituicao>UNESP MARÍLIA</instituicao>
+  </conselheiro>
+ </bienio>
+ <bienio>
+  <ano_inicio>2011</ano_inicio>
+  <ano_fim>2012</ano_fim>
+  <Presidente>
+   <nome>Marcos Costa Lima</nome>
+   <instituicao>UFPE</instituicao>
+  </Presidente>
+  <SecretariaExecutiva>
+   <nome>Maria Filomena Gregori</nome>
+   <instituicao>UNICAMP</instituicao>
+  </SecretariaExecutiva>
+  <SecretariaAdjunta>
+   <nome>Julio Assis Simões</nome>
+   <instituicao>USP</instituicao>
+  </SecretariaAdjunta>
+  <Diretor>
+   <nome>Andrea Zhouri</nome>
+   <instituicao>UFMG</instituicao>
+  </Diretor>
+  <Diretor>
+   <nome>Flávia Biroli</nome>
+   <instituicao>UnB</instituicao>
+  </Diretor>
+  <Diretor>
+   <nome>Jacob Carlos Lima</nome>
+   <instituicao>UFSCar</instituicao>
+  </Diretor>
+  <conselheiro>
+   <nome>Angela Maria de Randolpho Paiva</nome>
+   <instituicao>PU Rio</instituicao>
+  </conselheiro>
+  <conselheiro>
+   <nome>Carlos Arturi</nome>
+   <instituicao>UFRGS</instituicao>
+  </conselheiro>
+  <conselheiro>
+   <nome>Carlos Guilherme O Valle</nome>
+   <instituicao>UFRN</instituicao>
+  </conselheiro>
+ </bienio>
+ <bienio>
+  <ano_inicio>2009</ano_inicio>
+  <ano_fim>2010</ano_fim>
+  <Presidente>
+   <nome>Maria Alice Rezende de Carvalho</nome>
+   <instituicao>PUC Rio</instituicao>
+  </Presidente>
+  <Presidente>
+   <nome>Maria Alice Rezende de Carvalho</nome>
+   <instituicao>PUC-Rio</instituicao>
+  </Presidente>
+  <SecretariaAdjunta>
+   <nome>Julio Assis Simões</nome>
+   <instituicao>USP</instituicao>
+  </SecretariaAdjunta>
+  <Diretor>
+   <nome>Carlos Schmidt Arturi</nome>
+   <instituicao>UFRGS</instituicao>
+  </Diretor>
+  <Diretor>
+   <nome>Maria Stela Grossi Porto</nome>
+   <instituicao>UnB</instituicao>
+  </Diretor>
+  <Diretor>
+   <nome>Rogerio Proença de Sousa Leite</nome>
+   <instituicao>UFS</instituicao>
+  </Diretor>
+  <conselheiro>
+   <nome>Lea Freitas Perez</nome>
+   <instituicao>UFMG</instituicao>
+  </conselheiro>
+  <conselheiro>
+   <nome>Ricardo Silva</nome>
+   <instituicao>UFSC</instituicao>
+  </conselheiro>
+  <conselheiro>
+   <nome>Ruth Vasconcelos Lopes Ferreira</nome>
+   <instituicao>UFAL</instituicao>
+  </conselheiro>
+ </bienio>
+ <bienio>
+  <ano_inicio>2007</ano_inicio>
+  <ano_fim>2008</ano_fim>
+  <Presidente>
+   <nome>Ruben George Oliven</nome>
+   <instituicao>UFRGS</instituicao>
+  </Presidente>
+  <SecretariaExecutiva>
+   <nome>Marcelo Ridenti</nome>
+   <instituicao>UNICAMP</instituicao>
+  </SecretariaExecutiva>
+  <SecretariaAdjunta>
+   <nome>Gildo Marçal Brandão</nome>
+   <instituicao>USP</instituicao>
+  </SecretariaAdjunta>
+  <Diretor>
+   <nome>Gláucia Villas Boas</nome>
+   <instituicao>UFRJ</instituicao>
+  </Diretor>
+  <Diretor>
+   <nome>Renato Athias</nome>
+   <instituicao>UFPE</instituicao>
+  </Diretor>
+  <Diretor>
+   <nome>Yan de Souza Carreirão</nome>
+   <instituicao>UFSC</instituicao>
+  </Diretor>
+  <conselheiro>
+   <nome>Antonádia Monteiro Borges</nome>
+   <instituicao>UnB</instituicao>
+  </conselheiro>
+  <conselheiro>
+   <nome>Isabelle Braz Peixoto da Silva</nome>
+   <instituicao>UFC</instituicao>
+  </conselheiro>
+  <conselheiro>
+   <nome>Magda de Almeida Neves</nome>
+   <instituicao>PUC MG</instituicao>
+  </conselheiro>
+ </bienio>
+ <bienio>
+  <ano_inicio>2005</ano_inicio>
+  <ano_fim>2006</ano_fim>
+  <Presidente>
+   <nome>Gabriel Cohn</nome>
+   <instituicao>USP</instituicao>
+  </Presidente>
+  <SecretariaExecutiva>
+   <nome>Marcelo Ridenti</nome>
+   <instituicao>UNICAMP</instituicao>
+  </SecretariaExecutiva>
+  <SecretariaAdjunta>
+   <nome>Gildo Marçal Bezerra Brandão</nome>
+   <instituicao>USP</instituicao>
+  </SecretariaAdjunta>
+  <Diretor>
+   <nome>Raymundo Heraldo Maués</nome>
+   <instituicao>UFPA</instituicao>
+  </Diretor>
+  <Diretor>
+   <nome>José Eisenberg</nome>
+   <instituicao>IUPERJ</instituicao>
+  </Diretor>
+  <Diretor>
+   <nome>Maria Eunice de Souza Maciel</nome>
+   <instituicao>UFRGS</instituicao>
+  </Diretor>
+  <conselheiro>
+   <nome>Brasilmar Ferreira Nunes</nome>
+   <instituicao>UnB</instituicao>
+  </conselheiro>
+  <conselheiro>
+   <nome>Iracema Brandão Guimarães</nome>
+   <instituicao>UFBA</instituicao>
+  </conselheiro>
+  <conselheiro>
+   <nome>Carmen Silvia Rial</nome>
+   <instituicao>UFSC</instituicao>
+  </conselheiro>
+ </bienio>
+ <bienio>
+  <ano_inicio>2003</ano_inicio>
+  <ano_fim>2004</ano_fim>
+  <Presidente>
+   <nome>Luiz Jorge Werneck Vianna</nome>
+   <instituicao>IUPERJ</instituicao>
+  </Presidente>
+  <SecretariaExecutiva>
+   <nome>Maria Arminda do Nascimento Arruda</nome>
+   <instituicao>USP</instituicao>
+  </SecretariaExecutiva>
+  <SecretariaAdjunta>
+   <nome>Elide Rugai Bastos</nome>
+   <instituicao>UNICAMP</instituicao>
+  </SecretariaAdjunta>
+  <Diretor>
+   <nome>Clarissa Eckert Baeta Neves</nome>
+   <instituicao>UFRGS</instituicao>
+  </Diretor>
+  <Diretor>
+   <nome>Marcos Lanna</nome>
+   <instituicao>UFPR</instituicao>
+  </Diretor>
+  <Diretor>
+   <nome>Rejane Vasconcelos Accioly Carvalho</nome>
+   <instituicao>UFC</instituicao>
+  </Diretor>
+  <conselheiro>
+   <nome>Lourdes Bandeira</nome>
+   <instituicao>UnB</instituicao>
+  </conselheiro>
+  <conselheiro>
+   <nome>Marcio Caniello</nome>
+   <instituicao>UFCG</instituicao>
+  </conselheiro>
+  <conselheiro>
+   <nome>Maria de Fátima Junho Anastásia</nome>
+   <instituicao>UFMG</instituicao>
+  </conselheiro>
+ </bienio>
+ <bienio>
+  <ano_inicio>2001</ano_inicio>
+  <ano_fim>2002</ano_fim>
+  <Presidente>
+   <nome>Roque de Barros Laraia</nome>
+   <instituicao>UnB</instituicao>
+  </Presidente>
+  <SecretariaExecutiva>
+   <nome>Maria Arminda do Nascimento Arruda</nome>
+   <instituicao>USP</instituicao>
+  </SecretariaExecutiva>
+  <SecretariaAdjunta>
+   <nome>Elide Rugai Bastos</nome>
+   <instituicao>UNICAMP</instituicao>
+  </SecretariaAdjunta>
+  <Diretor>
+   <nome>Ilza Araújo Leão de Andrade</nome>
+   <instituicao>UFRN</instituicao>
+  </Diretor>
+  <Diretor>
+   <nome>Rosilene Alvim</nome>
+   <instituicao>UFRJ</instituicao>
+  </Diretor>
+  <Diretor>
+   <nome>Otávio Soares Dulci</nome>
+   <instituicao>UFMG</instituicao>
+  </Diretor>
+  <conselheiro>
+   <nome>Celi Regina Jardim Pinto</nome>
+   <instituicao>UFRGS</instituicao>
+  </conselheiro>
+  <conselheiro>
+   <nome>Joanildo A Burity</nome>
+   <instituicao>FUNDAJ</instituicao>
+  </conselheiro>
+  <conselheiro>
+   <nome>Rafael José de Menezes Bastos</nome>
+   <instituicao>UFCS</instituicao>
+  </conselheiro>
+ </bienio>
+ <bienio>
+  <ano_inicio>1999</ano_inicio>
+  <ano_fim>2000</ano_fim>
+  <Presidente>
+   <nome>Olavo Brasil de Lima Jr</nome>
+  </Presidente>
+  <Presidente>
+   <nome>Argelina Cheibub Figueiredo</nome>
+  </Presidente>
+  <Presidente>
+   <nome>Renato Raul Boschi</nome>
+  </Presidente>
+  <SecretariaExecutiva>
+   <nome>Sérgio França Adorno de Abreu</nome>
+  </SecretariaExecutiva>
+  <SecretariaAdjunta>
+   <nome>Argelina Cheibub Figueiredo</nome>
+  </SecretariaAdjunta>
+  <Diretor>
+   <nome>Gustavo Lins Ribeiro</nome>
+  </Diretor>
+  <Diretor>
+   <nome>Mauro Guilherme Pinheiro Koury</nome>
+  </Diretor>
+  <Diretor>
+   <nome>Ondina Fachel Leal</nome>
+  </Diretor>
+  <conselheiro>
+   <nome>Helena Bomeny</nome>
+  </conselheiro>
+  <conselheiro>
+   <nome>Linda Gondim</nome>
+  </conselheiro>
+  <conselheiro>
+   <nome>Renan Springer de Freitas</nome>
+  </conselheiro>
+ </bienio>
+ <bienio>
+  <ano_inicio>1997</ano_inicio>
+  <ano_fim>1998</ano_fim>
+  <Presidente>
+   <nome>Elisa Reis</nome>
+  </Presidente>
+  <SecretariaExecutiva>
+   <nome>Sérgio França Adorno de Abreu</nome>
+  </SecretariaExecutiva>
+  <SecretariaAdjunta>
+   <nome>Argelina Cheibub Figueiredo</nome>
+  </SecretariaAdjunta>
+  <Diretor>
+   <nome>Maria Lúcia Maciel</nome>
+  </Diretor>
+  <Diretor>
+   <nome>Leonardo Avritzer</nome>
+  </Diretor>
+  <Diretor>
+   <nome>Paulo I-Ienrique Martins</nome>
+  </Diretor>
+  <conselheiro>
+   <nome>Alzira Alves de Abreu</nome>
+  </conselheiro>
+  <conselheiro>
+   <nome>Brasília Carlos Ferreira</nome>
+  </conselheiro>
+  <conselheiro>
+   <nome>Sônia Larangeira</nome>
+  </conselheiro>
+ </bienio>
+ <bienio>
+  <ano_inicio>1995</ano_inicio>
+  <ano_fim>1996</ano_fim>
+  <Presidente>
+   <nome>Gilberto Velho</nome>
+  </Presidente>
+  <SecretariaExecutiva>
+   <nome>Antônio Flávio de Oliveira Pierucci</nome>
+  </SecretariaExecutiva>
+  <SecretariaAdjunta>
+   <nome>Guita Grin Debert</nome>
+  </SecretariaAdjunta>
+  <Diretor>
+   <nome>Edna Ramos de Castro</nome>
+  </Diretor>
+  <Diretor>
+   <nome>Ilse Scherer-Warren</nome>
+  </Diretor>
+  <Diretor>
+   <nome>Mercês Somarriba</nome>
+  </Diretor>
+  <conselheiro>
+   <nome>Ângela Castro Gomes</nome>
+  </conselheiro>
+  <conselheiro>
+   <nome>Jacob Carlos Lima</nome>
+  </conselheiro>
+  <conselheiro>
+   <nome>Klaas Woortmann</nome>
+  </conselheiro>
+ </bienio>
+ <bienio>
+  <ano_inicio>1993</ano_inicio>
+  <ano_fim>1994</ano_fim>
+  <Presidente>
+   <nome>Aspásia Camargo</nome>
+  </Presidente>
+  <SecretariaExecutiva>
+   <nome>Antônio Flávio de Oliveira Pierucci</nome>
+  </SecretariaExecutiva>
+  <SecretariaAdjunta>
+   <nome>Guita Grin Debert</nome>
+  </SecretariaAdjunta>
+  <Diretor>
+   <nome>Carlos Benedito Martins</nome>
+  </Diretor>
+  <Diretor>
+   <nome>Irlys Barreira</nome>
+  </Diretor>
+  <Diretor>
+   <nome>Joseph Pierre Sanchis</nome>
+  </Diretor>
+  <conselheiro>
+   <nome>Celi Regina Jardim Pinto</nome>
+  </conselheiro>
+  <conselheiro>
+   <nome>José Ricardo Ramalho</nome>
+  </conselheiro>
+  <conselheiro>
+   <nome>Michel Zaidan Filho</nome>
+  </conselheiro>
+ </bienio>
+ <bienio>
+  <ano_inicio>1991</ano_inicio>
+  <ano_fim>1992</ano_fim>
+  <Presidente>
+   <nome>Juarez Rubens Brandão Lopes</nome>
+  </Presidente>
+  <SecretariaExecutiva>
+   <nome>Alice Rangel de Paiva Abreu</nome>
+  </SecretariaExecutiva>
+  <SecretariaAdjunta>
+   <nome>José Sérgio Leite Lopes</nome>
+  </SecretariaAdjunta>
+  <Diretor>
+   <nome>Cláudia Lee Williams Fonseca</nome>
+  </Diretor>
+  <Diretor>
+   <nome>Lourdes Maria Bandeira</nome>
+  </Diretor>
+  <Diretor>
+   <nome>Sérgio Azevedo</nome>
+  </Diretor>
+  <conselheiro>
+   <nome>Ana Maria Fernandes</nome>
+  </conselheiro>
+  <conselheiro>
+   <nome>Raymundo Heraldo Maués</nome>
+  </conselheiro>
+  <conselheiro>
+   <nome>Paula Montero</nome>
+  </conselheiro>
+ </bienio>
+ <bienio>
+  <ano_inicio>1989</ano_inicio>
+  <ano_fim>1990</ano_fim>
+  <Presidente>
+   <nome>Vilmar Evangelista de Faria</nome>
+  </Presidente>
+  <SecretariaExecutiva>
+   <nome>Alice Rangel de Paiva Abreu</nome>
+  </SecretariaExecutiva>
+  <SecretariaAdjunta>
+   <nome>Eli Diniz</nome>
+  </SecretariaAdjunta>
+  <Diretor>
+   <nome>Fernando Antonio Azevedo</nome>
+  </Diretor>
+  <Diretor>
+   <nome>Joseph Pierre Sanchis</nome>
+  </Diretor>
+  <Diretor>
+   <nome>Maria Suzana Arrosa Soares</nome>
+  </Diretor>
+  <conselheiro>
+   <nome>Anete Brito Leal Ivo</nome>
+  </conselheiro>
+  <conselheiro>
+   <nome>Eva Alterman Blay</nome>
+  </conselheiro>
+  <conselheiro>
+   <nome>João Gabriel Teixeira</nome>
+  </conselheiro>
+ </bienio>
+ <bienio>
+  <ano_inicio>1987</ano_inicio>
+  <ano_fim>1988</ano_fim>
+  <Presidente>
+   <nome>Otávio Guilherme Velho</nome>
+  </Presidente>
+  <SecretariaExecutiva>
+   <nome>Sérgio Miceli</nome>
+  </SecretariaExecutiva>
+  <SecretariaAdjunta>
+   <nome>Maria Hermínia Tavares de Almeida</nome>
+  </SecretariaAdjunta>
+  <Diretor>
+   <nome>Benício Viero Schmidt</nome>
+  </Diretor>
+  <Diretor>
+   <nome>César Barreira</nome>
+  </Diretor>
+  <Diretor>
+   <nome>Eduardo Viola</nome>
+  </Diretor>
+  <conselheiro>
+   <nome>Ana Maria Quiroga Fausto Neto</nome>
+  </conselheiro>
+  <conselheiro>
+   <nome>Celso José da Silva</nome>
+  </conselheiro>
+  <conselheiro>
+   <nome>Pedro Ribeiro de Oliveira</nome>
+  </conselheiro>
+ </bienio>
+ <bienio>
+  <ano_inicio>1985</ano_inicio>
+  <ano_fim>1986</ano_fim>
+  <Presidente>
+   <nome>Hélgio Trindade</nome>
+  </Presidente>
+  <SecretariaExecutiva>
+   <nome>Sérgio Miceli</nome>
+  </SecretariaExecutiva>
+  <SecretariaAdjunta>
+   <nome>Lia Fukui</nome>
+  </SecretariaAdjunta>
+  <Diretor>
+   <nome>Laura da Veiga</nome>
+  </Diretor>
+  <Diretor>
+   <nome>Roque de Barros Laraia</nome>
+  </Diretor>
+  <Diretor>
+   <nome>Sílvio Maranhão</nome>
+  </Diretor>
+  <conselheiro>
+   <nome>Edna Ramos de Castro</nome>
+  </conselheiro>
+  <conselheiro>
+   <nome>Eduardo Viola</nome>
+  </conselheiro>
+  <conselheiro>
+   <nome>Maria do Rosário Rolfsen</nome>
+  </conselheiro>
+ </bienio>
+ <bienio>
+  <ano_inicio>1983</ano_inicio>
+  <ano_fim>1984</ano_fim>
+  <Presidente>
+   <nome>Wanderley Guilherme dos Santos</nome>
+  </Presidente>
+  <SecretariaExecutiva>
+   <nome>Régis de Castro Andrade</nome>
+  </SecretariaExecutiva>
+  <SecretariaAdjunta>
+   <nome>Reginaldo Prandi</nome>
+  </SecretariaAdjunta>
+  <Diretor>
+   <nome>Inaiá Maria Moreira de Carvalho</nome>
+  </Diretor>
+  <Diretor>
+   <nome>Otávio Guilherme Velho</nome>
+  </Diretor>
+  <Diretor>
+   <nome>Vilma Mendonça Figueiredo</nome>
+  </Diretor>
+  <conselheiro>
+   <nome>José Hugo Ramos</nome>
+  </conselheiro>
+  <conselheiro>
+   <nome>René Armand Dreifuss</nome>
+  </conselheiro>
+  <conselheiro>
+   <nome>Rosa Maria Godoy Silveira</nome>
+  </conselheiro>
+ </bienio>
+ <bienio>
+  <ano_inicio>1981</ano_inicio>
+  <ano_fim>1982</ano_fim>
+  <Presidente>
+   <nome>Fábio Wanderley Reis</nome>
+  </Presidente>
+  <SecretariaExecutiva>
+   <nome>Renato Raul Boschi</nome>
+  </SecretariaExecutiva>
+  <SecretariaAdjunta>
+   <nome>Otávio Guilherme Velho</nome>
+  </SecretariaAdjunta>
+  <Diretor>
+   <nome>Joaquim Falcão</nome>
+  </Diretor>
+  <Diretor>
+   <nome>Ruben George Oliven</nome>
+  </Diretor>
+  <Diretor>
+   <nome>Ruth Corrêa Leite Cardoso</nome>
+  </Diretor>
+  <conselheiro>
+   <nome>José Hugo Ramos</nome>
+  </conselheiro>
+  <conselheiro>
+   <nome>René Armand Dreifuss</nome>
+  </conselheiro>
+  <conselheiro>
+   <nome>Rosa Maria Godoy Silveira</nome>
+  </conselheiro>
+ </bienio>
+ <bienio>
+  <ano_inicio>1979</ano_inicio>
+  <ano_fim>1980</ano_fim>
+  <Presidente>
+   <nome>Francisco Corrêa Weffort</nome>
+  </Presidente>
+  <SecretariaExecutiva>
+   <nome>Olavo Brasil de Lima Jr</nome>
+  </SecretariaExecutiva>
+  <SecretariaAdjunta>
+   <nome>Aspásia Camargo</nome>
+  </SecretariaAdjunta>
+  <Diretor>
+   <nome>Hélgio Trindade</nome>
+  </Diretor>
+  <Diretor>
+   <nome>Heraldo Pessoa de Souto-Maior</nome>
+  </Diretor>
+  <Diretor>
+   <nome>José Murilo de Carvalho</nome>
+  </Diretor>
+  <conselheiro>
+   <nome>André Haguete</nome>
+  </conselheiro>
+  <conselheiro>
+   <nome>Sadi Del’Rosso</nome>
+  </conselheiro>
+  <conselheiro>
+   <nome>Vilmar Faria</nome>
+  </conselheiro>
+ </bienio>
+ <bienio>
+  <ano_inicio>1977</ano_inicio>
+  <ano_fim>1978</ano_fim>
+  <Presidente>
+   <nome>Francisco Corrêa Weffort</nome>
+  </Presidente>
+  <SecretariaExecutiva>
+   <nome>Olavo Brasil de Lima Jr</nome>
+  </SecretariaExecutiva>
+  <SecretariaAdjunta>
+   <nome>Aspásia Camargo</nome>
+  </SecretariaAdjunta>
+  <Diretor>
+   <nome>Hélgio Trindade</nome>
+  </Diretor>
+  <Diretor>
+   <nome>Heraldo Pessoa de Souto-Maior</nome>
+  </Diretor>
+  <Diretor>
+   <nome>José Murilo de Carvalho</nome>
+  </Diretor>
+  <conselheiro>
+   <nome>Eduardo Diatahy Bezerra de Menezes</nome>
+  </conselheiro>
+  <conselheiro>
+   <nome>Maria Hermínia Tavares de Almeida</nome>
+  </conselheiro>
+  <conselheiro>
+   <nome>Roberto Cardoso de Oliveira</nome>
+  </conselheiro>
+ </bienio>
+</root>
