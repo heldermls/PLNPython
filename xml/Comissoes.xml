@@ -2090,7 +2090,7 @@
  </participante>
  <participante>
   <nome>Rogério Bastos Arantes</nome>
-  <instituicao>PUC/SP</instituicao>
+  <instituicao>PUC-SP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
    <anoInicio>2007</anoInicio>
@@ -2180,7 +2180,7 @@
  </participante>
  <participante>
   <nome>Lúcia Bógus</nome>
-  <instituicao>PUC/SP</instituicao>
+  <instituicao>PUC-SP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial do BIB</nomecomite>
    <anoInicio>2007</anoInicio>
@@ -2189,7 +2189,7 @@
  </participante>
  <participante>
   <nome>Helena Bomeny</nome>
-  <instituicao>CPDOC-FGV-RJ</instituicao>
+  <instituicao>FGV-RJ</instituicao>
   <comite>
    <nomecomite>Conselho Editorial do BIB</nomecomite>
    <anoInicio>2007</anoInicio>
@@ -2477,7 +2477,7 @@
  </participante>
  <participante>
   <nome>Gildo Marçal Brandão</nome>
-  <instituicao>USP - Editor</instituicao>
+  <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão Editorial da RBCS</nomecomite>
    <anoInicio>2005</anoInicio>
@@ -2513,7 +2513,7 @@
  </participante>
  <participante>
   <nome>Miguel Wady Chaia</nome>
-  <instituicao>PUC/SP Assessor editorial</instituicao>
+  <instituicao>PUC-SP</instituicao>
   <comite>
    <nomecomite>Comissão Editorial da RBCS</nomecomite>
    <anoInicio>2005</anoInicio>
@@ -2620,7 +2620,8 @@
   </comite>
  </participante>
  <participante>
-  <nome>Ricardo Antunes UNICAMP)</nome>
+  <nome>Ricardo Antunes</nome>
+  <instituicao>UNICAMP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
    <anoInicio>2005</anoInicio>
@@ -2629,7 +2630,7 @@
  </participante>
  <participante>
   <nome>Rogério Bastos Arantes</nome>
-  <instituicao>PUC/SP</instituicao>
+  <instituicao>PUC-SP</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da RBCS</nomecomite>
    <anoInicio>2005</anoInicio>
@@ -2746,7 +2747,7 @@
  </participante>
  <participante>
   <nome>Lúcia Bógus</nome>
-  <instituicao>PUC/SP </instituicao>
+  <instituicao>PUC-SP </instituicao>
   <comite>
    <nomecomite>Conselho Editorial da BIB</nomecomite>
    <anoInicio>2005</anoInicio>
@@ -2755,7 +2756,7 @@
  </participante>
  <participante>
   <nome>Helena Bomeny</nome>
-  <instituicao>CPDOC-FGV-RJ</instituicao>
+  <instituicao>FGV-RJ</instituicao>
   <comite>
    <nomecomite>Conselho Editorial da BIB</nomecomite>
    <anoInicio>2005</anoInicio>
@@ -3015,7 +3016,7 @@
  </participante>
  <participante>
   <nome>Mônica Herz</nome>
-  <instituicao>PUC/RJ</instituicao>
+  <instituicao>PUC-Rio</instituicao>
   <comite>
    <nomecomite>Comitê de Intercâmbio Internacional</nomecomite>
    <anoInicio>2005</anoInicio>
@@ -3824,7 +3825,7 @@
  </participante>
  <participante>
   <nome>Fernanda Arêas Peixoto</nome>
-  <instituicao>Unesp - USP</instituicao>
+  <instituicao>USP</instituicao>
   <comite>
    <nomecomite>Comissão Editorial da RBCS</nomecomite>
    <anoInicio>2001</anoInicio>
