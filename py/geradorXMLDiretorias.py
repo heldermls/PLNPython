@@ -65,10 +65,8 @@ for line in itr:
             #nomecargo = et.SubElement(cargo, 'nomecargo')
             cargo.text = cgo
 
-            anoI = et.SubElement(participante, 'anoI')
-            anoI.text = anos[0]
-            anoF = et.SubElement(participante, 'anoF')
-            anoF.text = anos[1]
+            ano = et.SubElement(participante, 'anos')
+            ano.text = anos[0] + ';' + anos[1];
 
 
 
@@ -83,6 +81,6 @@ formatedXML = minidom.parseString(et.tostring(root)).toprettyxml(indent=" ").str
 
 #tree.write('diretorias.xml',  method='xml')
 # write the formatedXML to file.
-with io.open("../xml/DiretoriasModificado.xml", "w+", encoding="utf-8") as f:
+with io.open("../xml/DiretoriasAnos.xml", "w+", encoding="utf-8") as f:
     f.write(formatedXML)
 

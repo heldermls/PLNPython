@@ -46,11 +46,12 @@ for line in lines:
             comite = et.SubElement(participante, 'comite')
             nomecomite = et.SubElement(comite, 'nomecomite')
             nomecomite.text = cmt.strip()
-            anoI = et.SubElement(comite, 'ano')
-            anoI.text = ano_1
+            ano = et.SubElement(comite, 'anos')
+            anos = ano_1
+
             if (ano_2 != ""):
-                anoF = et.SubElement(comite, 'ano')
-                anoF.text = ano_2
+                anos = ano_1 + ';' + ano_2
+            ano.text = anos
 
 
 f.close()
@@ -61,7 +62,7 @@ formatedXML = minidom.parseString(et.tostring(root)).toprettyxml(indent=" ").str
 
 #tree.write('diretorias.xml',  method='xml')
 # write the formatedXML to file.
-with io.open("../xml/Comissoes.xml", "w+", encoding="utf-8") as f:
+with io.open("../xml/ComissoesAnos.xml", "w+", encoding="utf-8") as f:
     f.write(formatedXML)
 
 

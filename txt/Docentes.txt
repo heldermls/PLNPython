@@ -13,20 +13,18 @@ Sérgio Miceli (USP), 2000
 Economia e Sociedade: olhares das Ciências Sociais
 Cécile Raud-Mattedi (UFSC), 2006
 Maria Rita Loureiro (FGV-SP), 2006
-Ricardo Abramovay, 2006
-Indicadores sociais e de Direitos Humanos
+Ricardo Abramovay (null), 2006
 Débora de Santana Oliveira (UFRJ), 2007
 Leonardo de Carvalho da Silva (SSP-RJ), 2007
 Neide Lopes Patarra (ENCE-IBGE), 2007
 Paulo de Martino Januzzi (ENCE-IBGE SEADE), 2007
-Introdução ao uso de Bancos de Dados
 Davi Cordeiro Moreira (USP), 2011
 Diego Novais Souza (USP), 2015
 Leilor Miranda Soares (USP), 2015
 Fábio Lacerda (USP), 2012
 Fernanda Machado (USP), 2014
 Fernando Bortolleto (USP), 2015
-Maurício Moya (CIS-ANPOCS), 2006, 2007
+Maurício Moya (ANPOCS), 2006, 2007
 Marcela Tulli (USP), 2014
 Michelle Medrado (CIS), 2006
 Paulo Sérgio Peres (CIS), 2006
@@ -34,54 +32,31 @@ Perdro Iemma (USP), 2006
 Rodrigo Martins (USP), 2013
 Sergio Simoni Junior (USP), 2012
 Vinícius S M do Valle (USP), 2013
-Novas tendências nas Ciências Sociais
 Gláucia Villas Boas (UFRJ), 2007
 Gustavo Lins Ribeiro (UnB), 2007
 José Eisenberg (IUPERJ), 2007
-Reinventando os Clássicos
 Marcelo Jasmin (UERJ), 2010
-Democracia e República em Alexis de Toqueville
 Marcelo Ridenti (UNICAMP), 2011
-Aspectos do tem a da determinação em Karl Marx e a sociologia da cultura de Raymond Williams
 Marco Aurélio Nogueira (UNESP), 2012
-Gramsci e a reinvenção do marxismo
 Marcos Costa Lima (UFPE), 2013
-A teoria Crítica e os Estudos Pós-Coloniais na Política Internacional
 Maria Alice Rezende de Carvalho (PUC-Rio), 2013
 Alexis de Tocqueville – sociedade e política
 Maria Hermínia Tavares de Almeida (USP), 2008
-Relendo os clássicos para repensar as instituições políticas
 Peter Fry (UFRJ), 2015
-A escola de Manchester
 Reginaldo Prandi (USP), 2012
-Roger Bastide e a Sociologia das Religiões Afro-Brasileiras
 Renan Springer de Freitas (UFMG), 2010
-Max Weber e a “transformação da alma do homem”
 Roberto DaMatta (PUC-Rio), 2008
-Leach, Mary Douglas, Turner: Antropologia da ambiguidade
 Roque de Barros Laraia (UnB), 2013
-Clássicos: a trajetória da Antropologia
 Ruben Oliven (UFRGS), 2012
-Globalização e Identidades Nacionais
 Ruben Oliven (UFRGS), 2010
-A antropologia e o estudo da cidade
 Sônia Guimarães (UFRGS), 2009
-Sociologia e a “nova economia”: novas tecnologias, globalização, mercado e estado
 Yvonne Maggie (UFRJ), 2011
-Sir Edward Evans-Pritchard: Bruxaria, oráculos e magia entre os azande e o medo do feitiço no Brasil republicano
-Reinventando os Clássicos Brasileiros
 André Singer (USP), 2010
-O populismo na política brasileira
 Carlos Eduardo Martins (UFRJ), 2011
-Pensamento Social Brasileiro, Estado e Desenvolvimento
 Cesar Barreira (UFC), 2011
-Maria Isaura Pereira de Queiroz – teoria e prática de pesquisar
 Elide Rugai Bastos (UNICAMP), 2011
-Sociologia no Brasil e circulação de ideias
 Fernanda Peixoto (USP), 2009
-Florestan Fernandes e Roger Bastide: parcerias “indisciplinares”
 Francisco C Weffort (USP), 2008
-A atualidade de Joaquim Nabuco
 Gildo Marçal Brandão (USP), 2009
 Circuitos fechados e viagens redondas: Caio, Faoro e Florestan
 Jessé Souza (UFJF), 2009
@@ -91,15 +66,12 @@ Clássicos brasileiros: incursões sobre gênero e diversidade
 Lilia Schwarcz (USP), 2011
 Uma introdução à antropologia no e do Brasil
 Ricardo Benzaquen (IUPERJ), 2008
-A sociologia de Gilberto Freyre
-Religião e Ciências Sociais
 Antônio Flávio Pierucci (USP), 2007
 Ari Pedro Oro (UFRGS), 2007
 Joanildo A Burity (FUNDAJ), 2007
 O Censo Demográfico e as Ciências Sociais: aspectos metodológicos, acessibilidade e perspectivas de análises temáticas
 José Eustáquio Diniz Alves (ENCE-IBGE), 2011
 Suzana Cavenaghi, 2011
-Temas Contemporâneos
 Cinara Rosenfield (UFRGS), 2012
 O trabalho no plural: as novas fronteiras do assalariamento
 Jacob Carlos Lima (UFSCar), 2012
@@ -117,12 +89,10 @@ Eunice Durham (USP), 2001
 Guita Grin Debert (UNICAMP), 2004
 Roberto DaMatta (UFF), 2003
 Yvonne Maggie (UFRJ), 2002
-Teoria Política
 Cícero Araújo (USP), 2003
 Maria Hermínia Tavares de Almeida (USP), 2002
 Maria Tereza Sadek (USP), 2004
 Renato Lessa (IUPERJ), 2001
-Teoria Sociológica
 Antonio Flavio Pierucci (USP), 2003
 Maria Hermínia Tavares de Almeida (USP), 2002
 Sérgio Adorno (USP), 2004

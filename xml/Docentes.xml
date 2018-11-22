@@ -1,0 +1,343 @@
+<?xml version="1.0" ?>
+<Docentes>
+ <participante>
+  <nome>Enivaldo Carvalho da Rocha</nome>
+  <instituicao>UFPE</instituicao>
+ </participante>
+ <participante>
+  <nome>Alex N Teixeira</nome>
+  <instituicao>UFRGS</instituicao>
+ </participante>
+ <participante>
+  <nome>José Vicente Tavares dos Santos</nome>
+  <instituicao>UFRGS</instituicao>
+ </participante>
+ <participante>
+  <nome>Maurício Russo</nome>
+  <instituicao>UFRGS</instituicao>
+ </participante>
+ <participante>
+  <nome>Antônio Augusto Arantes</nome>
+  <instituicao>UNICAMP</instituicao>
+ </participante>
+ <participante>
+  <nome>César Guimarães</nome>
+  <instituicao>IUPERJ</instituicao>
+ </participante>
+ <participante>
+  <nome>Sérgio Miceli</nome>
+  <instituicao>USP</instituicao>
+ </participante>
+ <participante>
+  <nome>Cécile Raud-Mattedi</nome>
+  <instituicao>UFSC</instituicao>
+ </participante>
+ <participante>
+  <nome>Maria Rita Loureiro</nome>
+  <instituicao>FGV-SP</instituicao>
+ </participante>
+ <participante>
+  <nome>Ricardo Abramovay</nome>
+  <instituicao>null</instituicao>
+ </participante>
+ <participante>
+  <nome>Débora de Santana Oliveira</nome>
+  <instituicao>UFRJ</instituicao>
+ </participante>
+ <participante>
+  <nome>Leonardo de Carvalho da Silva</nome>
+  <instituicao>SSP-RJ</instituicao>
+ </participante>
+ <participante>
+  <nome>Neide Lopes Patarra</nome>
+  <instituicao>ENCE-IBGE</instituicao>
+ </participante>
+ <participante>
+  <nome>Paulo de Martino Januzzi</nome>
+  <instituicao>ENCE-IBGE SEADE</instituicao>
+ </participante>
+ <participante>
+  <nome>Davi Cordeiro Moreira</nome>
+  <instituicao>USP</instituicao>
+ </participante>
+ <participante>
+  <nome>Diego Novais Souza</nome>
+  <instituicao>USP</instituicao>
+ </participante>
+ <participante>
+  <nome>Leilor Miranda Soares</nome>
+  <instituicao>USP</instituicao>
+ </participante>
+ <participante>
+  <nome>Fábio Lacerda</nome>
+  <instituicao>USP</instituicao>
+ </participante>
+ <participante>
+  <nome>Fernanda Machado</nome>
+  <instituicao>USP</instituicao>
+ </participante>
+ <participante>
+  <nome>Fernando Bortolleto</nome>
+  <instituicao>USP</instituicao>
+ </participante>
+ <participante>
+  <nome>Maurício Moya</nome>
+  <instituicao>ANPOCS</instituicao>
+ </participante>
+ <participante>
+  <nome>Marcela Tulli</nome>
+  <instituicao>USP</instituicao>
+ </participante>
+ <participante>
+  <nome>Michelle Medrado</nome>
+  <instituicao>CIS</instituicao>
+ </participante>
+ <participante>
+  <nome>Paulo Sérgio Peres</nome>
+  <instituicao>CIS</instituicao>
+ </participante>
+ <participante>
+  <nome>Perdro Iemma</nome>
+  <instituicao>USP</instituicao>
+ </participante>
+ <participante>
+  <nome>Rodrigo Martins</nome>
+  <instituicao>USP</instituicao>
+ </participante>
+ <participante>
+  <nome>Sergio Simoni Junior</nome>
+  <instituicao>USP</instituicao>
+ </participante>
+ <participante>
+  <nome>Vinícius S M do Valle</nome>
+  <instituicao>USP</instituicao>
+ </participante>
+ <participante>
+  <nome>Gláucia Villas Boas</nome>
+  <instituicao>UFRJ</instituicao>
+ </participante>
+ <participante>
+  <nome>Gustavo Lins Ribeiro</nome>
+  <instituicao>UnB</instituicao>
+ </participante>
+ <participante>
+  <nome>José Eisenberg</nome>
+  <instituicao>IUPERJ</instituicao>
+ </participante>
+ <participante>
+  <nome>Marcelo Jasmin</nome>
+  <instituicao>UERJ</instituicao>
+ </participante>
+ <participante>
+  <nome>Marcelo Ridenti</nome>
+  <instituicao>UNICAMP</instituicao>
+ </participante>
+ <participante>
+  <nome>Marco Aurélio Nogueira</nome>
+  <instituicao>UNESP</instituicao>
+ </participante>
+ <participante>
+  <nome>Marcos Costa Lima</nome>
+  <instituicao>UFPE</instituicao>
+ </participante>
+ <participante>
+  <nome>Maria Alice Rezende de Carvalho</nome>
+  <instituicao>PUC-Rio</instituicao>
+ </participante>
+ <participante>
+  <nome>Maria Hermínia Tavares de Almeida</nome>
+  <instituicao>USP</instituicao>
+ </participante>
+ <participante>
+  <nome>Peter Fry</nome>
+  <instituicao>UFRJ</instituicao>
+ </participante>
+ <participante>
+  <nome>Reginaldo Prandi</nome>
+  <instituicao>USP</instituicao>
+ </participante>
+ <participante>
+  <nome>Renan Springer de Freitas</nome>
+  <instituicao>UFMG</instituicao>
+ </participante>
+ <participante>
+  <nome>Roberto DaMatta</nome>
+  <instituicao>PUC-Rio</instituicao>
+ </participante>
+ <participante>
+  <nome>Roque de Barros Laraia</nome>
+  <instituicao>UnB</instituicao>
+ </participante>
+ <participante>
+  <nome>Ruben Oliven</nome>
+  <instituicao>UFRGS</instituicao>
+ </participante>
+ <participante>
+  <nome>Ruben Oliven</nome>
+  <instituicao>UFRGS</instituicao>
+ </participante>
+ <participante>
+  <nome>Sônia Guimarães</nome>
+  <instituicao>UFRGS</instituicao>
+ </participante>
+ <participante>
+  <nome>Yvonne Maggie</nome>
+  <instituicao>UFRJ</instituicao>
+ </participante>
+ <participante>
+  <nome>André Singer</nome>
+  <instituicao>USP</instituicao>
+ </participante>
+ <participante>
+  <nome>Carlos Eduardo Martins</nome>
+  <instituicao>UFRJ</instituicao>
+ </participante>
+ <participante>
+  <nome>Cesar Barreira</nome>
+  <instituicao>UFC</instituicao>
+ </participante>
+ <participante>
+  <nome>Elide Rugai Bastos</nome>
+  <instituicao>UNICAMP</instituicao>
+ </participante>
+ <participante>
+  <nome>Fernanda Peixoto</nome>
+  <instituicao>USP</instituicao>
+ </participante>
+ <participante>
+  <nome>Francisco C Weffort</nome>
+  <instituicao>USP</instituicao>
+ </participante>
+ <participante>
+  <nome>Gildo Marçal Brandão</nome>
+  <instituicao>USP</instituicao>
+ </participante>
+ <participante>
+  <nome>Jessé Souza</nome>
+  <instituicao>UFJF</instituicao>
+ </participante>
+ <participante>
+  <nome>Lia Zanotta Machado</nome>
+  <instituicao>UnB</instituicao>
+ </participante>
+ <participante>
+  <nome>Lilia Schwarcz</nome>
+  <instituicao>USP</instituicao>
+ </participante>
+ <participante>
+  <nome>Ricardo Benzaquen</nome>
+  <instituicao>IUPERJ</instituicao>
+ </participante>
+ <participante>
+  <nome>Antônio Flávio Pierucci</nome>
+  <instituicao>USP</instituicao>
+ </participante>
+ <participante>
+  <nome>Ari Pedro Oro</nome>
+  <instituicao>UFRGS</instituicao>
+ </participante>
+ <participante>
+  <nome>Joanildo A Burity</nome>
+  <instituicao>FUNDAJ</instituicao>
+ </participante>
+ <participante>
+  <nome>José Eustáquio Diniz Alves</nome>
+  <instituicao>ENCE-IBGE</instituicao>
+ </participante>
+ <participante>
+  <nome>Cinara Rosenfield</nome>
+  <instituicao>UFRGS</instituicao>
+ </participante>
+ <participante>
+  <nome>Jacob Carlos Lima</nome>
+  <instituicao>UFSCar</instituicao>
+ </participante>
+ <participante>
+  <nome>Jamil Marques</nome>
+  <instituicao>UFC</instituicao>
+ </participante>
+ <participante>
+  <nome>Mário Brum</nome>
+  <instituicao>UFF</instituicao>
+ </participante>
+ <participante>
+  <nome>Mauro Amoroso</nome>
+  <instituicao>FGV-RJ</instituicao>
+ </participante>
+ <participante>
+  <nome>Rafael Soares Gonçalves</nome>
+  <instituicao>PUC-Rio</instituicao>
+ </participante>
+ <participante>
+  <nome>Eunice Durham</nome>
+  <instituicao>USP</instituicao>
+ </participante>
+ <participante>
+  <nome>Guita Grin Debert</nome>
+  <instituicao>UNICAMP</instituicao>
+ </participante>
+ <participante>
+  <nome>Roberto DaMatta</nome>
+  <instituicao>UFF</instituicao>
+ </participante>
+ <participante>
+  <nome>Yvonne Maggie</nome>
+  <instituicao>UFRJ</instituicao>
+ </participante>
+ <participante>
+  <nome>Cícero Araújo</nome>
+  <instituicao>USP</instituicao>
+ </participante>
+ <participante>
+  <nome>Maria Hermínia Tavares de Almeida</nome>
+  <instituicao>USP</instituicao>
+ </participante>
+ <participante>
+  <nome>Maria Tereza Sadek</nome>
+  <instituicao>USP</instituicao>
+ </participante>
+ <participante>
+  <nome>Renato Lessa</nome>
+  <instituicao>IUPERJ</instituicao>
+ </participante>
+ <participante>
+  <nome>Antonio Flavio Pierucci</nome>
+  <instituicao>USP</instituicao>
+ </participante>
+ <participante>
+  <nome>Maria Hermínia Tavares de Almeida</nome>
+  <instituicao>USP</instituicao>
+ </participante>
+ <participante>
+  <nome>Sérgio Adorno</nome>
+  <instituicao>USP</instituicao>
+ </participante>
+ <participante>
+  <nome>Vilma Figueiredo</nome>
+  <instituicao>UnB</instituicao>
+ </participante>
+ <participante>
+  <nome>Gilberto Velho</nome>
+  <instituicao>UFRJ</instituicao>
+ </participante>
+ <participante>
+  <nome>Wanderley Guilherme dos Santos</nome>
+  <instituicao>IUPERJ</instituicao>
+ </participante>
+ <participante>
+  <nome>Gabriel Cohn</nome>
+  <instituicao>USP</instituicao>
+ </participante>
+ <participante>
+  <nome>Luiz Fernando Dias Duarte</nome>
+  <instituicao>UFRJ</instituicao>
+ </participante>
+ <participante>
+  <nome>Maria Arminda do Nascimento Arruda</nome>
+  <instituicao>USP</instituicao>
+ </participante>
+ <participante>
+  <nome>Miguel Chaia</nome>
+  <instituicao>PUC-SP</instituicao>
+ </participante>
+</Docentes>
