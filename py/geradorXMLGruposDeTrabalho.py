@@ -24,7 +24,7 @@ for line in lines:
         if(ehgrupo):
             grupo = util.removeparenteses(line)
             gp = et.SubElement(root, "grupo")
-            nome = et.SubElement(gp, "nome")
+            nome = et.SubElement(gp, "nome_grupo")
             nome.text = grupo.strip()
             for linha in res:
                 ano = et.SubElement(gp, 'ano')
@@ -33,9 +33,10 @@ for line in lines:
             nomeparticipante = util.getnome(line)
             instituicao = util.get_instituicao(line)
             participante = et.SubElement(gp, "participante")
-            participante.text = nomeparticipante.strip()
+            np = et.SubElement(participante, "nome_participante")
+            np.text = nomeparticipante.strip()
             if(instituicao != ""):
-                inst = et.SubElement(gp, "instituicao")
+                inst = et.SubElement(participante, "instituicao")
                 inst.text = instituicao.strip()
 
 
@@ -48,7 +49,7 @@ formatedXML = minidom.parseString(et.tostring(root)).toprettyxml(indent=" ").str
 
 #tree.write('diretorias.xml',  method='xml')
 # write the formatedXML to file.
-with io.open("../xml/GruposDeTrabalho2.xml", "w+", encoding="utf-8") as f:
+with io.open("../xml/GruposDeTrabalho3.xml", "w+", encoding="utf-8") as f:
     f.write(formatedXML)
 
 

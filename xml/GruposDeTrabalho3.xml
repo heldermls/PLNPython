@@ -1,0 +1,3580 @@
+<?xml version="1.0" ?>
+<grupos>
+ <grupo>
+  <nome_grupo>A cidade nas ciências sociais: teoria, pesquisa e contexto 2008, 2009</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Heitor Frúgoli Junior</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Laura Graziela Figueiredo Fernandes Gomes</nome_participante>
+   <instituicao>UFF</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>A metrópole e a questão social 2008, 2009</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Maria do Livramento Miranda Clementino</nome_participante>
+   <instituicao>UFRN</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Orlando Alves dos Santos Junior</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>A Produção, a Leitura-Recepção e os Usos da Imagem em Ciências Sociais 2002, 2003</nome_grupo>
+  <ano>2002</ano>
+  <ano>2003</ano>
+  <participante>
+   <nome_participante>Carmen Silvia de Moraes Rial</nome_participante>
+   <instituicao>UFSC</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Sylvia Caiuby Novaes</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>A Questão Regional e o Brasil 1982, 1983,1984, 1985</nome_grupo>
+  <ano>1982</ano>
+  <ano>1983</ano>
+  <ano>1984</ano>
+  <ano>1985</ano>
+  <participante>
+   <nome_participante>André Haguette</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Rosa Maria Godoy da Silva</nome_participante>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Ação coletiva, movimentos sociais e políticas públicas 2011, 2012</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <participante>
+   <nome_participante>Aline Bonetti</nome_participante>
+   <instituicao>UFBA</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Marcelo Kunrath</nome_participante>
+   <instituicao>UFRGS</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Administração de conflitos em perspectiva comparada 2014, 2015</nome_grupo>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Jacqueline Sinhoretto</nome_participante>
+   <instituicao>UFSCar</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Roberto Kant de Lima</nome_participante>
+   <instituicao>UFF</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>América do Sul e regionalismos comparados 2008, 2009</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Andrea Ribeiro Hoffmann</nome_participante>
+   <instituicao>PUC/Rio</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Marcelo James Vasconcelos Coutinho</nome_participante>
+   <instituicao>IUPERJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Arte e Cultura nas Sociedades Contemporâneas 2014, 2015</nome_grupo>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Ana Paula Simioni</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Edson Silva Farias</nome_participante>
+   <instituicao>UnB</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>As classes sociais no Brasil contemporâneo 2014, 2015</nome_grupo>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Carlos Sávio Teixeira</nome_participante>
+   <instituicao>UFF</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Jessé Souza</nome_participante>
+   <instituicao>UFJF</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Biografia e Memória Social 1998 ,1999, 2000</nome_grupo>
+  <ano>1998</ano>
+  <ano>1999</ano>
+  <ano>2000</ano>
+  <participante>
+   <nome_participante>Dulce Pandolfi</nome_participante>
+   <instituicao>FGV/ RJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Regina Novaes</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Ciberpolítica, ciberativismo e cibercultura 2011, 2012, 2014, 2015</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Sérgio Amadeu da Silveira</nome_participante>
+   <instituicao>UFABC</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Sérgio Soares Braga</nome_participante>
+   <instituicao>UFPR</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Cidadania, Conflito e Transformações Urbanas 1994 ,1995,  1996</nome_grupo>
+  <ano>1994</ano>
+  <ano>1995</ano>
+  <ano>1996</ano>
+  <participante>
+   <nome_participante>Ana Maria Doimo</nome_participante>
+   <instituicao>UFES</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Elimar Pinheiro do Nascimento</nome_participante>
+   <instituicao>UnB</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Inaiá Maria Moreira de Carvalho</nome_participante>
+   <instituicao>UFBA</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Luiz Antonio Machado da Silva</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Cidade e Metropolização 1998 a 2000</nome_grupo>
+  <ano>1998</ano>
+  <ano>2000</ano>
+  <participante>
+   <nome_participante>Lucia Maria Machado Bógus</nome_participante>
+   <instituicao>PUC-SP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Luiz César de Queiroz Ribeiro</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Cidade, Metropolização e Governança Urbana 2002, 2003</nome_grupo>
+  <ano>2002</ano>
+  <ano>2003</ano>
+  <participante>
+   <nome_participante>Sergio de Azevedo</nome_participante>
+   <instituicao>UENF</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Cidades: sociabilidades, cultura, participação e gestão 2005, 2006</nome_grupo>
+  <ano>2005</ano>
+  <ano>2006</ano>
+  <participante>
+   <nome_participante>Maria da Glória Marcondes Gohn</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria do Livramento M. Clementino</nome_participante>
+   <instituicao>UFRN</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>novos ambientes da produção e do uso do conhecimento</nome_participante>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>2014, 2015</nome_grupo>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Maria Conceição da Costa</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria Helena de Magalhães Castro</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Classe Operária e Sindicalismo 1985, 1986, 1987, 1988, 1989, 1991 ,  1992</nome_grupo>
+  <ano>1985</ano>
+  <ano>1986</ano>
+  <ano>1987</ano>
+  <ano>1988</ano>
+  <ano>1989</ano>
+  <ano>1991</ano>
+  <ano>1992</ano>
+  <participante>
+   <nome_participante>Armando Boito Jr.</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Ingrid Sarti</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Laís Wendel Abramo</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Leôncio Martins Rodrigues</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Lucília de Almeida Neves Delgado</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Marcia de Paula Leite</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Roque Aparecido da Silva</nome_participante>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Comportamento político 2011, 2012</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <participante>
+   <nome_participante>Lucio Remuzat Rennó Junior</nome_participante>
+   <instituicao>UnB</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Mario Fuks</nome_participante>
+   <instituicao>UFMG</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Comportamento Político e Opinião Pública 2014, 2015</nome_grupo>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Mario Fuks</nome_participante>
+   <instituicao>UFMG</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Mathieu Turgeon</nome_participante>
+   <instituicao>UnB</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Conflitos ambientais, Estado e ideologia do desenvolvimento: mediação e luta por direitos 2014, 2015</nome_grupo>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Cleyton Henrique Gerhardt</nome_participante>
+   <instituicao>UFRGS</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Neide Esterci</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Conflitos ambientais, processos de territorialização e identidades sociais 2008, 2009</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Eliane Cantarino O’Dwyer</nome_participante>
+   <instituicao>UFF</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Flávia Maria Galizoni</nome_participante>
+   <instituicao>UFVJM</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Conflitos ambientais, terra e território: estratégias de resistência e construção de direitos 2011, 2012</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <participante>
+   <nome_participante>Eder Jurandir Carneiro</nome_participante>
+   <instituicao>UFSJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Horácio Antunes de Sant’Ana Júnior</nome_participante>
+   <instituicao>UFMA</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Conflitos sociais e meio ambiente 2005, 2006</nome_grupo>
+  <ano>2005</ano>
+  <ano>2006</ano>
+  <participante>
+   <nome_participante>Andréa M. Zhouri</nome_participante>
+   <instituicao>UFMG</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Eder Jurandir Carneiro</nome_participante>
+   <instituicao>UFSJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Henri Acselrad</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Conflitualidade social, administração da justiça e segurança pública 2008, 2009</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Roberto Kant de Lima</nome_participante>
+   <instituicao>UFF</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Rodrigo Ghiringhelli de Azevedo</nome_participante>
+   <instituicao>PUC/RS</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Controles Democráticos e Cidadania 2002, 2003</nome_grupo>
+  <ano>2002</ano>
+  <ano>2003</ano>
+  <participante>
+   <nome_participante>Claudio Gonçalves Couto</nome_participante>
+   <instituicao>PUC-SP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Fernando Lattman-Weltman</nome_participante>
+   <instituicao>FGV-RJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>atores, instituições, dinâmicas e resultados</nome_participante>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>2014, 2015</nome_grupo>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Fernando Luiz Abrucio</nome_participante>
+   <instituicao>FGV-SP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Lígia Helena Hahn Lüchmann</nome_participante>
+   <instituicao>UFSC</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Controles democráticos e instituições políticas 2008, 2009</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Bruno Pinheiro Wanderley Reis</nome_participante>
+   <instituicao>UFMG</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Rogério Bastos Arantes</nome_participante>
+   <instituicao>PUC/SP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Controles democráticos e legitimidade 2011, 2012</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <participante>
+   <nome_participante>Adrian Gurza Lavalle</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Paulo Mesquita d’Avila Filho</nome_participante>
+   <instituicao>PUC/RIO</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Corpo, Biotecnologia e Saúde 2005, 2006</nome_grupo>
+  <ano>2005</ano>
+  <ano>2006</ano>
+  <participante>
+   <nome_participante>Ceres Gomes Victora</nome_participante>
+   <instituicao>UFRGS</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Cynthia Andersen Sarti</nome_participante>
+   <instituicao>UNIFESP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Jane Araujo Russo</nome_participante>
+   <instituicao>UERJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Corpo, biotecnologia e subjetividade 2008, 2009</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Cynthia Andersen Sarti</nome_participante>
+   <instituicao>UNIFESP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Jane Araujo Russo</nome_participante>
+   <instituicao>UERJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Crime, violência e punição 2008, 2009</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Michel Misse</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Sergio Adorno</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Cultura brasileira: modos e estilos de vida 2008, 2009</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Debora Krischke Leitão</nome_participante>
+   <instituicao>UEL</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria Eunice de Souza Maciel</nome_participante>
+   <instituicao>UFRGS</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Cultura e Política 1994, 1995, 1996</nome_grupo>
+  <ano>1994</ano>
+  <ano>1995</ano>
+  <ano>1996</ano>
+  <participante>
+   <nome_participante>Gilberto Velho</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Irlys Alencar F. Barreira</nome_participante>
+   <instituicao>UFC</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Myriam Lins de Barros</nome_participante>
+   <instituicao>UFC</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Ruth Corrêa Leite Cardoso</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Cultura, Economia e Política 2008, 2009</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Edson Farias</nome_participante>
+   <instituicao>UnB</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria Celeste Mira</nome_participante>
+   <instituicao>PUC-SP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Cultura Popular e Ideologia Política 1979, 1980, 1981 , 1982 , 1983 , 1984</nome_grupo>
+  <ano>1979</ano>
+  <ano>1980</ano>
+  <ano>1981</ano>
+  <ano>1982</ano>
+  <ano>1983</ano>
+  <ano>1984</ano>
+  <participante>
+   <nome_participante>Eunice Durhan</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Gilberto Velho</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Ruth Correa Leite Cardoso</nome_participante>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>De cidades à cidade no Brasil: Tempos e/ou espaços 2014, 2015</nome_grupo>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Fraya Frehse</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Julia O’Donnell</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Democracia, comunicação política e eleições 2008, 2009</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Alessandra Aldé</nome_participante>
+   <instituicao>UERJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Antonio Jorge Fonseca de Almeida</nome_participante>
+   <instituicao>UFBA</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Luis Felipe Miguel</nome_participante>
+   <instituicao>UnB</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Democracia e desigualdades 2014, 2015</nome_grupo>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Daniel de Mendonça</nome_participante>
+   <instituicao>UFPel</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Luis Felipe Miguel</nome_participante>
+   <instituicao>UnB</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Democracia na América Latina: política, cultura e sociedade 2014, 2015</nome_grupo>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Thiago Moreira de Souza</nome_participante>
+   <instituicao>UFF</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Wagner de Melo Romão</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Desafios e dimensões contemporâneas do desenvolvimento 2008, 2009</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Eduardo Antonio Salomão Condé</nome_participante>
+   <instituicao>UFJF</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Wagner Pralon Mancuso</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Desenvolvimento: caminhos e descaminhos de um debate contemporâneo 2014, 2015</nome_grupo>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Eduardo Condé</nome_participante>
+   <instituicao>UFJF</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Francisco Fonseca</nome_participante>
+   <instituicao>FGV-SP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Desenvolvimento, democracia e instituições 2005, 2006</nome_grupo>
+  <ano>2005</ano>
+  <ano>2006</ano>
+  <participante>
+   <nome_participante>Eduardo Condé</nome_participante>
+   <instituicao>UFJF</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Eli Roque Diniz</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Jorge Ruben Biton Tapia</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria Antonieta Parahyba Leopoldi</nome_participante>
+   <instituicao>UFF</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Ruben Tapia</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Desenvolvimento em perspectiva – teorias, desenvolvimentos e projetos políticos</nome_participante>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>2011, 2012</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <participante>
+   <nome_participante>Eduardo Condé</nome_participante>
+   <instituicao>UFJF</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Francisco Fonseca</nome_participante>
+   <instituicao>FGV/SP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Desigualdades: dimensões e evoluções recentes 2008, 2009</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Luiz Inácio Germany Gaiger</nome_participante>
+   <instituicao>UNISINOS</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria Celi Ramos da Cruz Scalon</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Desigualdade e estratificação social 2011, 2012</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <participante>
+   <nome_participante>Danielle Fernandes</nome_participante>
+   <instituicao>UFMG</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Diogo Helal</nome_participante>
+   <instituicao>FUNDAJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Desigualdades: produção e reprodução 2008, 2009</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Antonio David Cattani</nome_participante>
+   <instituicao>UFRGS</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Felícia Silva Picanço</nome_participante>
+   <instituicao>UERJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Dilemas da modernidade periférica 2008, 2009</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Jessé José Freire de Souza</nome_participante>
+   <instituicao>UFJF</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Milton Lahuerta</nome_participante>
+   <instituicao>UNESP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Dilemas da modernização periférica 2005, 2006</nome_grupo>
+  <ano>2005</ano>
+  <ano>2006</ano>
+  <participante>
+   <nome_participante>Jessé Souza</nome_participante>
+   <instituicao>UENF</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Marco Aurélio Nogueira</nome_participante>
+   <instituicao>UNESP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Dimensões do urbano: tempo e escalas em composição 2011, 2012</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <participante>
+   <nome_participante>Cristina Patriota de Moura</nome_participante>
+   <instituicao>UnB</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Mariana Cavalcanti</nome_participante>
+   <instituicao>FGV-RJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Direito e Sociedade 1979,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989</nome_grupo>
+  <ano>1979</ano>
+  <ano>1980</ano>
+  <ano>1981</ano>
+  <ano>1982</ano>
+  <ano>1983</ano>
+  <ano>1984</ano>
+  <ano>1985</ano>
+  <ano>1986</ano>
+  <ano>1987</ano>
+  <ano>1988</ano>
+  <ano>1989</ano>
+  <participante>
+   <nome_participante>Eliane Junqueira</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Joaquim de Arruda Falcão</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>José Eduardo Campos de Oliveira Faria</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>José Ribas Vieira</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Luciano Oliveira</nome_participante>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Direitos, Identidades e Ordem pública 1994 ,1995, 1996</nome_grupo>
+  <ano>1994</ano>
+  <ano>1995</ano>
+  <ano>1996</ano>
+  <participante>
+   <nome_participante>Amélia Cohn</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>César Caldeira</nome_participante>
+   <instituicao>UNIRIO</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria Célia Paoli</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Sérgio Adorno</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Do ponto de vista das crianças: pesquisas recentes em ciências sociais 2008, 2009</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Clarice Cohn</nome_participante>
+   <instituicao>UFSCAR</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Antonella Maria Imperatriz Tassinari</nome_participante>
+   <instituicao>UFSC</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Ecologia e Sociedade 1994 , 1996</nome_grupo>
+  <ano>1994</ano>
+  <ano>1996</ano>
+  <participante>
+   <nome_participante>Eduardo Viola</nome_participante>
+   <instituicao>UnB</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Hector Leis</nome_participante>
+   <instituicao>UFSC</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Leila da Costa Ferreira</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Pedro Jacobi</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Ecologia, Política e Sociedade 1988, 1989, 1991 , 1992</nome_grupo>
+  <ano>1988</ano>
+  <ano>1989</ano>
+  <ano>1991</ano>
+  <ano>1992</ano>
+  <participante>
+   <nome_participante>Daniel Joseph Hogan</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Eduardo Viola</nome_participante>
+   <instituicao>UFSC</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Paulo Henrique Freire Vieira</nome_participante>
+   <instituicao>UFSC</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Economia e Política 1988</nome_grupo>
+  <ano>1988</ano>
+  <participante>
+   <nome_participante>Luis Aureliano Gama de Andrade</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Lourdes Sola</nome_participante>
+   <instituicao>CEBRAP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Educação e Sociedade 1982,1983,1984,1985,1986,1987,1988,1989, 1991, 1992, 1994 ,1995 1996, 1998 ,1999, 2000, 2002, 2003,2005, 2006, 2008, 2009, 2011, 2012</nome_grupo>
+  <ano>1982</ano>
+  <ano>1983</ano>
+  <ano>1984</ano>
+  <ano>1985</ano>
+  <ano>1986</ano>
+  <ano>1987</ano>
+  <ano>1988</ano>
+  <ano>1989</ano>
+  <ano>1991</ano>
+  <ano>1992</ano>
+  <ano>1994</ano>
+  <ano>1995</ano>
+  <ano>1996</ano>
+  <ano>1998</ano>
+  <ano>1999</ano>
+  <ano>2000</ano>
+  <ano>2002</ano>
+  <ano>2003</ano>
+  <ano>2005</ano>
+  <ano>2006</ano>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <participante>
+   <nome_participante>Ana Maria F. Almeida</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Aparecida Joly Gouveia</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Arabela Campos Oliven</nome_participante>
+   <instituicao>UFRGS</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Carlos Benedito Martins</nome_participante>
+   <instituicao>UnB</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Clarissa Eckert Baeta Neves</nome_participante>
+   <instituicao>UFRGS</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Fernanda Antônia da Fonseca Sobral</nome_participante>
+   <instituicao>UnB</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria Ligia de Oliveira Barbosa</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Zelia de Brito Fabri Demartini</nome_participante>
+   <instituicao>UNICAMP/ CERU</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Elites e Espaços de Poder 2014, 2015</nome_grupo>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Adriano Nervo Codato</nome_participante>
+   <instituicao>UFPR</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Ernesto Seidl</nome_participante>
+   <instituicao>UFSC</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Esporte e sociedade 2011, 2012</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <participante>
+   <nome_participante>Arlei Sander Damo</nome_participante>
+   <instituicao>UFRGS</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Josimar Jorge Ventura de Morais</nome_participante>
+   <instituicao>UFPE</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Elites e instituições políticas 2008, 2009</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Miguel Serna</nome_participante>
+   <instituicao>UDELAR</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Renato Monseff Perissinotto</nome_participante>
+   <instituicao>UFPR</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Elites Políticas 1979,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989, 1991, 1992 , 1994, 1995, 1996</nome_grupo>
+  <ano>1979</ano>
+  <ano>1980</ano>
+  <ano>1981</ano>
+  <ano>1982</ano>
+  <ano>1983</ano>
+  <ano>1984</ano>
+  <ano>1985</ano>
+  <ano>1986</ano>
+  <ano>1987</ano>
+  <ano>1988</ano>
+  <ano>1989</ano>
+  <ano>1991</ano>
+  <ano>1992</ano>
+  <ano>1994</ano>
+  <ano>1995</ano>
+  <ano>1996</ano>
+  <participante>
+   <nome_participante>Aspásia Camargo</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Eli Diniz</nome_participante>
+   <instituicao>IUPERJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria Antonieta Parahyba Leopoldi</nome_participante>
+   <instituicao>UFF</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Renato Lessa</nome_participante>
+   <instituicao>UFF</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Sérgio Miceli</nome_participante>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Empresariado e Ação Coletiva 2002, 2003</nome_grupo>
+  <ano>2002</ano>
+  <ano>2003</ano>
+  <participante>
+   <nome_participante>Eli Diniz</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Otavio Soares Dulci</nome_participante>
+   <instituicao>UFMG</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>institucionalização e contestação nos movimentos sociais</nome_participante>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>latino-americanos 2014, 2015</nome_grupo>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Marcelo Kunrath Silva</nome_participante>
+   <instituicao>UFRGS</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Marisa von Bulow</nome_participante>
+   <instituicao>UnB</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Entre fronteiras e disciplinas: estudos sobre África e Caribe 2008, 2009</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Federico Neiburg</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Lygia Sigaud</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Omar Ribeiro Thomaz</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Esporte, Política e Cultura 2002, 2003</nome_grupo>
+  <ano>2002</ano>
+  <ano>2003</ano>
+  <participante>
+   <nome_participante>José Jairo Vieira</nome_participante>
+   <instituicao>UFV</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Ronaldo Helal</nome_participante>
+   <instituicao>UERJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Estado 1978</nome_grupo>
+  <ano>1978</ano>
+ </grupo>
+ <grupo>
+  <nome_grupo>Estado e Agricultura 1980,1981,1982,1983,1984,1985,1986,1987,1988,1989, 1991 , 1992</nome_grupo>
+  <ano>1980</ano>
+  <ano>1981</ano>
+  <ano>1982</ano>
+  <ano>1983</ano>
+  <ano>1984</ano>
+  <ano>1985</ano>
+  <ano>1986</ano>
+  <ano>1987</ano>
+  <ano>1988</ano>
+  <ano>1989</ano>
+  <ano>1991</ano>
+  <ano>1992</ano>
+  <participante>
+   <nome_participante>Anita Brumer</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Cesar Barreira</nome_participante>
+   <instituicao>UFC</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Delma Pessanha Neves</nome_participante>
+   <instituicao>UFF</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Jorge Osvaldo Romano</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria de Nazareth Baudel Wanderley</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Otávio Guilherme Velho</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Vilma Figueiredo</nome_participante>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Estado e Democracia 1979 a 1986</nome_grupo>
+  <ano>1979</ano>
+  <ano>1986</ano>
+  <participante>
+   <nome_participante>Fabio Wanderley Reis</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Renato Raul Boschi</nome_participante>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Estratégias Internéticas e fronteiras identitárias 2008, 2009</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>João Pacheco de Oliveira Filho</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>John Manuel Monteiro</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Estratificação e Mobilidade Social 2002, 2003</nome_grupo>
+  <ano>2002</ano>
+  <ano>2003</ano>
+  <participante>
+   <nome_participante>Carlos Antonio Costa Ribeiro</nome_participante>
+   <instituicao>UERJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Estrutura Social e Desigualdade 1998 ,1999,2000</nome_grupo>
+  <ano>1998</ano>
+  <ano>1999</ano>
+  <ano>2000</ano>
+  <participante>
+   <nome_participante>Célia de Andrade Lessa</nome_participante>
+   <instituicao>UFF</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Ricardo Paes de Barros</nome_participante>
+   <instituicao>IPEA</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Estudos Legislativos 1983 ,1984, 1985, 2002, 2003, 2005, 2006, 2008, 2009, 2011, 2012</nome_grupo>
+  <ano>1983</ano>
+  <ano>1984</ano>
+  <ano>1985</ano>
+  <ano>2002</ano>
+  <ano>2003</ano>
+  <ano>2005</ano>
+  <ano>2006</ano>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <participante>
+   <nome_participante>André Marenco,</nome_participante>
+   <instituicao>UFRGS</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Carlos Ranulfo Melo</nome_participante>
+   <instituicao>UFMG</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>David Fleischer</nome_participante>
+   <instituicao>UnB</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Fabiano Santos</nome_participante>
+   <instituicao>IUPERJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Lucio Remuzat Rennó Junior</nome_participante>
+   <instituicao>UnB</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Luís Gustavo Mello Grohmann</nome_participante>
+   <instituicao>UFRGS</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Magna Maria Inácio</nome_participante>
+   <instituicao>UFMG</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria de Fatima J. Anastasia</nome_participante>
+   <instituicao>UFMG</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Paolo Ricci</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Estudos rurais e etnologia indígena: diálogos e intersecções 2011, 2012</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <participante>
+   <nome_participante>Emília Pietrafesa de Godoi</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria Rosário Carvalho</nome_participante>
+   <instituicao>UFBA</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Estudos sobre Estados Unidos 2011, 2012</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <participante>
+   <nome_participante>Matias Spektor</nome_participante>
+   <instituicao>FGV/RJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Sebastião Velasco e Cruz</nome_participante>
+   <instituicao>INCT-INEU</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Estudos Urbanos 1987 ,1988, 1989, 1991, 1992, 1994 ,1995, 1996</nome_grupo>
+  <ano>1987</ano>
+  <ano>1988</ano>
+  <ano>1989</ano>
+  <ano>1991</ano>
+  <ano>1992</ano>
+  <ano>1994</ano>
+  <ano>1995</ano>
+  <ano>1996</ano>
+  <participante>
+   <nome_participante>Berenice Martins Guimarães</nome_participante>
+   <instituicao>UFMG</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Flávio Saliba Cunha</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Licia Valladares</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Lúcia Bógus</nome_participante>
+   <instituicao>PUC/SP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Luiz Cesar de Queiroz Ribeiro</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria da Gloria Gohn</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Suzana Pasternak Taschner</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Tamara Benakouche</nome_participante>
+   <instituicao>UFSC</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Tamara Tânia Cohen Egler</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Estudos Urbanos: Representações e Políticas Públicas 1981,1982,1983,1984,1985,1986</nome_grupo>
+  <ano>1981</ano>
+  <ano>1982</ano>
+  <ano>1983</ano>
+  <ano>1984</ano>
+  <ano>1985</ano>
+  <ano>1986</ano>
+  <participante>
+   <nome_participante>Flávio Saliba Cunha</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Sergio de Azevedo</nome_participante>
+   <instituicao>UFMG</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Etnografando o fazer científico 2008</nome_grupo>
+  <ano>2008</ano>
+  <participante>
+   <nome_participante>Daniela Riva Knauth</nome_participante>
+   <instituicao>UFRGS</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Ednalva Maciel Neves</nome_participante>
+   <instituicao>UFMA</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Etnologia Indígena 1998 a 2000</nome_grupo>
+  <ano>1998</ano>
+  <ano>2000</ano>
+  <participante>
+   <nome_participante>Denise Fajardo Grupioni</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Dominique Tilkin Gallois</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Família e Sociedade 1981,1982,1983,1984,1985,1986,1987,1988,1989, 1991, 1992, 1994 ,1995, 1996, 1998, 2000</nome_grupo>
+  <ano>1981</ano>
+  <ano>1982</ano>
+  <ano>1983</ano>
+  <ano>1984</ano>
+  <ano>1985</ano>
+  <ano>1986</ano>
+  <ano>1987</ano>
+  <ano>1988</ano>
+  <ano>1989</ano>
+  <ano>1991</ano>
+  <ano>1992</ano>
+  <ano>1994</ano>
+  <ano>1995</ano>
+  <ano>1996</ano>
+  <ano>1998</ano>
+  <ano>2000</ano>
+  <participante>
+   <nome_participante>Elisabete Dória Bilac</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Lia Freitas Garcia Fukui</nome_participante>
+   <instituicao>CERU/USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria Cristina A. Bruschini</nome_participante>
+   <instituicao>Fundação Carlos Chagas</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria Lygia Quartim de Moares</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Mariza Corrêa</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Russell Parry Scott</nome_participante>
+   <instituicao>UFPE</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>configurações, gerações e articulações em contexto de desigualdade</nome_participante>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>2014, 2015</nome_grupo>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Felícia Silva Picanço</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Jurema Gorski Brites</nome_participante>
+   <instituicao>UFSM</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>o impacto do dinheiro sobre os partidos, eleições,</nome_participante>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>candidatos e representantes 2011, 2012</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <participante>
+   <nome_participante>Bruno Wilhelm Speck</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Wagner Pralon Mancuso</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Financiamento do Sistema Partidário e Eleitoral nas Democracias Contemporâneas 2014,2015</nome_grupo>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Emerson Urizzi Cervi</nome_participante>
+   <instituicao>UFPR</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Manoel Santos</nome_participante>
+   <instituicao>UFMG</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Mauro Macedo Campos</nome_participante>
+   <instituicao>UENF</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Forças Armadas, Estado e Sociedade 1984, 1998, 1991, 1992, 1994 , 1995, 1996, 2005, 2006,2008, 2009, 2011, 2012</nome_grupo>
+  <ano>1984</ano>
+  <ano>1998</ano>
+  <ano>1991</ano>
+  <ano>1992</ano>
+  <ano>1994</ano>
+  <ano>1995</ano>
+  <ano>1996</ano>
+  <ano>2005</ano>
+  <ano>2006</ano>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <participante>
+   <nome_participante>Adriana Barreto de Souza</nome_participante>
+   <instituicao>UFRRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Antonio Jorge Ramalho da Rocha</nome_participante>
+   <instituicao>UnB</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Celso Corrêa Castro Pinto de Castro</nome_participante>
+   <instituicao>FGV-RJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Hector Luis Saint-Pierre</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>João Roberto Martins Filho</nome_participante>
+   <instituicao>UFSCar</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Jorge Zaverucha</nome_participante>
+   <instituicao>UFPE</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Piero de Camargo Leirner</nome_participante>
+   <instituicao>UFSCar</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Renato Dagnino</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>René Armand Dreifuss</nome_participante>
+   <instituicao>UFMG</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Suzeley Kalil Mathias</nome_participante>
+   <instituicao>UNESP/ UNICAMP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Gênero, deslocamentos, militâncias e democracia 2011, 2012</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <participante>
+   <nome_participante>Elisete Schwade</nome_participante>
+   <instituicao>UFRN</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Miriam Pillar Grossi</nome_participante>
+   <instituicao>UFSC</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Gênero na contemporaneidade 2005, 2006</nome_grupo>
+  <ano>2005</ano>
+  <ano>2006</ano>
+  <participante>
+   <nome_participante>Lucila Scavone</nome_participante>
+   <instituicao>UNESP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Luzinete Simões Minella</nome_participante>
+   <instituicao>UFSC</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria Lygia Quartim de Moraes</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Grupos dirigentes e estruturas de poder 2011, 2012</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <participante>
+   <nome_participante>Ernesto Seidl</nome_participante>
+   <instituicao>UFS</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Mario Grynszpan</nome_participante>
+   <instituicao>FGV/RJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>História Indígena e do Indigenismo 1978, 1984 ,1985, 1986, 1989, 1991, 1992,1993,1994,1995,1996</nome_grupo>
+  <ano>1978</ano>
+  <ano>1984</ano>
+  <ano>1985</ano>
+  <ano>1986</ano>
+  <ano>1989</ano>
+  <ano>1991</ano>
+  <ano>1992</ano>
+  <ano>1993</ano>
+  <ano>1994</ano>
+  <ano>1995</ano>
+  <ano>1996</ano>
+  <participante>
+   <nome_participante>John Manuel Monteiro</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria Manuela Carneiro da Cunha</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Robin M. Wright</nome_participante>
+   <instituicao>USP/ UNICAMP/ UNESP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>História Oral e Memória 1994,1995,1996</nome_grupo>
+  <ano>1994</ano>
+  <ano>1995</ano>
+  <ano>1996</ano>
+  <participante>
+   <nome_participante>Dulce Pandolfi</nome_participante>
+   <instituicao>FGV/RJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>José Sergio Leite Lopes</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Marieta de Morais Ferreira</nome_participante>
+   <instituicao>FGVRJ/ UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Rosilene Alvim</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Instituição Militar e Ordem Social 2014, 2015</nome_grupo>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Adriana Barreto de Souza</nome_participante>
+   <instituicao>UFRRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maud Aurélia Chirio</nome_participante>
+   <instituicao>UFSCAR</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Instituições judiciais, agentes e repercussão pública 2014, 2015</nome_grupo>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Andrei Koerner</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Fabiano Engelmann</nome_participante>
+   <instituicao>UFRGS</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Roberto Fragale Filho</nome_participante>
+   <instituicao>UFF</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Instituições Políticas 1998 ,1999, 2000</nome_grupo>
+  <ano>1998</ano>
+  <ano>1999</ano>
+  <ano>2000</ano>
+  <participante>
+   <nome_participante>Renato Lessa</nome_participante>
+   <instituicao>IUPERJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Intelectuais, cultura e democracia 2014, 2015</nome_grupo>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Luiz Werneck Vianna</nome_participante>
+   <instituicao>PUC-Rio</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Rubem Barboza Filho</nome_participante>
+   <instituicao>UFJF</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Imagens e Sentidos: a produção de conhecimento nas ciências sociais 2005, 2006</nome_grupo>
+  <ano>2005</ano>
+  <ano>2006</ano>
+  <participante>
+   <nome_participante>Clarice Ehlers Peixoto</nome_participante>
+   <instituicao>UERJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Paulo Menezes</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Judiciário e política – teorias e debates contemporâneos 2011, 2012</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <participante>
+   <nome_participante>Andrei Koerner</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Marcus Faro de Castro</nome_participante>
+   <instituicao>UnB</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Lutas Urbanas, Estado e Cidadania 1978,1979,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989, 1991 , 1992</nome_grupo>
+  <ano>1978</ano>
+  <ano>1979</ano>
+  <ano>1980</ano>
+  <ano>1981</ano>
+  <ano>1982</ano>
+  <ano>1983</ano>
+  <ano>1984</ano>
+  <ano>1985</ano>
+  <ano>1986</ano>
+  <ano>1987</ano>
+  <ano>1988</ano>
+  <ano>1989</ano>
+  <ano>1991</ano>
+  <ano>1992</ano>
+  <participante>
+   <nome_participante>Ana Clara T. Ribeiro</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Edison Nunes</nome_participante>
+   <instituicao>CEDEC</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Ilse Scherer-Warren</nome_participante>
+   <instituicao>UFSC</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Inaiá Carvalho</nome_participante>
+   <instituicao>UFBA</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Irlys Barreira</nome_participante>
+   <instituicao>UFCe</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Lícia Valladares</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Luiz Antônio da Silva</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Pedro R. Jacobi</nome_participante>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Marxismo e Ciências Sociais 2008, 2009, 2011, 2012, 2014, 2015</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Armando Boito Júnior</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Gonzalo Adrián Rojas</nome_participante>
+   <instituicao>UFCG</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Luiz Eduardo Pereira da Motta</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Marcos Tadeu Del Roio</nome_participante>
+   <instituicao>UNESP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Ruy Gomes Braga Neto</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>novas construções de sentidos e experiências de</nome_participante>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>transdisciplinaridade 2011, 2012</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <participante>
+   <nome_participante>Myrian Sepulveda dos Santos</nome_participante>
+   <instituicao>UERJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Regina Maria do Rego Monteiro de Abreu</nome_participante>
+   <instituicao>UNIRIO</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Metamorfoses do rural contemporâneo 2011, 2012, 2014, 2015</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Flávio Sacco dos Anjos</nome_participante>
+   <instituicao>UFPel</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Rodrigo Constante Martins</nome_participante>
+   <instituicao>UFSCAR</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Métodos em Ciências Sociais 1982,1983,1984,1985,1986</nome_grupo>
+  <ano>1982</ano>
+  <ano>1983</ano>
+  <ano>1984</ano>
+  <ano>1985</ano>
+  <ano>1986</ano>
+  <participante>
+   <nome_participante>Marcus Faria Figueiredo</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Nelson do Valle e Silva</nome_participante>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Mídia, Política e Opinião Pública 2005, 2006</nome_grupo>
+  <ano>2005</ano>
+  <ano>2006</ano>
+  <participante>
+   <nome_participante>Alessandra Aldé</nome_participante>
+   <instituicao>UERJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Fernando Antônio Azevedo</nome_participante>
+   <instituicao>UFSCAR</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Mídia e Política: Opinião Pública e Eleições 2002, 2003</nome_grupo>
+  <ano>2002</ano>
+  <ano>2003</ano>
+  <participante>
+   <nome_participante>Flávio Silveira</nome_participante>
+   <instituicao>PUC-RS</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Marcus Figueiredo</nome_participante>
+   <instituicao>IUPERJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Vera Chaia</nome_participante>
+   <instituicao>PUC-SP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Mídia, Opinião Pública e Eleições 1998 ,1999, 2000</nome_grupo>
+  <ano>1998</ano>
+  <ano>1999</ano>
+  <ano>2000</ano>
+  <participante>
+   <nome_participante>Marcus Figueiredo</nome_participante>
+   <instituicao>IUPERJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Vera Chaia</nome_participante>
+   <instituicao>PUC-SP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Mídia, política e eleições 2011, 2012, 2014, 2015</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Fernando Lattman Weltman</nome_participante>
+   <instituicao>UERJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Flávia Biroli</nome_participante>
+   <instituicao>UnB</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Jorge Almeida</nome_participante>
+   <instituicao>UFBA</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Ricardo Fabrino Mendonça</nome_participante>
+   <instituicao>UFMG</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Migrações Internacionais 1998 ,1999, 2000, 2002, 2003, 2005, 2006, 2008, 2009</nome_grupo>
+  <ano>1998</ano>
+  <ano>1999</ano>
+  <ano>2000</ano>
+  <ano>2002</ano>
+  <ano>2003</ano>
+  <ano>2005</ano>
+  <ano>2006</ano>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Célia Sakurai</nome_participante>
+   <instituicao>IDESP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Ethel Kosminsky</nome_participante>
+   <instituicao>UNESP/Marília</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Giralda Seyferth</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Helion Povoa Neto</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>José Renato de Campos Araújo</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Oswaldo Mário Serra Truzzi</nome_participante>
+   <instituicao>UFSCAR</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Teresa Sales</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Zeila de Brito Fabri Demartini</nome_participante>
+   <instituicao>CERU</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Migrações internacionais: legislações, estados e atores sociais 2014, 2015</nome_grupo>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>José Renato de Campos Araújo</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria Catarina Zanini</nome_participante>
+   <instituicao>UFSM</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Miriam Oliveira Santos</nome_participante>
+   <instituicao>UFRRJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Migrações internacionais: interações entre estados, poderes e agentes 2011, 2012</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <participante>
+   <nome_participante>Helion Povoa Neto</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria Catarina Chitolina Zanini</nome_participante>
+   <instituicao>UFSM</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Mundo em Transição: novos vértices de poder, instituições e cooperação 2014, 2015</nome_grupo>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Karina Pasquariello</nome_participante>
+   <instituicao>UNESP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Roberto Goulart Menezes</nome_participante>
+   <instituicao>UnB</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Movimento Operário e Sindicatos 1978 , 1980,1981,1982,1983,1984</nome_grupo>
+  <ano>1978</ano>
+  <ano>1980</ano>
+  <ano>1981</ano>
+  <ano>1982</ano>
+  <ano>1983</ano>
+  <ano>1984</ano>
+  <participante>
+   <nome_participante>Ingrid Sarti</nome_participante>
+   <instituicao>ILDES</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria Hermínia Tavares de Almeida</nome_participante>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Mulher e Política 1981,1982,1983,1984,1985,1986,1987,1988,1989</nome_grupo>
+  <ano>1981</ano>
+  <ano>1982</ano>
+  <ano>1983</ano>
+  <ano>1984</ano>
+  <ano>1985</ano>
+  <ano>1986</ano>
+  <ano>1987</ano>
+  <ano>1988</ano>
+  <ano>1989</ano>
+  <participante>
+   <nome_participante>Ana Alice Costa</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Eleonora Menicucci de Oliveira</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Fanny Tabak</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Lourdes Bandeira</nome_participante>
+   <instituicao>UFPB</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Mulher na Força de Trabalho 1979,1980,1981,1982,1983,1984,1985, 1987 , 1989</nome_grupo>
+  <ano>1979</ano>
+  <ano>1980</ano>
+  <ano>1981</ano>
+  <ano>1982</ano>
+  <ano>1983</ano>
+  <ano>1984</ano>
+  <ano>1985</ano>
+  <ano>1987</ano>
+  <ano>1989</ano>
+  <participante>
+   <nome_participante>Heleieth Iara Bongiovani Saffioti</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Lena Lavinas</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Neuma Aguiar</nome_participante>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Novas configurações do ensino superior na sociedade contemporânea 2014, 2015</nome_grupo>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Carlos Benedito Martin</nome_participante>
+   <instituicao>UnB</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Clarissa Eckert Baeta Neves</nome_participante>
+   <instituicao>UFRGS</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Novos modelos comparativos: antropologia simétrica e sociologia pós-social 2008, 2009</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Eduardo Viana Vargas</nome_participante>
+   <instituicao>UFMG</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Marcio Goldman</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Novos modelos comparativos: investigações sobre coletivos afro-indígenas 2011, 2012</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <participante>
+   <nome_participante>Beatriz Perrone-Moisés</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Marcio Goldman</nome_participante>
+   <instituicao>MN-UFRJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>O Desenvolvimento Sustentável em Questão na Amazônia Brasileira 2002, 2003</nome_grupo>
+  <ano>2002</ano>
+  <ano>2003</ano>
+  <participante>
+   <nome_participante>Neide Esterci</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>O Pensamento Social Latino-americano: Legado e Desafios contemporâneos 2014, 2015</nome_grupo>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Carlos Eduardo da Rosa Martins</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Sedi Hirano</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>O pluralismo na teoria contemporânea 2011, 2012</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <participante>
+   <nome_participante>Artur Perrusi</nome_participante>
+   <instituicao>UFPE</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Cynthia Hamlin</nome_participante>
+   <instituicao>UFPE</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Frederic Vandenbergue</nome_participante>
+   <instituicao>IESP-UERJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Ordem hegemônica, multilateralismo e política externa 2005, 2006</nome_grupo>
+  <ano>2005</ano>
+  <ano>2006</ano>
+  <participante>
+   <nome_participante>Norma Breda dos Santos</nome_participante>
+   <instituicao>UnB</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Rafael Villa</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Os regimes de subjetivação ameríndios e a objetivação da cultura 2005, 2006</nome_grupo>
+  <ano>2005</ano>
+  <ano>2006</ano>
+  <participante>
+   <nome_participante>Eduardo Viveiros de Castro</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Marcela Stockler Coelho de Souza</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Oscar Calavia Saez</nome_participante>
+   <instituicao>UFSC</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Organizações e Sociedade 1980 , 1981</nome_grupo>
+  <ano>1980</ano>
+  <ano>1981</ano>
+ </grupo>
+ <grupo>
+  <nome_grupo>Para onde vai a Teoria Social Contemporânea? 2008, 2009</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Céli Regina Jardim Pinto</nome_participante>
+   <instituicao>UFRGS</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Jose Luiz Ratton</nome_participante>
+   <instituicao>UFPE</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Partidos e Comportamento Eleitoral 1994 , 1995, 1996</nome_grupo>
+  <ano>1994</ano>
+  <ano>1995</ano>
+  <ano>1996</ano>
+  <participante>
+   <nome_participante>Marcello Baquero</nome_participante>
+   <instituicao>UFRGS</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Partidos e Movimentos de Esquerda 1983,1984,1985,1986,1987,1988,1989, 1991 , 1992</nome_grupo>
+  <ano>1983</ano>
+  <ano>1984</ano>
+  <ano>1985</ano>
+  <ano>1986</ano>
+  <ano>1987</ano>
+  <ano>1988</ano>
+  <ano>1989</ano>
+  <ano>1991</ano>
+  <ano>1992</ano>
+  <participante>
+   <nome_participante>Daniel Aarão Reis Filho</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>João Quartim de Moraes</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Marcelo Siqueira Ridenti</nome_participante>
+   <instituicao>UNESP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Marco Aurélio Garcia</nome_participante>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Partidos e sistemas partidários 2008, 2009, 2011, 2012, 2014, 2015</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Luciana Fernandes Veiga</nome_participante>
+   <instituicao>UFPR</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria do Socorro Sousa Braga</nome_participante>
+   <instituicao>UFSCar</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Marcia Dias</nome_participante>
+   <instituicao>Unirio, Iuperj</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Oswaldo M. E. Amaral</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Partidos, Eleições e Problemas Institucionais 1978,1979,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989</nome_grupo>
+  <ano>1978</ano>
+  <ano>1979</ano>
+  <ano>1980</ano>
+  <ano>1981</ano>
+  <ano>1982</ano>
+  <ano>1983</ano>
+  <ano>1984</ano>
+  <ano>1985</ano>
+  <ano>1986</ano>
+  <ano>1987</ano>
+  <ano>1988</ano>
+  <ano>1989</ano>
+  <participante>
+   <nome_participante>Bolívar Lamounier</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Maria D’Alva Gil Kinzo</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Plínio Dentzien</nome_participante>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Patrimônio, Museus e Ciências Sociais 2008, 2009</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Myrian Sepulveda dos Santos</nome_participante>
+   <instituicao>UERJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Regina Maria do Rego Monteiro de Abreu</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Pensamento social latino-americano 2011, 2012</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <participante>
+   <nome_participante>Carlos Eduardo Martins</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Ricardo Benzaquen de Araújo</nome_participante>
+   <instituicao>IUPERJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Sedi Hirano</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Pensamento Social no Brasil 1983,1984,1985,1986,1987,1988,1989, 1991, 1992, 1994 ,1995, 1996, 1998,1999,  2000, 2002,2003, 2005, 2006, 2008, 2009, 2011, 2012, 2014, 2015</nome_grupo>
+  <ano>1983</ano>
+  <ano>1984</ano>
+  <ano>1985</ano>
+  <ano>1986</ano>
+  <ano>1987</ano>
+  <ano>1988</ano>
+  <ano>1989</ano>
+  <ano>1991</ano>
+  <ano>1992</ano>
+  <ano>1994</ano>
+  <ano>1995</ano>
+  <ano>1996</ano>
+  <ano>1998</ano>
+  <ano>1999</ano>
+  <ano>2000</ano>
+  <ano>2002</ano>
+  <ano>2003</ano>
+  <ano>2005</ano>
+  <ano>2006</ano>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>André Pereira Botelho</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Angela de Castro Gomes</nome_participante>
+   <instituicao>CPDOC/ FGV</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Angela Maria Alonso</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Antonio Herculano Lopes</nome_participante>
+   <instituicao>FCRB</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Fernanda Arêas Peixoto</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Gabriela Nunes Ferreira</nome_participante>
+   <instituicao>UNIFESP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Helena Bomeny</nome_participante>
+   <instituicao>FGV/RJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Heloisa Pontes</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Isabel Lustosa</nome_participante>
+   <instituicao>FCRB</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>José Reginaldo Gonçalves</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Lilia Katri Moritz Schwarcz</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Lúcia Lippi Oliveira</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Luiz Antonio Castro Santos</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Marcos Chor Maio</nome_participante>
+   <instituicao>Casa de Oswaldo Cruz</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria Arminda do Nascimento Arruda</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria Tereza Sadek</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Nísia Trindade Lima</nome_participante>
+   <instituicao>FIOCRUZ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Ricardo Benzaquen de Araújo</nome_participante>
+   <instituicao>IUPERJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Performance, drama e sociedade 2005, 2006</nome_grupo>
+  <ano>2005</ano>
+  <ano>2006</ano>
+  <participante>
+   <nome_participante>Esther Jean Matteson Langdon</nome_participante>
+   <instituicao>UFSC</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>John Dawsey</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Pessoa, Corpo e Doença 1994 ,1995, 1996</nome_grupo>
+  <ano>1994</ano>
+  <ano>1995</ano>
+  <ano>1996</ano>
+  <participante>
+   <nome_participante>Luiz Fernando Dias Duarte</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Sérgio Luís Carrara</nome_participante>
+   <instituicao>UERJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Pessoa, Corpo e Saúde 1998 ,1999, 2000</nome_grupo>
+  <ano>1998</ano>
+  <ano>1999</ano>
+  <ano>2000</ano>
+  <participante>
+   <nome_participante>Jane A. Russo</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Ondina Fachel Leal</nome_participante>
+   <instituicao>UFRGS</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Pessoa e Corpo: Novas Tecnologias Biológicas e Novas Configurações Ideológicas 2002,2003</nome_grupo>
+  <ano>2002</ano>
+  <ano>2003</ano>
+  <participante>
+   <nome_participante>Luiz Fernando Dias Duarte</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Jane Araujo Russo</nome_participante>
+   <instituicao>UERJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Pessoa, família e ethos religioso 2005, 2006</nome_grupo>
+  <ano>2005</ano>
+  <ano>2006</ano>
+  <participante>
+   <nome_participante>Carlos Alberto Steil</nome_participante>
+   <instituicao>UFRGS</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Luiz Fernando Dias Duarte</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Patricia Birman</nome_participante>
+   <instituicao>UERJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Poder político e controles democráticos 2005, 2006</nome_grupo>
+  <ano>2005</ano>
+  <ano>2006</ano>
+  <participante>
+   <nome_participante>Bruno Pinheiro Wanderley Reis</nome_participante>
+   <instituicao>UFMG</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Fernando Lattman-Weltman FGV/RJ)</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Fernando Luiz Abrucio</nome_participante>
+   <instituicao>FGV/SP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Política dos Direitos Humanos 2008, 2009</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Jaime Benvenuto Lima Junior</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Rossana Rocha Reis</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Política e Economia 1982,1983,1984,1985,1986,1987, 1989, 1998,1999,2000</nome_grupo>
+  <ano>1982</ano>
+  <ano>1983</ano>
+  <ano>1984</ano>
+  <ano>1985</ano>
+  <ano>1986</ano>
+  <ano>1987</ano>
+  <ano>1989</ano>
+  <ano>1998</ano>
+  <ano>1999</ano>
+  <ano>2000</ano>
+  <participante>
+   <nome_participante>Brasílio Sallum Junior</nome_participante>
+   <instituicao>FESP/SP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Eduardo Kugelmas</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>José Luiz Fiori</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Lourdes Sola</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Política Indigenista 1981,1982,1983,1984,1985, 1989, 1991, 1992 , 1994 ,1995, 1996</nome_grupo>
+  <ano>1981</ano>
+  <ano>1982</ano>
+  <ano>1983</ano>
+  <ano>1984</ano>
+  <ano>1985</ano>
+  <ano>1989</ano>
+  <ano>1991</ano>
+  <ano>1992</ano>
+  <ano>1994</ano>
+  <ano>1995</ano>
+  <ano>1996</ano>
+  <participante>
+   <nome_participante>Antonio Carlos de Souza Lima</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>João Pacheco de Oliveira</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Lígia T. Lopes Simonian</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Vanessa Lea</nome_participante>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Política Internacional 1988,1989,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000, 2011, 2012, 2014, 2015</nome_grupo>
+  <ano>1988</ano>
+  <ano>1989</ano>
+  <ano>1990</ano>
+  <ano>1991</ano>
+  <ano>1992</ano>
+  <ano>1993</ano>
+  <ano>1994</ano>
+  <ano>1995</ano>
+  <ano>1996</ano>
+  <ano>1997</ano>
+  <ano>1998</ano>
+  <ano>1999</ano>
+  <ano>2000</ano>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Janina Onuki</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Luis Manuel Rebelo Fernandes</nome_participante>
+   <instituicao>UFF</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Marcelo de Almeida Medeiros</nome_participante>
+   <instituicao>UFPE</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria Helena de Castro Santos</nome_participante>
+   <instituicao>UnB</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Políticas Públicas 1982,1983,1984,1985,1986,1987,1988,1989, 1991, 1992, 1994 ,1995, 1996, 2002, 2003, 2005, 2006, 2008,2009, 2011, 2012, 2014, 2015</nome_grupo>
+  <ano>1982</ano>
+  <ano>1983</ano>
+  <ano>1984</ano>
+  <ano>1985</ano>
+  <ano>1986</ano>
+  <ano>1987</ano>
+  <ano>1988</ano>
+  <ano>1989</ano>
+  <ano>1991</ano>
+  <ano>1992</ano>
+  <ano>1994</ano>
+  <ano>1995</ano>
+  <ano>1996</ano>
+  <ano>2002</ano>
+  <ano>2003</ano>
+  <ano>2005</ano>
+  <ano>2006</ano>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Antonio Augusto P. Prates</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Antônio Luiz Paixão</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Argelina Cheibub Figueiredo</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Carlos Aurélio Pimenta de Faria</nome_participante>
+   <instituicao>PUC/MG</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Celina Souza</nome_participante>
+   <instituicao>UFBA</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Eduardo Marques</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Gilberto Hochman</nome_participante>
+   <instituicao>FIOCRUZ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Lucia Klein</nome_participante>
+   <instituicao>FINEP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Marcus André B. C. de Melo</nome_participante>
+   <instituicao>UFPE</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria Helena Castro Santos</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Maria Lucia Oliveira</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Marta Arretche</nome_participante>
+   <instituicao>UNESP/UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria das Graças Rua</nome_participante>
+   <instituicao>UnB</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Renata Mirandola Bichir</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Sandra Cristina Gomes</nome_participante>
+   <instituicao>UFRN</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Sérgio de Azevedo</nome_participante>
+   <instituicao>UFMG</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Soraya Vargas Côrtes</nome_participante>
+   <instituicao>UFRGS</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Telma Maria Gonçalves Menicucci</nome_participante>
+   <instituicao>UFMG</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>População e Sociedade no Brasil 1987, 1989 , 1991</nome_grupo>
+  <ano>1987</ano>
+  <ano>1989</ano>
+  <ano>1991</ano>
+  <participante>
+   <nome_participante>Daniel Joseph Hogan</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Guaraci Adeodato Alves de Sousa</nome_participante>
+   <instituicao>UFB</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Neide Lopes Patarra</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Pós-Graduação 1978 e 1979</nome_grupo>
+  <ano>1978</ano>
+  <ano>1979</ano>
+ </grupo>
+ <grupo>
+  <nome_grupo>Processo de Trabalho e Reivindicações Sociais 1983,1984,1985,1986,1987,1988,1989, 1991 , 1992</nome_grupo>
+  <ano>1983</ano>
+  <ano>1984</ano>
+  <ano>1985</ano>
+  <ano>1986</ano>
+  <ano>1987</ano>
+  <ano>1988</ano>
+  <ano>1989</ano>
+  <ano>1991</ano>
+  <ano>1992</ano>
+  <participante>
+   <nome_participante>Alice Rangel de Paiva Abreu</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Amelia Cohn</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Antônio Sérgio Guimarães</nome_participante>
+   <instituicao>UFBA</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Bila Sorj</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Leda Gitahy</nome_participante>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Processos e Movimentos Sociais no Campo 1998,1999,2000</nome_grupo>
+  <ano>1998</ano>
+  <ano>1999</ano>
+  <ano>2000</ano>
+  <participante>
+   <nome_participante>Delma Pessanha Neves</nome_participante>
+   <instituicao>UFF</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Zander Navarro</nome_participante>
+   <instituicao>UFRGS</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Povos indígenas 2002, 2003</nome_grupo>
+  <ano>2002</ano>
+  <ano>2003</ano>
+  <participante>
+   <nome_participante>João Pacheco de Oliveira</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>John Manuel Monteiro</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Processos Sociais Agrários 1994 ,1995, 1996</nome_grupo>
+  <ano>1994</ano>
+  <ano>1995</ano>
+  <ano>1996</ano>
+  <participante>
+   <nome_participante>Josefa Salete Barbosa Cavalcanti</nome_participante>
+   <instituicao>UFPE</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>alternativas</nome_participante>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>de desenvolvimento 2014, 2015</nome_grupo>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Russell Parry Scott</nome_participante>
+   <instituicao>UFPE</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Stephen Grant Baines</nome_participante>
+   <instituicao>UnB</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Profissões, Estado e Mercado: Identidades, Saberes e Fronteiras Profissionais 2002, 2003</nome_grupo>
+  <ano>2002</ano>
+  <ano>2003</ano>
+  <participante>
+   <nome_participante>Luiz Antonio de Castro Santos</nome_participante>
+   <instituicao>UERJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria da Glória Bonelli</nome_participante>
+   <instituicao>UFSCAR</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria Ligia Barbosa</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Publicações 1978</nome_grupo>
+  <ano>1978</ano>
+ </grupo>
+ <grupo>
+  <nome_grupo>Relações de Gênero 1994 ,1995, 1996</nome_grupo>
+  <ano>1994</ano>
+  <ano>1995</ano>
+  <ano>1996</ano>
+  <participante>
+   <nome_participante>Albertina de Oliveira Costa</nome_participante>
+   <instituicao>Fundação Carlos Chagas</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Magda de Almeida Neves</nome_participante>
+   <instituicao>UFMG</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Paola Cappelin</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Suely Kofes</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Relações Internacionais e Política Externa 1980,1981,1982,1983,1984,1985,1986,1987,1988,1989, 1991 , 1992</nome_grupo>
+  <ano>1980</ano>
+  <ano>1981</ano>
+  <ano>1982</ano>
+  <ano>1983</ano>
+  <ano>1984</ano>
+  <ano>1985</ano>
+  <ano>1986</ano>
+  <ano>1987</ano>
+  <ano>1988</ano>
+  <ano>1989</ano>
+  <ano>1991</ano>
+  <ano>1992</ano>
+  <participante>
+   <nome_participante>Fernando Augusto Albuquerque Mourão</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Henrique Alterani de Oliveira</nome_participante>
+   <instituicao>UnB</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Gerson Moura</nome_participante>
+   <instituicao>CPDOC/FGV</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Letícia Pinheiro</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Luiz Gonzaga de Souza Lima</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Maria Regina Soares de Lima</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Shiguenoli Miyamoto</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Relações raciais: desigualdades, identidades e políticas públicas 2011, 2012, 2014, 2015</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Graziella Moraes Silva</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Jeronimo Oliveira Muniz</nome_participante>
+   <instituicao>UFMG</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>João Feres Júnio</nome_participante>
+   <instituicao>IESP/UERJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Valter Roberto Silvério</nome_participante>
+   <instituicao>UFSCAR</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Relações raciais e ações afirmativas 2008, 2009</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Angela Figueiredo</nome_participante>
+   <instituicao>UFBA</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Teresinha Bernardo</nome_participante>
+   <instituicao>PUC/SP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Relações Raciais e Etnicidade 1994 ,1995, 1996, 1998,1999,2000, 2002, 2003, 2005, 2006</nome_grupo>
+  <ano>1994</ano>
+  <ano>1995</ano>
+  <ano>1996</ano>
+  <ano>1998</ano>
+  <ano>1999</ano>
+  <ano>2000</ano>
+  <ano>2002</ano>
+  <ano>2003</ano>
+  <ano>2005</ano>
+  <ano>2006</ano>
+  <participante>
+   <nome_participante>Angela Figueiredo</nome_participante>
+   <instituicao>UFBA</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Carlos A. Hasenbalg</nome_participante>
+   <instituicao>IUPERJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Giralda Seyferth</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Livio Sansone</nome_participante>
+   <instituicao>UERJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Márcia Lima</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Olívia Maria Gomes da Cunha</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Osmundo Pinho</nome_participante>
+   <instituicao>UCAM</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Relações Sociais de Gênero 1991 e 1992</nome_grupo>
+  <ano>1991</ano>
+  <ano>1992</ano>
+  <participante>
+   <nome_participante>Céli Regina Pinto</nome_participante>
+   <instituicao>UFRGS</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Mary Garcia Castro</nome_participante>
+   <instituicao>UFBA</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Religião e Sociedade 1980,1981,1982,1983,1984,1985,1986,1987,1988,1989, 1991, 1992 , 1994 ,1995, 1996, 1998,1999,2000, 2002, 2003,2008, 2009</nome_grupo>
+  <ano>1980</ano>
+  <ano>1981</ano>
+  <ano>1982</ano>
+  <ano>1983</ano>
+  <ano>1984</ano>
+  <ano>1985</ano>
+  <ano>1986</ano>
+  <ano>1987</ano>
+  <ano>1988</ano>
+  <ano>1989</ano>
+  <ano>1991</ano>
+  <ano>1992</ano>
+  <ano>1994</ano>
+  <ano>1995</ano>
+  <ano>1996</ano>
+  <ano>1998</ano>
+  <ano>1999</ano>
+  <ano>2000</ano>
+  <ano>2002</ano>
+  <ano>2003</ano>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Ari Pedro Oro</nome_participante>
+   <instituicao>UFRGS</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Cecília L. Mariz</nome_participante>
+   <instituicao>UERJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Lísias Nogueira Negrão</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Joanildo Burity</nome_participante>
+   <instituicao>FUNDAJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria das Dores Campos Machado</nome_participante>
+   <instituicao>UFRRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria Helena Villas Boas Concone</nome_participante>
+   <instituicao>PUC/SP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>República e Cidadania: Teorias e Debates Contemporâneos 2002, 2003</nome_grupo>
+  <ano>2002</ano>
+  <ano>2003</ano>
+  <participante>
+   <nome_participante>Cícero Araújo</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>José Eisenberg</nome_participante>
+   <instituicao>IUPERJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Rituais, Representações e Narrativas Políticas 2002, 2003</nome_grupo>
+  <ano>2002</ano>
+  <ano>2003</ano>
+  <participante>
+   <nome_participante>Beatriz Maria Alasia Heredia</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Carla Teixeira</nome_participante>
+   <instituicao>UnB</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Irlys Barreira</nome_participante>
+   <instituicao>UFC</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Rituais, Representações e Violência na Política 1998 ,1999, 2000</nome_grupo>
+  <ano>1998</ano>
+  <ano>1999</ano>
+  <ano>2000</ano>
+  <participante>
+   <nome_participante>César Barreira</nome_participante>
+   <instituicao>UFC</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>José Sérgio Leite Lopes</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Ruralidade contemporânea: desafios e perspectivas 2005, 2006</nome_grupo>
+  <ano>2005</ano>
+  <ano>2006</ano>
+  <participante>
+   <nome_participante>Sergio Schneider</nome_participante>
+   <instituicao>UFRGS</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria José Teixeira Carneiro</nome_participante>
+   <instituicao>UFRRJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Ruralidade, território e meio-ambiente 2008, 2009</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Ana Lúcia Eduardo Farah Valente</nome_participante>
+   <instituicao>UnB</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Arilson da Silva Favareto</nome_participante>
+   <instituicao>UFABC</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Saúde, emoção e moral 2011, 2012</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <participante>
+   <nome_participante>Cynthia Andersen Sarti</nome_participante>
+   <instituicao>UNIFESP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria Claudia Pereira Coelho</nome_participante>
+   <instituicao>UERJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Segurança, Economia e Política Internacional no Século XXI - Perspectivas Internacionais,</nome_participante>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Perspectivas Brasileiras 2002, 2003</nome_grupo>
+  <ano>2002</ano>
+  <ano>2003</ano>
+  <participante>
+   <nome_participante>Antonio Jorge Ramalho da Rocha</nome_participante>
+   <instituicao>UnB</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Nizar Messari</nome_participante>
+   <instituicao>PUC/RJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Sexualidade, corpo e gênero 2005, 2006, 2008, 2009</nome_grupo>
+  <ano>2005</ano>
+  <ano>2006</ano>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Adriana Resende Barreto Vianna</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Julio Assis Simões</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria Filomena Gregori</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Sergio Carrara</nome_participante>
+   <instituicao>UERJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Sexualidade e gênero: sujeitos, práticas e regulações 2014, 2015</nome_grupo>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Julio Assis Simões</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>María Elvira Díaz-Benítez</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Sexualidade e gênero: sociabilidade, erotismo e política 2011, 2012</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <participante>
+   <nome_participante>Regina Facchini</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Sérgio Carrara</nome_participante>
+   <instituicao>UERJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Sindicalismo e Política 1998 a 2000</nome_grupo>
+  <ano>1998</ano>
+  <ano>2000</ano>
+  <participante>
+   <nome_participante>Iram Jácome Rodrigues</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Sobre periferias: novos conflitos no espaço público 2011, 2012, 2014, 2015</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Carly Barboza Machado</nome_participante>
+   <instituicao>UFRRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Cibele Saliba Rizek</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Gabriel de Santis Feltran</nome_participante>
+   <instituicao>UFSCAR</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Neiva Vieira da Cunha</nome_participante>
+   <instituicao>UERJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Patricia Birman</nome_participante>
+   <instituicao>UERJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Sociedade e Vida Econômica 2014, 2015</nome_grupo>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Marcelo Sampaio Carneiro</nome_participante>
+   <instituicao>UFMA</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Sandro Ruduit Garcia</nome_participante>
+   <instituicao>UFRGS</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Redes Sociais, Fundamentos da Sociabilidade e</nome_participante>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Transformações dos Processos Políticos 2002, 2003</nome_grupo>
+  <ano>2002</ano>
+  <ano>2003</ano>
+  <participante>
+   <nome_participante>Francisco Coelho dos Santos</nome_participante>
+   <instituicao>UFMG</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Theophilos Rifiotis</nome_participante>
+   <instituicao>UFSC</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Tom Dwyer</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Sociologia da Adolescência e da Juventude 2014, 2015</nome_grupo>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Maria Helena Oliva Augusto</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Melissa de Mattos Pimenta</nome_participante>
+   <instituicao>UFRGS</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Sociologia da Cultura Brasileira 1979,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989, 1991, 1992, 1994 ,1995, 1996</nome_grupo>
+  <ano>1979</ano>
+  <ano>1980</ano>
+  <ano>1981</ano>
+  <ano>1982</ano>
+  <ano>1983</ano>
+  <ano>1984</ano>
+  <ano>1985</ano>
+  <ano>1986</ano>
+  <ano>1987</ano>
+  <ano>1988</ano>
+  <ano>1989</ano>
+  <ano>1991</ano>
+  <ano>1992</ano>
+  <ano>1994</ano>
+  <ano>1995</ano>
+  <ano>1996</ano>
+  <participante>
+   <nome_participante>Maria Isaura Pereira de Queiroz</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Olga Rodrigues de Moraes Von Simson</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Paula Montero</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Ruben George Oliven</nome_participante>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Sociologia e antropologia da moral 2011, 2012, 2014, 2015</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Alexandre Vieira Werneck</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Luis Roberto Cardodo de Oliveira</nome_participante>
+   <instituicao>UnB</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Patrice Schuch</nome_participante>
+   <instituicao>UFRGS</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Sociologia Econômica 2005, 2006</nome_grupo>
+  <ano>2005</ano>
+  <ano>2006</ano>
+  <participante>
+   <nome_participante>Cécile Raud Mattedi</nome_participante>
+   <instituicao>UFSC</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Ricardo Abramovay</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Roberto Grün</nome_participante>
+   <instituicao>UFSCAR</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Sociologia e Direito: explorando as intersecções 2008, 2009</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Marcelo Pereira de Mello</nome_participante>
+   <instituicao>UFF</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Mário Hélio Trindade de Lima</nome_participante>
+   <instituicao>UFES</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Marcelo da Costa Pinto Neves</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Subjetividade e emoções 2008, 2009</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Maria Claudia Pereira Coelho</nome_participante>
+   <instituicao>UERJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Octavio Bonet</nome_participante>
+   <instituicao>UFJF</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Tecnologias de informação e comunicação: controle e descontrole 2005, 2006</nome_grupo>
+  <ano>2005</ano>
+  <ano>2006</ano>
+  <participante>
+   <nome_participante>Jonatas Ferreira</nome_participante>
+   <instituicao>UFPE</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Maria Lúcia Maciel</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Tamara Benakouche</nome_participante>
+   <instituicao>UFSC</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Temas e Problemas da População Negra no Brasil 1980,1981,1982,1983,1984,1985,1986,1987,1988,1989, 1991, 1992</nome_grupo>
+  <ano>1980</ano>
+  <ano>1981</ano>
+  <ano>1982</ano>
+  <ano>1983</ano>
+  <ano>1984</ano>
+  <ano>1985</ano>
+  <ano>1986</ano>
+  <ano>1987</ano>
+  <ano>1988</ano>
+  <ano>1989</ano>
+  <ano>1991</ano>
+  <ano>1992</ano>
+  <participante>
+   <nome_participante>Caetana Maria Damasceno</nome_participante>
+   <instituicao>ISER</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Ieda Brito</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Irene Maria F. Barbosa</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Kabengele Munanga</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>João Baptista Borges Pereira</nome_participante>
+  </participante>
+  <participante>
+   <nome_participante>Maria Angélica Maués</nome_participante>
+   <instituicao>NAEA</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Teófilo de Queiroz Junior</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Teoria e prática das relações Sul-Sul 2014, 2015</nome_grupo>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Javier Alberto Vadell</nome_participante>
+   <instituicao>PUC Minas</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Marcos Costa Lima</nome_participante>
+   <instituicao>UFPE</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Teoria política e pensamento político brasileiro: normatividade e história 2011, 2012, 2014,2015</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Christian Edward Cyril Lynch</nome_participante>
+   <instituicao>UFF</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Cícero Araújo</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Ricardo Silva</nome_participante>
+   <instituicao>UFSC</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Teoria Política e História das Ideias 1994 ,1995, 1996</nome_grupo>
+  <ano>1994</ano>
+  <ano>1995</ano>
+  <ano>1996</ano>
+  <participante>
+   <nome_participante>Gildo Marçal Brandão</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Walquíria D. Leão Rego</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Teoria Política: para além da democracia liberal? 2008, 2009</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Álvaro de Vita</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Bernardo Ferreira</nome_participante>
+   <instituicao>UERJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Teoria Social 1998 ,1999, 2000</nome_grupo>
+  <ano>1998</ano>
+  <ano>1999</ano>
+  <ano>2000</ano>
+  <participante>
+   <nome_participante>José Maurício Domingues</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Leonardo Avritzer</nome_participante>
+   <instituicao>UFMG</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Teoria Social e a multiplicidade da modernidade 2005, 2006</nome_grupo>
+  <ano>2005</ano>
+  <ano>2006</ano>
+  <participante>
+   <nome_participante>Josué Pereira da Silva</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Sérgio Costa</nome_participante>
+   <instituicao>FU/ Berlin</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Teoria Social e Transformações Contemporâneas 2002, 2003</nome_grupo>
+  <ano>2002</ano>
+  <ano>2003</ano>
+  <participante>
+   <nome_participante>Josué Pereira da Silva</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Sérgio Costa</nome_participante>
+   <instituicao>UFSC</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Teoria social no limite: novas frentes/ fronteiras na teoria social contemporânea 2014,</nome_grupo>
+  <ano>2014</ano>
+ </grupo>
+ <grupo>
+  <nome_grupo>2015</nome_grupo>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Carlos Eduardo Sell</nome_participante>
+   <instituicao>UFSC</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Emil A. Sobottka</nome_participante>
+   <instituicao>PUCRS</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Trabalhadores, Sindicalismo e Política 1994 ,1995, 1996</nome_grupo>
+  <ano>1994</ano>
+  <ano>1995</ano>
+  <ano>1996</ano>
+  <participante>
+   <nome_participante>Regina Lúcia M. Morel</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Trabalhadores, Sindicatos e a Nova Questão Social 2002, 2003</nome_grupo>
+  <ano>2002</ano>
+  <ano>2003</ano>
+  <participante>
+   <nome_participante>José Ricardo Ramalho</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Marco Aurélio Santana</nome_participante>
+   <instituicao>UNIRIO</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Regina Morel</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Trabalho, ação coletiva e identidades sociais 2011, 2012</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <participante>
+   <nome_participante>Cinara Lerrer Rosenfield</nome_participante>
+   <instituicao>UFRGS</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Marco Aurélio Santana</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Trabalho e ação sindical na sociedade contemporânea 2014, 2015</nome_grupo>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Marco Aurélio Santana</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Roberto Véras de Oliveira</nome_participante>
+   <instituicao>UFPB</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Trabalho e sindicato na sociedade contemporânea 2005, 2006, 2008, 2009</nome_grupo>
+  <ano>2005</ano>
+  <ano>2006</ano>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Angela Maria Carneiro de Araújo</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Iram Jácome Rodrigues</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Jacob Carlos Lima</nome_participante>
+   <instituicao>UFSCAR</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Trabalho e Sociedade 1994 ,1995, 1996, 1998 ,1999, 2000</nome_grupo>
+  <ano>1994</ano>
+  <ano>1995</ano>
+  <ano>1996</ano>
+  <ano>1998</ano>
+  <ano>1999</ano>
+  <ano>2000</ano>
+  <participante>
+   <nome_participante>Nadya Araújo Castro</nome_participante>
+   <instituicao>CEBRAP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Tom Dwyer</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>reflexões a partir do rural</nome_participante>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>2008, 2009</nome_grupo>
+  <ano>2008</ano>
+  <ano>2009</ano>
+  <participante>
+   <nome_participante>Delma Pessanha Neves</nome_participante>
+   <instituicao>UFF</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Leonilde Servolo de Medeiros</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Universidade, ciência, inovação e sociedade 2011, 2012</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <participante>
+   <nome_participante>Elizabeth Balbachevsky</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Sônia Guimarães</nome_participante>
+   <instituicao>UFRGS</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Usos da Imagem 1994 ,1995, 1996</nome_grupo>
+  <ano>1994</ano>
+  <ano>1995</ano>
+  <ano>1996</ano>
+  <participante>
+   <nome_participante>Ana Maria Galano</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Bela Feldman-Bianco</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Violência, conflito e práticas culturais 2005, 2006</nome_grupo>
+  <ano>2005</ano>
+  <ano>2006</ano>
+  <participante>
+   <nome_participante>Beatriz Maria Alásia de Heredia</nome_participante>
+   <instituicao>UFRJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>César Barreira</nome_participante>
+   <instituicao>UFC</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>José Vicente Tavares dos Santos</nome_participante>
+   <instituicao>UFRGS</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Violência, criminalidade e punição no Brasil 2011, 2012, 2014, 2015</nome_grupo>
+  <ano>2011</ano>
+  <ano>2012</ano>
+  <ano>2014</ano>
+  <ano>2015</ano>
+  <participante>
+   <nome_participante>Carlos Henrique Aguiar Serra</nome_participante>
+   <instituicao>UFF</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Luís Antônio Francisco de Souza</nome_participante>
+   <instituicao>UNESP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Marcos César Alvarez</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Violência, Justiça e Direitos 1998 ,1999,2000</nome_grupo>
+  <ano>1998</ano>
+  <ano>1999</ano>
+  <ano>2000</ano>
+  <participante>
+   <nome_participante>Alba Zaluar</nome_participante>
+   <instituicao>UERJ</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Cláudio Beato</nome_participante>
+   <instituicao>UFMG</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>José Vicente Tavares dos Santos</nome_participante>
+   <instituicao>UFRGS</instituicao>
+  </participante>
+ </grupo>
+ <grupo>
+  <nome_grupo>Violência, Sociedade e Cultura 2002, 2003</nome_grupo>
+  <ano>2002</ano>
+  <ano>2003</ano>
+  <participante>
+   <nome_participante>Maria Filomena Gregori</nome_participante>
+   <instituicao>UNICAMP</instituicao>
+  </participante>
+  <participante>
+   <nome_participante>Sérgio Adorno</nome_participante>
+   <instituicao>USP</instituicao>
+  </participante>
+ </grupo>
+</grupos>

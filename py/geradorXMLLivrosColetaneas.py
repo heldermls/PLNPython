@@ -36,7 +36,6 @@ for matchNum, match in enumerate(matches):
         if groupNum == 3:
             nomeobra = et.SubElement(obra, "nomeobra")
             nomeobra.text = match.group(groupNum).strip()
-
         if groupNum == 4:
             if match.group(groupNum) != " ":
                 editora = et.SubElement(obra, "editora")
@@ -47,7 +46,6 @@ for matchNum, match in enumerate(matches):
                 ano.text = match.group(groupNum)
 f.close()
 formatedXML = minidom.parseString(et.tostring(root)).toprettyxml(indent=" ").strip()
-
 with io.open("../xml/LivrosColetaneas.xml", "w+", encoding="utf-8") as f:
     f.write(formatedXML)
 
